@@ -1,0 +1,25 @@
+{
+  "bittensor_id": "beta",
+  "name": "Omron",
+  "github": ["https://github.com/inference-labs-inc/omron-subnet"],
+  "hw_requirements": "https://github.com/inference-labs-inc/omron-subnet?tab=readme-ov-file#run-the-miner",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": 1220504695404236800,
+  "team": "Inference Labs",
+  "summary": "Omron subnet, building cryptographically verified efficient and intelligent capital networks.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/omron_ai"
+    },
+    {
+      "label": "website",
+      "url": "https://omron.ai/"
+    },
+    {
+      "label": "whitepaper",
+      "url": "https://docs.omron.ai/"
+    }
+  ]
+}

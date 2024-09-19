@@ -1,0 +1,21 @@
+{
+  "bittensor_id": "graphite",
+  "name": "Graphite",
+  "github": ["https://github.com/GraphiteAI/Graphite-Subnet"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "Graphite focuses on graph problems, which involve optimizing algorithms to solve computational challenges, such as finding the shortest path, optimizing network flow, or determining optimal arrangements.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/GraphiteSubnet"
+    },
+    {
+      "label": "website",
+      "url": "https://graphite-ai.net/"
+    }
+  ]
+}

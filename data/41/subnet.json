@@ -1,0 +1,25 @@
+{
+  "bittensor_id": "sportstensor",
+  "name": "Sportstensor",
+  "github": ["https://github.com/xzistance/sportstensor"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "Sports Tensor",
+  "summary": "Sportstensor is focused on sports prediction, incentivizing contributors to train and develop accurate sports prediction models.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/sportstensor"
+    },
+    {
+      "label": "website",
+      "url": "https://www.sportstensor.com/"
+    },
+    {
+      "label": "blog",
+      "url": "https://medium.com/@sportstensor"
+    }
+  ]
+}

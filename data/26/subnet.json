@@ -1,0 +1,25 @@
+{
+  "bittensor_id": "tensor_alchemy",
+  "name": "Tensor Alchemy",
+  "github": ["https://github.com/TensorAlchemy/TensorAlchemy"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "Tensor Alchemy",
+  "summary": "TensorAlchemy specializes in image generation, incorporating a human scoring element where contributors provide feedback to refine and optimize AI outputs.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/TensorAlchemy"
+    },
+    {
+      "label": "website",
+      "url": "https://tensoralchemy.ai/"
+    },
+    {
+      "label": "application",
+      "url": "https://tensoralchemy.ai/"
+    }
+  ]
+}

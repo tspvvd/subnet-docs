@@ -1,0 +1,21 @@
+{
+  "bittensor_id": "epsilon",
+  "name": "Open Kaito",
+  "github": ["https://github.com/OpenKaito/openkaito"],
+  "hw_requirements": "https://github.com/OpenKaito/openkaito/blob/main/min_compute.yml",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": 1214225551364202496,
+  "team": "Kaito AI",
+  "summary": "Kaito AI is committed to democratizing access to Web3 information through its established platform. However, the in-house approach to data collection, indexing, AI training, and ranking imposes operational burdens and stifles broader public innovation.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/_kaitoai"
+    },
+    {
+      "label": "application",
+      "url": "https://portal.kaito.ai/events/ETHDenver2024"
+    }
+  ]
+}

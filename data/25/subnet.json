@@ -1,0 +1,21 @@
+{
+  "bittensor_id": "protein_folding",
+  "name": "Protein Folding",
+  "github": ["https://github.com/macrocosm-os/folding"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "",
+  "bittensor_discord_id": "",
+  "team": "Macrocosmos",
+  "summary": "Protein Folding focuses on molecular dynamics simulations. Contributors are incentivized to develop performant protein-folding models that drive down the cost of querying.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/MacrocosmosAI"
+    },
+    {
+      "label": "website",
+      "url": "https://www.macrocosmos.ai/sn25"
+    }
+  ]
+}

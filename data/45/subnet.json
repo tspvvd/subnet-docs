@@ -1,0 +1,25 @@
+{
+  "bittensor_id": "gen42",
+  "name": "Gen42",
+  "github": ["https://github.com/brokespace/code"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "GEN42 is an AI coding assistant for intelligence code generation, completion, and interactive Q&A. Contributors are incentivized to create tools that streamline the coding workflow, allowing developers to concentrate on creativity and problem-solving.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/Gen42AI"
+    },
+    {
+      "label": "website",
+      "url": "https://www.gen42.ai/en"
+    },
+    {
+      "label": "application",
+      "url": "https://chat.gen42.ai/login"
+    }
+  ]
+}

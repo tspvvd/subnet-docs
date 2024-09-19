@@ -1,0 +1,25 @@
+{
+  "bittensor_id": "",
+  "name": "NextPlace",
+  "github": ["https://github.com/Nickel5-Inc/Nextplace"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": 0,
+  "team": "Nextplace.ai",
+  "summary": "Leveraging the power of AI harnessed by the Bittensor framework, NextPlace is building the next best Real Estate market negotiator. Discover what your home is likely to sell for, identify housing trends in real estate markets across the United States, earn Tao by unleashing your own AI models in the subnet, and so much more.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://nextplace.ai"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/NextPlace_AI"
+    },
+    {
+      "label": "Market Analysis",
+      "url": "https://nextplace.ai/map"
+    }
+  ]
+}

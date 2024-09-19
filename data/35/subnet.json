@@ -1,0 +1,25 @@
+{
+  "bittensor_id": "logicnet",
+  "name": "LogicNet",
+  "github": ["https://github.com/LogicNet-Subnet/LogicNet"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "Logic Net",
+  "summary": "LogicNet focuses on developing open-source mathematics and detailed data analysis models.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://tonylvh.notion.site/LogicNet_SN35-1b44e52d308f47e7983af25bff6df90e"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://logicnet.streamlit.app/"
+    },
+    {
+      "label": "application",
+      "url": "https://tonylvh.notion.site/LogicNet_SN35-1b44e52d308f47e7983af25bff6df90e"
+    }
+  ]
+}

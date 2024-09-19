@@ -1,0 +1,25 @@
+{
+  "bittensor_id": "dataverse",
+  "name": "Dataverse",
+  "github": ["https://github.com/macrocosm-os/data-universe/"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "Dataverse is focused on distributed data scraping to create datasets for training and other applications. It directs contributors to specific data sources for scraping and incentivizes them to store the data, ensuring easy retrieval and accessibility.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/MacrocosmosAI"
+    },
+    {
+      "label": "website",
+      "url": "https://www.macrocosmos.ai/sn13"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://app.databox.com/datawall/7db4e4fe086a0c224f988d3b7e7dc402345c20466571a84?itemId=1456301"
+    }
+  ]
+}

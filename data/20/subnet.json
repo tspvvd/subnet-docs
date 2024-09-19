@@ -1,0 +1,21 @@
+{
+  "bittensor_id": "bitagent",
+  "name": "BitAgent",
+  "github": ["https://github.com/RogueTensor/bitagent_subnet"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "Rogue Tensor",
+  "summary": "BitAgent incentivizes the development and hosting of AI models that handle daily tasks, providing personalized assistance and automating workflows to enhance productivity.",
+  "websites": [
+    {
+      "label": "application",
+      "url": "https://gogoagent.ai/"
+    },
+    {
+      "label": "whitepaper",
+      "url": "https://docs.google.com/document/d/1QVCzDu0eMmkdglD65F_Q_UjnCJauVEr62WgG8SgACt0/edit#heading=h.ck7e3z2g8pmt"
+    }
+  ]
+}

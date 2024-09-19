@@ -1,0 +1,1386 @@
+[
+    {
+        "bittensor_id": "NA",
+        "name": "Root",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 0,
+        "team": "",
+        "summary": "The root network is a meta subnet with id 0. This network determines the proportion of the network's block emission to be distributed to each subnet network. This is currently set to 1 TAO for every block mined.  Like other subnetworks, the root network consists of a set of validators that set weights (W). These weights are then processed by Yuma Consensus to determine an emission vector (E). The difference is that the vector E has a length equal to the number of active subnetworks currently running on the chain and each e_i in E is the emission proportion that subnet i receives every block. The root network also doubles as the network senate. This senate is the top 12 keys on this network which have been granted veto power on proposals submitted by the triumvirate.",
+        "websites": [],
+        "subnet_id": 0
+    },
+    {
+        "bittensor_id": "alpha",
+        "name": "Text Prompting",
+        "github": [
+            "https://github.com/macrocosm-os/prompting"
+        ],
+        "hw_requirements": "https://github.com/macrocosm-os/prompting/blob/main/min_compute.yml",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": 1161764867166961704,
+        "team": "Macrocosmos",
+        "summary": "This Subnet defines an incentive mechanism to create a distributed conversational AI.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/MacrocosmosAI"
+            },
+            {
+                "label": "website",
+                "url": "https://www.macrocosmos.ai/sn1"
+            }
+        ],
+        "subnet_id": 1
+    },
+    {
+        "bittensor_id": "beta",
+        "name": "Omron",
+        "github": [
+            "https://github.com/inference-labs-inc/omron-subnet"
+        ],
+        "hw_requirements": "https://github.com/inference-labs-inc/omron-subnet?tab=readme-ov-file#run-the-miner",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": 1220504695404236800,
+        "team": "Inference Labs",
+        "summary": "Omron subnet, building cryptographically verified efficient and intelligent capital networks.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/omron_ai"
+            },
+            {
+                "label": "website",
+                "url": "https://omron.ai/"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://docs.omron.ai/"
+            }
+        ],
+        "subnet_id": 2
+    },
+    {
+        "bittensor_id": "gamma",
+        "name": "MyShell TTS",
+        "github": [
+            "https://github.com/myshell-ai/MyShell-TTS-Subnet"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": 1222226314824777853,
+        "team": "MyShell",
+        "summary": "Text-to-Speech (TTS) models serve as the backbone for a wide range of applications, from virtual assistants to audiobooks. MyShell pioneers this field by open-sourcing the best TTS models, OpenVoice and MeloTTS. We believe that open-source TTS models are essential for the future of AI and are committed to building a decentralized ecosystem to support their development. Yet, the TTS landscape is still in its infancy. In this subnet, we aim to gather the wisdom of the whole open-source community to create the best open-source TTS models.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/myshell_ai"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://huggingface.co/spaces/myshell-test/tts-subnet-leaderboard"
+            },
+            {
+                "label": "application",
+                "url": "https://app.myshell.ai/robot-workshop/widget/1788537048029802496"
+            }
+        ],
+        "subnet_id": 3
+    },
+    {
+        "bittensor_id": "delta",
+        "name": "Targon",
+        "github": [
+            "https://github.com/manifold-inc/targon"
+        ],
+        "hw_requirements": "https://github.com/manifold-inc/targon#compute-requirements",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": 1161765008347254915,
+        "team": "Manifold Labs",
+        "summary": "TARGON (Bittensor Subnet 4) is a redundant deterministic verification mechanism that can be used to interpret and analyze ground truth sources and a query.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/manifoldlabs"
+            },
+            {
+                "label": "website",
+                "url": "https://www.manifold.inc/"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://stats.sybil.com/"
+            },
+            {
+                "label": "application",
+                "url": "https://targon.sybil.com/"
+            }
+        ],
+        "subnet_id": 4
+    },
+    {
+        "bittensor_id": "epsilon",
+        "name": "Open Kaito",
+        "github": [
+            "https://github.com/OpenKaito/openkaito"
+        ],
+        "hw_requirements": "https://github.com/OpenKaito/openkaito/blob/main/min_compute.yml",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": 1214225551364202496,
+        "team": "Kaito AI",
+        "summary": "Kaito AI is committed to democratizing access to Web3 information through its established platform. However, the in-house approach to data collection, indexing, AI training, and ranking imposes operational burdens and stifles broader public innovation.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/_kaitoai"
+            },
+            {
+                "label": "application",
+                "url": "https://portal.kaito.ai/events/ETHDenver2024"
+            }
+        ],
+        "subnet_id": 5
+    },
+    {
+        "bittensor_id": "infinite_games",
+        "name": "Infinite Games",
+        "github": [
+            "https://github.com/amedeo-gigaver/infinite_games/tree/main"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "Infinite Games incentivizes the prediction of future events by rewarding contributors based on the accuracy and speed of their model's forecasts. The subnet currently focuses on binary future events listed on Polymarket and Azuro.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/Playinfgames"
+            },
+            {
+                "label": "website",
+                "url": "https://www.infinitegam.es/"
+            }
+        ],
+        "subnet_id": 6
+    },
+    {
+        "bittensor_id": "subvortex",
+        "name": "SubVortex",
+        "github": [
+            "https://github.com/eclipsevortex/SubVortex"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "SubVortex is focused on incentivizing contributors to run Subtensor (Bittensor's blockchain) nodes.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/SubVortexTao"
+            },
+            {
+                "label": "website",
+                "url": "https://www.subvortex.com/"
+            }
+        ],
+        "subnet_id": 7
+    },
+    {
+        "bittensor_id": "proprietary_trading_network",
+        "name": "Proprietary Trading Network",
+        "github": [
+            "https://github.com/taoshidev/proprietary-trading-network"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "The Proprietary Trading Network incentivizes the contribution of profitable trading strategies across various financial markets. Contributors who provide the best trading signals receive the highest rewards, attracting skilled traders, data scientists, and machine learning teams to compete.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/taoshiio"
+            },
+            {
+                "label": "website",
+                "url": "https://www.taoshi.io/"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://dashboard.taoshi.io/"
+            }
+        ],
+        "subnet_id": 8
+    },
+    {
+        "bittensor_id": "pre_training_llms",
+        "name": "Pre-training LLMs",
+        "github": [
+            "https://github.com/macrocosm-os/pretraining"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "Macrocosmos",
+        "summary": "Pre-Training is dedicated to the creation of SOTA pretrained foundation models, rewarding contributors for achieving top performance on selected open datasets. Functioning as a continuous benchmark, the models that excel in head-to-head loss comparisons on evaluation data receive the highest rewards. The subnet has successfully developed models with 700 million and 7 billion parameters that outperform industry-leading counterparts like GPT-2 Large and Falcon-7B.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/MacrocosmosAI"
+            },
+            {
+                "label": "website",
+                "url": "https://www.macrocosmos.ai/sn9"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://www.macrocosmos.ai/sn9/dashboard"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://www.macrocosmos.ai/research/pretraining_whitepaper.pdf"
+            },
+            {
+                "label": "substack",
+                "url": "https://macrocosmosai.substack.com/t/pre-training"
+            }
+        ],
+        "subnet_id": 9
+    },
+    {
+        "bittensor_id": "sturdy",
+        "name": "Sturdy",
+        "github": [
+            "https://github.com/Sturdy-Subnet/sturdy-subnet"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "Sturdy is focused on the creation of autonomous DeFi yield optimizers. Contributors develop algorithms to allocate assets among a fixed set of strategies or 'pools' with varying interest rates to maximize yield.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/SturdyFinance"
+            },
+            {
+                "label": "website",
+                "url": "https://www.sturdysubnet.org/"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://www.sturdysubnet.org/dashboard"
+            }
+        ],
+        "subnet_id": 10
+    },
+    {
+        "bittensor_id": "lambda",
+        "name": "Dippy Roleplay",
+        "github": [
+            "https://github.com/impel-intelligence/dippy-bittensor-subnet"
+        ],
+        "hw_requirements": "https://github.com/impel-intelligence/dippy-bittensor-subnet/blob/main/min_compute.yml",
+        "image_url": "https://github.com/impel-intelligence/dippy-bittensor-subnet/raw/main/assests/banner.png",
+        "description": "description.html",
+        "bittensor_discord_id": 1232378968187867147,
+        "team": "Impel",
+        "summary": "The Dippy Roleplay subnet on Bittensor aims to create the world's best open-source roleplay LLM by leveraging the collective efforts of the open-source community.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/dippy_ai"
+            },
+            {
+                "label": "application",
+                "url": "https://bittensor.dippy.ai/play"
+            }
+        ],
+        "subnet_id": 11
+    },
+    {
+        "bittensor_id": "horde",
+        "name": "Horde",
+        "github": [
+            "https://github.com/backend-developers-ltd/ComputeHorde"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "Horde is a cloud platform dedicated to networkless GPU-equipped servers. It implements hardware classes to establish a free market that optimizes for cost-effectiveness over merely the strongest hardware.",
+        "websites": [
+            {
+                "label": "dashboard",
+                "url": "https://grafana.bactensor.io/d/b2d70a9d-e838-402c-8e2a-5476fac8de1c/sn12-compute-power?orgId=1&from=now-2d&to=now"
+            },
+            {
+                "label": "application",
+                "url": "https://facilitator.computehorde.io/accounts/login/?next=/"
+            }
+        ],
+        "subnet_id": 12
+    },
+    {
+        "bittensor_id": "dataverse",
+        "name": "Dataverse",
+        "github": [
+            "https://github.com/macrocosm-os/data-universe/"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "Dataverse is focused on distributed data scraping to create datasets for training and other applications. It directs contributors to specific data sources for scraping and incentivizes them to store the data, ensuring easy retrieval and accessibility.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/MacrocosmosAI"
+            },
+            {
+                "label": "website",
+                "url": "https://www.macrocosmos.ai/sn13"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://app.databox.com/datawall/7db4e4fe086a0c224f988d3b7e7dc402345c20466571a84?itemId=1456301"
+            }
+        ],
+        "subnet_id": 13
+    },
+    {
+        "bittensor_id": "palaidn",
+        "name": "Palaidn",
+        "github": [
+            "https://github.com/palaidn/palaidn_subnet"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "Palaidn incentivizes contributors to develop AI models that detect malicious transactions and vulnerabilities in onchain networks.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/Palaidn"
+            },
+            {
+                "label": "website",
+                "url": "https://palaidn.com/"
+            }
+        ],
+        "subnet_id": 14
+    },
+    {
+        "bittensor_id": "omicron",
+        "name": "De-Val",
+        "github": [
+            "https://github.com/deval-core/De-Val"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": 1272557411948957697,
+        "team": "De-Val",
+        "summary": "de_val sets the new benchmark for AI excellence, offering a decentralized evaluation platform designed to enhance LLM performance with unmatched quality. With de_val, you can rigorously test your AI models throughout the ML ops pipeline (offline testing, A/B testing, and continuous monitoring), measuring hallucinations, misattributions, relevancy, and summarization comprehensiveness, so you can understand your outputs at scale and deploy with confidence.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/deval_ai"
+            },
+            {
+                "label": "website",
+                "url": "https://www.de-val.ai/"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://www.de-val.ai/pitch_deck"
+            }
+        ],
+        "subnet_id": 15
+    },
+    {
+        "bittensor_id": "bitads",
+        "name": "BitAds",
+        "github": [
+            "https://github.com/eseckft/BitAds.ai"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "BitAds is focused on reshaping online advertising with its Conversion Tracking system, which ensures advertisers pay only for successful sales. Contributors are rewarded based on the sales generated through their unique links.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/BitAds_AI"
+            },
+            {
+                "label": "website",
+                "url": "https://bitads.ai/"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://bitads.ai/whitepaper"
+            }
+        ],
+        "subnet_id": 16
+    },
+    {
+        "bittensor_id": "three_gen",
+        "name": "Three Gen",
+        "github": [
+            "https://github.com/404-Repo/three-gen-subnet/"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "404",
+        "summary": "Three Gen incentivizes the development of AI models for generating 3D digital assets and the creation of synthetic 3D model datasets.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/404gen_"
+            },
+            {
+                "label": "website",
+                "url": "https://www.404.xyz/"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://doc.404.xyz/v/sn17-whitepaper"
+            }
+        ],
+        "subnet_id": 17
+    },
+    {
+        "bittensor_id": "cortex_t",
+        "name": "Cortex.t",
+        "github": [
+            "https://github.com/corcel-api/cortex.t"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "Corcel",
+        "summary": "Cortex.t delivers reliable, high-quality text and image responses by incentivizing miners to contribute API keys to top AI models, allowing subnet traffic to be processed through these keys. The subnet also aggregates prompt-response pairs to create a comprehensive synthetic dataset.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/Corcel_X"
+            },
+            {
+                "label": "website",
+                "url": "https://corcel.io/"
+            },
+            {
+                "label": "application",
+                "url": "https://app.corcel.io/sign-in"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://corcel.io/whitepapers/decentralised-subnet-inference-at-scale"
+            }
+        ],
+        "subnet_id": 18
+    },
+    {
+        "bittensor_id": "vision",
+        "name": "Vision",
+        "github": [
+            "https://github.com/namoray/vision"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "Vision specializes in large-scale distributed inference, providing access to the top open-source LLMs, image generation models, and other miscellaneous models, such as embedding models. With an average response time of 300ms and a throughput of 45 tokens per second, Vision delivers both speed and reliability.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/Corcel_X"
+            },
+            {
+                "label": "website",
+                "url": "https://sn19.ai/"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://sn19.ai/leaderboards"
+            },
+            {
+                "label": "application",
+                "url": "https://app.sn19.ai/"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://sn19.ai/pdfs/sn19-deck.pdf"
+            }
+        ],
+        "subnet_id": 19
+    },
+    {
+        "bittensor_id": "bitagent",
+        "name": "BitAgent",
+        "github": [
+            "https://github.com/RogueTensor/bitagent_subnet"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "Rogue Tensor",
+        "summary": "BitAgent incentivizes the development and hosting of AI models that handle daily tasks, providing personalized assistance and automating workflows to enhance productivity.",
+        "websites": [
+            {
+                "label": "application",
+                "url": "https://gogoagent.ai/"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://docs.google.com/document/d/1QVCzDu0eMmkdglD65F_Q_UjnCJauVEr62WgG8SgACt0/edit#heading=h.ck7e3z2g8pmt"
+            }
+        ],
+        "subnet_id": 20
+    },
+    {
+        "bittensor_id": "omega_any_to_any",
+        "name": "OMEGA Any-to-Any",
+        "github": [
+            "https://github.com/OMEGAlabsinc/OMEGAlabs-anytoany-bittensor"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "OMEGA Any-to-Any specializes in developing SOTA multimodal models that excel across text, video, audio, and image modalities.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/OMEGAlabsai"
+            },
+            {
+                "label": "website",
+                "url": "https://OMEGA-labs.ai/"
+            },
+            {
+                "label": "application",
+                "url": "https://sn21.OMEGA.inc/"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://bittensor.OMEGA.inc/"
+            }
+        ],
+        "subnet_id": 21
+    },
+    {
+        "bittensor_id": "smart_scrape",
+        "name": "Smart-Scrape",
+        "github": [
+            "https://github.com/Datura-ai/smart-scrape"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "Smart-Scrape is focused on analyzing X/Twitter data. Contributors perform sentiment and metadata analysis of tweets, providing deeper insights into user interactions.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://datura.ai/"
+            },
+            {
+                "label": "application",
+                "url": "https://chi.datura.ai/"
+            }
+        ],
+        "subnet_id": 22
+    },
+    {
+        "bittensor_id": "social_tensor",
+        "name": "SocialTensor",
+        "github": [
+            "https://github.com/SocialTensor/SocialTensorSubnet"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "SocialTensor",
+        "summary": "SocialTensor incentivizes miners to scale computational resources for text and image generation models. Contributors commit to a model type and generation volume, with new models and features introduced based on usage demand.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/SocialTensor"
+            },
+            {
+                "label": "website",
+                "url": "https://www.socialtensor.io/"
+            },
+            {
+                "label": "application",
+                "url": "https://studio.nichetensor.com/"
+            },
+            {
+                "label": "tao.bot",
+                "url": "https://interact.tao.bot/social-tensor"
+            }
+        ],
+        "subnet_id": 23
+    },
+    {
+        "bittensor_id": "omega_labs",
+        "name": "OMEGA Labs",
+        "github": [
+            "https://github.com/OMEGAlabsinc/OMEGAlabs-bittensor-subnet"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "Omega Labs",
+        "summary": "OMEGA Labs incentivizes the collection of open multimodal data to accelerate AGI research and development. Contributors capture videos with metadata such as title, tags, and descriptions, obtain ImageBind embeddings for video, audio, and captions, and upload them, creating one of the largest open-source multimodal datasets.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/OMEGAlabsai"
+            },
+            {
+                "label": "website",
+                "url": "https://dataset.OMEGAtron.ai/"
+            },
+            {
+                "label": "application",
+                "url": "https://omegatron.ai/discover"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://huggingface.co/datasets/OMEGAlabsinc/OMEGA-multimodal"
+            }
+        ],
+        "subnet_id": 24
+    },
+    {
+        "bittensor_id": "protein_folding",
+        "name": "Protein Folding",
+        "github": [
+            "https://github.com/macrocosm-os/folding"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "Macrocosmos",
+        "summary": "Protein Folding focuses on molecular dynamics simulations. Contributors are incentivized to develop performant protein-folding models that drive down the cost of querying.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/MacrocosmosAI"
+            },
+            {
+                "label": "website",
+                "url": "https://www.macrocosmos.ai/sn25"
+            }
+        ],
+        "subnet_id": 25
+    },
+    {
+        "bittensor_id": "tensor_alchemy",
+        "name": "Tensor Alchemy",
+        "github": [
+            "https://github.com/TensorAlchemy/TensorAlchemy"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "Tensor Alchemy",
+        "summary": "TensorAlchemy specializes in image generation, incorporating a human scoring element where contributors provide feedback to refine and optimize AI outputs.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/TensorAlchemy"
+            },
+            {
+                "label": "website",
+                "url": "https://tensoralchemy.ai/"
+            },
+            {
+                "label": "application",
+                "url": "https://tensoralchemy.ai/"
+            }
+        ],
+        "subnet_id": 26
+    },
+    {
+        "bittensor_id": "neural_internet",
+        "name": "Compute",
+        "github": [
+            "https://github.com/neuralinternet/compute-subnet"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "Neural Internet",
+        "summary": "Neural Internet is a compute-composable subnet designed to integrate various centralized and decentralized cloud platforms, such as Runpod, Lambda, Akash, and AWS, into a unified system, facilitating seamless compute composability across these different platforms.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/neural_internet"
+            },
+            {
+                "label": "website",
+                "url": "https://neuralinternet.ai/"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://opencompute.streamlit.app/"
+            },
+            {
+                "label": "huggingface",
+                "url": "https://huggingface.co/NeuralInternet"
+            }
+        ],
+        "subnet_id": 27
+    },
+    {
+        "bittensor_id": "foundry_sp500_oracle",
+        "name": "Foundry S&P 500 Oracle",
+        "github": [
+            "https://github.com/foundryservices/snpOracle"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "Foundry",
+        "summary": "Foundry S&P 500 Oracle incentivizes miners to make accurate predictions on the S&P 500 price throughout trading hours.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://bittensor.foundrydigital.com/"
+            }
+        ],
+        "subnet_id": 28
+    },
+    {
+        "bittensor_id": "coldint",
+        "name": "Coldint",
+        "github": [
+            "https://github.com/coldint/sn29"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "Coldint",
+        "summary": "Coldint is dedicated to the collective training of AI models by incentivizing contributors to collaborate on models, code, and insights.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/coldint"
+            },
+            {
+                "label": "website",
+                "url": "https://coldint.io/"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://coldint.io/leaderboard/"
+            },
+            {
+                "label": "huggingface",
+                "url": "https://huggingface.co/coldint"
+            }
+        ],
+        "subnet_id": 29
+    },
+    {
+        "bittensor_id": "bettensor",
+        "name": "Bettensor",
+        "github": [
+            "https://github.com/Bettensor/bettensor"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "Bettensor",
+        "summary": "Bettensor is focused on sports prediction, incentivizing the accurate forecasting of sports outcomes using various methods, including human intuition, AI models, and statistical approaches.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/Bettensor"
+            },
+            {
+                "label": "website",
+                "url": "https://bettensor.io/"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://bettensor.com/alpha"
+            },
+            {
+                "label": "application",
+                "url": "https://bettensor.com/games"
+            }
+        ],
+        "subnet_id": 30
+    },
+    {
+        "bittensor_id": "nas_chain",
+        "name": "NAS Chain",
+        "github": [
+            "https://github.com/neuronlogic/NASChain"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "NAS Chain",
+        "summary": "NASChain is dedicated to optimizing neural architecture search (NAS). Contributors run NAS algorithms in search of models that maximize accuracy while minimizing computational costs.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/naschain_ai"
+            }
+        ],
+        "subnet_id": 31
+    },
+    {
+        "bittensor_id": "its_ai",
+        "name": "It's AI",
+        "github": [
+            "https://github.com/It-s-AI/llm-detection/tree/v3.0"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "It's AI incentivizes the development of systems that can identify LLM-generated content.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/ai_detection"
+            },
+            {
+                "label": "website",
+                "url": "https://its-ai.org/"
+            },
+            {
+                "label": "application",
+                "url": "https://app.its-ai.org/main/scan"
+            },
+            {
+                "label": "application",
+                "url": "https://playground.corcel.io/its-ai"
+            },
+            {
+                "label": "roadmap",
+                "url": "https://github.com/It-s-AI/llm-detection/blob/v3.0/docs/vision_and_roadmap.md"
+            }
+        ],
+        "subnet_id": 32
+    },
+    {
+        "bittensor_id": "readyai",
+        "name": "ReadyAI",
+        "github": [
+            "https://github.com/afterpartyai/bittensor-conversation-genome-project"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "After Party",
+        "summary": "ReadyAI is focused on data structuring, incentivizing the transformation of unstructured data from sources like videos, podcasts, text, and images into structured formats suitable for training AI models.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/readyai_"
+            },
+            {
+                "label": "website",
+                "url": "https://conversations.xyz/"
+            }
+        ],
+        "subnet_id": 33
+    },
+    {
+        "bittensor_id": "bitmind",
+        "name": "BitMind",
+        "github": [
+            "https://github.com/BitMind-AI/bitmind-subnet"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "BitMind is focused on detecting AI-generated media. Contributors are incentivized to create advanced models that can reliably differentiate between authentic and fabricated content.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/BitMindAI"
+            },
+            {
+                "label": "website",
+                "url": "https://www.bitmindlabs.ai/"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://app.bitmindlabs.ai/leaderboard"
+            },
+            {
+                "label": "application",
+                "url": "https://bitmindid.com/"
+            },
+            {
+                "label": "application",
+                "url": "https://chromewebstore.google.com/detail/bitmind-agent-smith/ejlhmbdnjjlifeeelpnlkkechnmojnhg?pli=1"
+            }
+        ],
+        "subnet_id": 34
+    },
+    {
+        "bittensor_id": "logicnet",
+        "name": "LogicNet",
+        "github": [
+            "https://github.com/LogicNet-Subnet/LogicNet"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "Logic Net",
+        "summary": "LogicNet focuses on developing open-source mathematics and detailed data analysis models.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://tonylvh.notion.site/LogicNet_SN35-1b44e52d308f47e7983af25bff6df90e"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://logicnet.streamlit.app/"
+            },
+            {
+                "label": "application",
+                "url": "https://tonylvh.notion.site/LogicNet_SN35-1b44e52d308f47e7983af25bff6df90e"
+            }
+        ],
+        "subnet_id": 35
+    },
+    {
+        "bittensor_id": "hip",
+        "name": "DAASI",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "DAASI",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 36
+    },
+    {
+        "bittensor_id": "fine_tuning",
+        "name": "Fine-Tuning",
+        "github": [
+            "https://github.com/macrocosm-os/finetuning"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "Macrocosmos",
+        "summary": "Fine-Tuning is focused on the production of fine-tuned models. Contributors are rewarded based on their models' head-to-head scores, with evaluations based on a continuous stream of synthetic data generated by the top LLMs. The evaluation data setup helps reduce the potential of the benchmark being gamed.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/MacrocosmosAI"
+            },
+            {
+                "label": "website",
+                "url": "https://www.macrocosmos.ai/sn37"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://huggingface.co/spaces/macrocosm-os/finetuning-leaderboard"
+            }
+        ],
+        "subnet_id": 37
+    },
+    {
+        "bittensor_id": "distributed_training",
+        "name": "DistributedTraining",
+        "github": [
+            "https://github.com/KMFODA/DistributedTraining"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "KMFODA",
+        "summary": "DistributedTraining is focused on training a single LLM in a distributed setting. Contributors are incentivized to provide compute, bandwidth, and low latency, using compute to train local models and bandwidth and latency to facilitate the averaging of model weights across participants.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://distributed-training.notion.site/Decentralised-Distributed-Training-fd21bdfa72294dfeab8fb092770212b9"
+            }
+        ],
+        "subnet_id": 38
+    },
+    {
+        "bittensor_id": "edge_maxxing",
+        "name": "EdgeMaxxing",
+        "github": [
+            "https://github.com/womboai/edge-optimization-subnet"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "Wombo",
+        "summary": "EdgeMaxxing is focused on optimizing AI models for consumer devices, starting with Stable Diffusion XL on the NVIDIA GeForce RTX 4090. By optimizing popular models for edge devices, the subnet aims to transform idle computing resources into valuable contributors to decentralized inference networks.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/WOMBO"
+            },
+            {
+                "label": "website",
+                "url": "https://www.w.ai/"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://huggingface.co/spaces/wombo/edge-optimization-subnet-leaderboard"
+            }
+        ],
+        "subnet_id": 39
+    },
+    {
+        "bittensor_id": "chunking",
+        "name": "Chunking",
+        "github": [
+            "https://github.com/VectorChat/chunking_subnet"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "Chunking is focused on advancing Retrieval-Augmented Generation (RAG). The subnet incentivizes the creation, hosting, and serving of intelligent chunking systems that optimize intrachunk similarity and interchunk dissimilarity, enhancing the efficiency and accuracy of data retrieval and processing.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/chunking_subnet"
+            },
+            {
+                "label": "website",
+                "url": "https://vectorchat.ai/"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://subnet.chunking.com/benchmarks"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://x.vectorchat.ai/chunking_pitch_deck.pdf"
+            },
+            {
+                "label": "pitch deck",
+                "url": "https://x.vectorchat.ai/chunking_pitch_deck.pdf"
+            },
+            {
+                "label": "roadmap",
+                "url": "https://github.com/VectorChat/chunking_subnet/blob/main/docs/roadmap.md"
+            }
+        ],
+        "subnet_id": 40
+    },
+    {
+        "bittensor_id": "sportstensor",
+        "name": "Sportstensor",
+        "github": [
+            "https://github.com/xzistance/sportstensor"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "Sports Tensor",
+        "summary": "Sportstensor is focused on sports prediction, incentivizing contributors to train and develop accurate sports prediction models.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/sportstensor"
+            },
+            {
+                "label": "website",
+                "url": "https://www.sportstensor.com/"
+            },
+            {
+                "label": "blog",
+                "url": "https://medium.com/@sportstensor"
+            }
+        ],
+        "subnet_id": 41
+    },
+    {
+        "bittensor_id": "masa",
+        "name": "Masa",
+        "github": [
+            "https://github.com/masa-finance"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": "",
+        "team": "MASA",
+        "summary": "Masa focuses on decentralized data scraping, offering an alternative to traditional centralized services like BrightData and Apify.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://developers.masa.ai/docs/masa-subnet/welcome"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/getmasafi"
+            }
+        ],
+        "subnet_id": 42
+    },
+    {
+        "bittensor_id": "graphite",
+        "name": "Graphite",
+        "github": [
+            "https://github.com/GraphiteAI/Graphite-Subnet"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "Graphite focuses on graph problems, which involve optimizing algorithms to solve computational challenges, such as finding the shortest path, optimizing network flow, or determining optimal arrangements.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/GraphiteSubnet"
+            },
+            {
+                "label": "website",
+                "url": "https://graphite-ai.net/"
+            }
+        ],
+        "subnet_id": 43
+    },
+    {
+        "bittensor_id": "score_predict",
+        "name": "Score Predict",
+        "github": [
+            "https://github.com/score-protocol/score-predict"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "Score Predict is focused on incentivizing accurate football (soccer) match predictions.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/ScorePredictHQ"
+            },
+            {
+                "label": "website",
+                "url": "https://scorepredict.io/"
+            },
+            {
+                "label": "application",
+                "url": "https://app.scorepredict.io/"
+            }
+        ],
+        "subnet_id": 44
+    },
+    {
+        "bittensor_id": "gen42",
+        "name": "Gen42",
+        "github": [
+            "https://github.com/brokespace/code"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "GEN42 is an AI coding assistant for intelligence code generation, completion, and interactive Q&A. Contributors are incentivized to create tools that streamline the coding workflow, allowing developers to concentrate on creativity and problem-solving.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/Gen42AI"
+            },
+            {
+                "label": "website",
+                "url": "https://www.gen42.ai/en"
+            },
+            {
+                "label": "application",
+                "url": "https://chat.gen42.ai/login"
+            }
+        ],
+        "subnet_id": 45
+    },
+    {
+        "bittensor_id": "final-tsadi",
+        "name": "Safe Scan",
+        "github": [
+            "https://github.com/safe-scan-ai/cancer-ai/"
+        ],
+        "hw_requirements": "",
+        "image_url": "https://github.com/safe-scan-ai/cancer-ai-3/raw/LEMSTUDI0-patch-1/DOCS/header.png",
+        "description": "",
+        "bittensor_discord_id": 1275149537547391058,
+        "team": "Safe Scan",
+        "summary": "Leveraging the power of AI and blockchain technology to revolutionize cancer detection.",
+        "websites": [],
+        "subnet_id": 46
+    },
+    {
+        "bittensor_id": "",
+        "name": "Unregistered",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 0,
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 47
+    },
+    {
+        "bittensor_id": "",
+        "name": "NextPlace",
+        "github": [
+            "https://github.com/Nickel5-Inc/Nextplace"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": 0,
+        "team": "Nextplace.ai",
+        "summary": "Leveraging the power of AI harnessed by the Bittensor framework, NextPlace is building the next best Real Estate market negotiator. Discover what your home is likely to sell for, identify housing trends in real estate markets across the United States, earn Tao by unleashing your own AI models in the subnet, and so much more.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://nextplace.ai"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/NextPlace_AI"
+            },
+            {
+                "label": "Market Analysis",
+                "url": "https://nextplace.ai/map"
+            }
+        ],
+        "subnet_id": 48
+    },
+    {
+        "bittensor_id": "",
+        "name": "BitTranslate",
+        "github": [
+            "https://github.com/bittranslateio/bittranslate"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": 0,
+        "team": "BitTranslate",
+        "summary": "BitTranslate is a Subnet that rewards high-quality translations. Validators produce unique text using a multilingual text generation model. The text is then sent to Miners which apply a text-to-text model to produce a translation. The validator then evaluates the outputted translations using two Reward Models that are based on the methods from academic papers.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/BitTranslate_io"
+            },
+            {
+                "label": "website",
+                "url": "https://www.bittranslate.io"
+            }
+        ],
+        "subnet_id": 49
+    },
+    {
+        "bittensor_id": "",
+        "name": "BittAudio",
+        "github": [
+            "https://github.com/UncleTensor/BittAudio"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": 0,
+        "team": "UncleTensor",
+        "summary": "The main goal of the BittAudio is to establish a decentralized platform that incentivizes the creation, distribution and also monetization of AI audio content.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/bittaudio"
+            }
+        ],
+        "subnet_id": 50
+    },
+    {
+        "bittensor_id": "",
+        "name": "Unregistered",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 0,
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 51
+    },
+    {
+        "bittensor_id": "",
+        "name": "Unregistered",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 0,
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 52
+    }
+]

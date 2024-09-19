@@ -1,0 +1,25 @@
+{
+  "bittensor_id": "bitads",
+  "name": "BitAds",
+  "github": ["https://github.com/eseckft/BitAds.ai"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "BitAds is focused on reshaping online advertising with its Conversion Tracking system, which ensures advertisers pay only for successful sales. Contributors are rewarded based on the sales generated through their unique links.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/BitAds_AI"
+    },
+    {
+      "label": "website",
+      "url": "https://bitads.ai/"
+    },
+    {
+      "label": "whitepaper",
+      "url": "https://bitads.ai/whitepaper"
+    }
+  ]
+}

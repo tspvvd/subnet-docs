@@ -1,0 +1,38 @@
+name: Generate Subnets
+
+on:
+  push:
+    paths:
+      - "data/**"
+  pull_request:
+    paths:
+      - "data/**"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+
+      - name: Generate subnets.json
+        run: python ./generate_subnets.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add ./subnets.json
+          git commit -m 'Update subnets.json'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}

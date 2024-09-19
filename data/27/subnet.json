@@ -1,0 +1,29 @@
+{
+  "bittensor_id": "neural_internet",
+  "name": "Compute",
+  "github": ["https://github.com/neuralinternet/compute-subnet"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "Neural Internet",
+  "summary": "Neural Internet is a compute-composable subnet designed to integrate various centralized and decentralized cloud platforms, such as Runpod, Lambda, Akash, and AWS, into a unified system, facilitating seamless compute composability across these different platforms.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/neural_internet"
+    },
+    {
+      "label": "website",
+      "url": "https://neuralinternet.ai/"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://opencompute.streamlit.app/"
+    },
+    {
+      "label": "huggingface",
+      "url": "https://huggingface.co/NeuralInternet"
+    }
+  ]
+}

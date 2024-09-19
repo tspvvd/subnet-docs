@@ -1,0 +1,21 @@
+{
+  "bittensor_id": "infinite_games",
+  "name": "Infinite Games",
+  "github": ["https://github.com/amedeo-gigaver/infinite_games/tree/main"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "Infinite Games incentivizes the prediction of future events by rewarding contributors based on the accuracy and speed of their model's forecasts. The subnet currently focuses on binary future events listed on Polymarket and Azuro.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/Playinfgames"
+    },
+    {
+      "label": "website",
+      "url": "https://www.infinitegam.es/"
+    }
+  ]
+}

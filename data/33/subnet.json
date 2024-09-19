@@ -1,0 +1,23 @@
+{
+  "bittensor_id": "readyai",
+  "name": "ReadyAI",
+  "github": [
+    "https://github.com/afterpartyai/bittensor-conversation-genome-project"
+  ],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "After Party",
+  "summary": "ReadyAI is focused on data structuring, incentivizing the transformation of unstructured data from sources like videos, podcasts, text, and images into structured formats suitable for training AI models.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/readyai_"
+    },
+    {
+      "label": "website",
+      "url": "https://conversations.xyz/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "bittensor_id": "smart_scrape",
+  "name": "Smart-Scrape",
+  "github": ["https://github.com/Datura-ai/smart-scrape"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "Smart-Scrape is focused on analyzing X/Twitter data. Contributors perform sentiment and metadata analysis of tweets, providing deeper insights into user interactions.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://datura.ai/"
+    },
+    {
+      "label": "application",
+      "url": "https://chi.datura.ai/"
+    }
+  ]
+}

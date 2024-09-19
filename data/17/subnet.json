@@ -1,0 +1,25 @@
+{
+  "bittensor_id": "three_gen",
+  "name": "Three Gen",
+  "github": ["https://github.com/404-Repo/three-gen-subnet/"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "404",
+  "summary": "Three Gen incentivizes the development of AI models for generating 3D digital assets and the creation of synthetic 3D model datasets.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/404gen_"
+    },
+    {
+      "label": "website",
+      "url": "https://www.404.xyz/"
+    },
+    {
+      "label": "whitepaper",
+      "url": "https://doc.404.xyz/v/sn17-whitepaper"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "bittensor_id": "pre_training_llms",
+  "name": "Pre-training LLMs",
+  "github": ["https://github.com/macrocosm-os/pretraining"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "Macrocosmos",
+  "summary": "Pre-Training is dedicated to the creation of SOTA pretrained foundation models, rewarding contributors for achieving top performance on selected open datasets. Functioning as a continuous benchmark, the models that excel in head-to-head loss comparisons on evaluation data receive the highest rewards. The subnet has successfully developed models with 700 million and 7 billion parameters that outperform industry-leading counterparts like GPT-2 Large and Falcon-7B.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/MacrocosmosAI"
+    },
+    {
+      "label": "website",
+      "url": "https://www.macrocosmos.ai/sn9"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://www.macrocosmos.ai/sn9/dashboard"
+    },
+    {
+      "label": "whitepaper",
+      "url": "https://www.macrocosmos.ai/research/pretraining_whitepaper.pdf"
+    },
+    {
+      "label": "substack",
+      "url": "https://macrocosmosai.substack.com/t/pre-training"
+    }
+  ]
+}

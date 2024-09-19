@@ -1,0 +1,29 @@
+{
+  "bittensor_id": "cortex_t",
+  "name": "Cortex.t",
+  "github": ["https://github.com/corcel-api/cortex.t"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "Corcel",
+  "summary": "Cortex.t delivers reliable, high-quality text and image responses by incentivizing miners to contribute API keys to top AI models, allowing subnet traffic to be processed through these keys. The subnet also aggregates prompt-response pairs to create a comprehensive synthetic dataset.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/Corcel_X"
+    },
+    {
+      "label": "website",
+      "url": "https://corcel.io/"
+    },
+    {
+      "label": "application",
+      "url": "https://app.corcel.io/sign-in"
+    },
+    {
+      "label": "whitepaper",
+      "url": "https://corcel.io/whitepapers/decentralised-subnet-inference-at-scale"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "bittensor_id": "",
+  "name": "BitTranslate",
+  "github": ["https://github.com/bittranslateio/bittranslate"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": 0,
+  "team": "BitTranslate",
+  "summary": "BitTranslate is a Subnet that rewards high-quality translations. Validators produce unique text using a multilingual text generation model. The text is then sent to Miners which apply a text-to-text model to produce a translation. The validator then evaluates the outputted translations using two Reward Models that are based on the methods from academic papers.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/BitTranslate_io"
+    },
+    {
+      "label": "website",
+      "url": "https://www.bittranslate.io"
+    }
+  ]
+}

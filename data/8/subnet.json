@@ -1,0 +1,25 @@
+{
+  "bittensor_id": "proprietary_trading_network",
+  "name": "Proprietary Trading Network",
+  "github": ["https://github.com/taoshidev/proprietary-trading-network"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "The Proprietary Trading Network incentivizes the contribution of profitable trading strategies across various financial markets. Contributors who provide the best trading signals receive the highest rewards, attracting skilled traders, data scientists, and machine learning teams to compete.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/taoshiio"
+    },
+    {
+      "label": "website",
+      "url": "https://www.taoshi.io/"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://dashboard.taoshi.io/"
+    }
+  ]
+}

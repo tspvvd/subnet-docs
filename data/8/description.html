@@ -1,0 +1,55 @@
+<p>
+  <strong>Taoshi</strong> is at the forefront of the Bittensor revolution. Since
+  our founding in 2023, we’ve been dedicated to transforming the future of
+  finance. We develop dynamic subnetworks where decentralized AI and machine
+  learning analyze data across various asset classes. As a pivotal part of the
+  Bittensor ecosystem, we’re not just engaging with the blockchain revolution;
+  we’re leading it by delivering advanced data that empowers users to make
+  informed financial decisions.
+</p>
+
+<h2>Taoshi's Mission</h2>
+<p>
+  Our mission is to break down financial barriers and empower everyone to
+  confidently navigate their financial futures. We aim to democratize access to
+  wealth generation opportunities that have traditionally been reserved for the
+  financially privileged. Committed to ongoing innovation, we strive to disrupt
+  financial markets by providing sophisticated yet intuitive products that offer
+  world-class growth opportunities for all.
+</p>
+
+<h2>PTN Network Overview</h2>
+<p>
+  PTN is the most challenging & competitive network in the world. Our miners
+  need to provide futures-based signals (long/short) that are highly efficient
+  and effective across various markets to compete (forex, crypto, indices). The
+  top miners are those that provide the most returns, while never exceeding
+  certain drawdown limits.
+</p>
+
+<h2>Rules</h2>
+<ul>
+  <li>
+    Miners can submit LONG, SHORT, or FLAT signal for Forex, Crypto, and Indices
+    trade pairs into the network. Currently supported trade pairs.
+  </li>
+  <li>Orders outside of market hours are ignored.</li>
+  <li>Miners can only open 1 position per trade pair/symbol at a time.</li>
+  <li>
+    Positions are uni-directional. Meaning, if a position starts LONG (the first
+    order it receives is LONG), it can't flip SHORT. If you try and have it flip
+    SHORT (using more leverage SHORT than exists LONG) it will close out the
+    position. You'll then need to open a second position which is SHORT with the
+    difference.
+  </li>
+  <li>
+    Position leverage is bound per trade_pair. If an order would cause the
+    position's leverage to exceed the upper boundary, the position leverage will
+    be clamped. Minimum order leverage is 0.001. Crypto positional leverage
+    limit is [0.01, 0.5]. Forex/Indices positional leverage limit is [0.1, 5].
+  </li>
+  <li>
+    Leverage is capped at 10 across all open positions in a miner's portfolio.
+    Crypto position leverages are scaled by 10x when contributing to the
+  </li>
+</ul>

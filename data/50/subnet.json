@@ -1,0 +1,17 @@
+{
+  "bittensor_id": "",
+  "name": "BittAudio",
+  "github": ["https://github.com/UncleTensor/BittAudio"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": 0,
+  "team": "UncleTensor",
+  "summary": "The main goal of the BittAudio is to establish a decentralized platform that incentivizes the creation, distribution and also monetization of AI audio content.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/bittaudio"
+    }
+  ]
+}

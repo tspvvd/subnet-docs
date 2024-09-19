@@ -1,0 +1,29 @@
+{
+  "bittensor_id": "bettensor",
+  "name": "Bettensor",
+  "github": ["https://github.com/Bettensor/bettensor"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "Bettensor",
+  "summary": "Bettensor is focused on sports prediction, incentivizing the accurate forecasting of sports outcomes using various methods, including human intuition, AI models, and statistical approaches.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/Bettensor"
+    },
+    {
+      "label": "website",
+      "url": "https://bettensor.io/"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://bettensor.com/alpha"
+    },
+    {
+      "label": "application",
+      "url": "https://bettensor.com/games"
+    }
+  ]
+}

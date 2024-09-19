@@ -1,0 +1,21 @@
+{
+  "bittensor_id": "horde",
+  "name": "Horde",
+  "github": ["https://github.com/backend-developers-ltd/ComputeHorde"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "Horde is a cloud platform dedicated to networkless GPU-equipped servers. It implements hardware classes to establish a free market that optimizes for cost-effectiveness over merely the strongest hardware.",
+  "websites": [
+    {
+      "label": "dashboard",
+      "url": "https://grafana.bactensor.io/d/b2d70a9d-e838-402c-8e2a-5476fac8de1c/sn12-compute-power?orgId=1&from=now-2d&to=now"
+    },
+    {
+      "label": "application",
+      "url": "https://facilitator.computehorde.io/accounts/login/?next=/"
+    }
+  ]
+}

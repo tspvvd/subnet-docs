@@ -1,0 +1,25 @@
+{
+  "bittensor_id": "sturdy",
+  "name": "Sturdy",
+  "github": ["https://github.com/Sturdy-Subnet/sturdy-subnet"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "Sturdy is focused on the creation of autonomous DeFi yield optimizers. Contributors develop algorithms to allocate assets among a fixed set of strategies or 'pools' with varying interest rates to maximize yield.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/SturdyFinance"
+    },
+    {
+      "label": "website",
+      "url": "https://www.sturdysubnet.org/"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://www.sturdysubnet.org/dashboard"
+    }
+  ]
+}
