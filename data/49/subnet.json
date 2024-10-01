@@ -2,7 +2,7 @@
   "bittensor_id": "",
   "name": "BitTranslate",
   "github": ["https://github.com/bittranslateio/bittranslate"],
-  "hw_requirements": "",
+  "hw_requirements": "https://github.com/bittranslateio/bittranslate/blob/main/min_compute.yml",
   "image_url": "",
   "description": "description.html",
   "bittensor_discord_id": 0,
