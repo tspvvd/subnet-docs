@@ -1,12 +1,17 @@
 {
-    "bittensor_id": "",
-    "name": "Unregistered",
-    "github": [],
-    "hw_requirements": "",
-    "image_url": "",
-    "description": "",
-    "bittensor_discord_id": 0,
-    "team": "",
-    "summary": "",
-    "websites": []
+  "bittensor_id": "",
+  "name": "Compute Subnet",
+  "github": ["https://github.com/Datura-ai/compute-subnet"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": 0,
+  "team": "Datura",
+  "summary": "The Compute Subnet on Bittensor is a decentralized network that allows miners to contribute their GPU resources to a global pool. Users can rent these resources for computational tasks, such as machine learning, data analysis, and more. The system ensures fair compensation for miners based on the quality and performance of their GPUs.",
+  "websites": [
+    {
+      "label": "Website",
+      "url": "https://computenet.ai"
+    }
+  ]
 }
