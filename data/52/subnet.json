@@ -1,12 +1,25 @@
 {
-    "bittensor_id": "",
-    "name": "Unregistered",
-    "github": [],
-    "hw_requirements": "",
-    "image_url": "",
-    "description": "",
-    "bittensor_discord_id": 0,
-    "team": "",
-    "summary": "",
-    "websites": []
+  "bittensor_id": "",
+  "name": "Dojo",
+  "github": ["https://github.com/tensorplex-labs/dojo"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": 0,
+  "team": "Tensorplex",
+  "summary": "Tensorplex Dojo Subnet is an open platform designed to crowdsource high-quality human-generated datasets. Powered by Bittensor, the Dojo Subnet addresses these challenges by allowing anyone to earn TAO by labeling data or providing human-preference data. This approach democratizes the collection of human preference data, addressing existing equity issues and paving the way for more inclusive and ethical AI development.",
+  "websites": [
+    {
+      "label": "Twitter",
+      "url": "https://x.com/TensorplexLabs"
+    },
+    {
+      "label": "Application",
+      "url": "https://dojo.tensorplex.ai"
+    },
+    {
+      "label": "Website",
+      "url": "https://www.tensorplex.ai"
+    }
+  ]
 }
