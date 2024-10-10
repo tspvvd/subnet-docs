@@ -1,7 +1,7 @@
 {
     "bittensor_id": "",
-    "name": "Unregistered",
-    "github": [],
+    "name": "Hivetrain",
+    "github": ["https://github.com/Hivetrain/DistributedAutoML/"],
     "hw_requirements": "",
     "image_url": "",
     "description": "",
