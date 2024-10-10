@@ -1,10 +1,10 @@
 {
-  "bittensor_id": "hip",
+  "bittensor_id": "",
   "name": "DAASI",
-  "github": [],
+  "github": ["https://github.com/daasi-ai/DAASI_amd_enclave","https://github.com/daasi-ai/node_ops","https://github.com/daasi-ai/miner_daasi","https://github.com/daasi-ai/Daasi_validator"],
   "hw_requirements": "",
   "image_url": "",
-  "description": "",
+  "description": "The first Decentralized Compute",
   "bittensor_discord_id": "",
   "team": "DAASI",
   "summary": "",

@@ -1,12 +1,12 @@
 {
-    "bittensor_id": "",
-    "name": "Unregistered",
-    "github": [],
+    "bittensor_id": "tsadi",
+    "name": "Hivetrain",
+    "github": ["https://github.com/Hivetrain/DistributedAutoML/"],
     "hw_requirements": "",
     "image_url": "",
-    "description": "",
+    "description": "description.html",
     "bittensor_discord_id": 0,
     "team": "",
-    "summary": "",
+    "summary": "Hivetrain is back with an open-source, distributed AutoML subnet. We're addressing Schmidhuber's challenge of \"inventing an AI scientist smarter than himself so that he can retire.\" Our approach creates an incentive structure rewarding the creation of better neural network components and potentially new algorithms that surpass current state-of-the-art. We use a genetic language that is evolvable and searchable with gradient methods to generate increasingly complex mathematical functions.",
     "websites": []
 }
