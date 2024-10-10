@@ -997,12 +997,17 @@
         "subnet_id": 35
     },
     {
-        "bittensor_id": "hip",
+        "bittensor_id": "",
         "name": "DAASI",
-        "github": [],
+        "github": [
+            "https://github.com/daasi-ai/DAASI_amd_enclave",
+            "https://github.com/daasi-ai/node_ops",
+            "https://github.com/daasi-ai/miner_daasi",
+            "https://github.com/daasi-ai/Daasi_validator"
+        ],
         "hw_requirements": "",
         "image_url": "",
-        "description": "",
+        "description": "The first Decentralized Compute",
         "bittensor_discord_id": "",
         "team": "DAASI",
         "summary": "",
@@ -1263,29 +1268,44 @@
     },
     {
         "bittensor_id": "final-tsadi",
-        "name": "Safe Scan",
+        "name": "Neural3D",
         "github": [
-            "https://github.com/safe-scan-ai/cancer-ai/"
+            "https://github.com/GoNeuralAI/neural-subnet"
         ],
         "hw_requirements": "",
         "image_url": "https://github.com/safe-scan-ai/cancer-ai-3/raw/LEMSTUDI0-patch-1/DOCS/header.png",
         "description": "",
         "bittensor_discord_id": 1275149537547391058,
-        "team": "Safe Scan",
-        "summary": "Leveraging the power of AI and blockchain technology to revolutionize cancer detection.",
-        "websites": [],
+        "team": "Neural AI",
+        "summary": "The goal of this subnet is to provide end users (game developers, virtual production, etc.) a way to populate 3D worlds by quickly generating high quality 3D assets based on text prompts via web app, API or plugins for game engines (e.g Unreal Engine & Unity), while simultaneously building a massive open-source library of 3D assets that can be used amongst other things, for further model training.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/GoNeuralAI"
+            },
+            {
+                "label": "website",
+                "url": "https://www.goneural.ai/"
+            },
+            {
+                "label": "application",
+                "url": "https://app.goneural.ai/"
+            }
+        ],
         "subnet_id": 46
     },
     {
-        "bittensor_id": "",
-        "name": "Unregistered",
-        "github": [],
+        "bittensor_id": "tsadi",
+        "name": "Hivetrain",
+        "github": [
+            "https://github.com/Hivetrain/DistributedAutoML/"
+        ],
         "hw_requirements": "",
         "image_url": "",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": 0,
         "team": "",
-        "summary": "",
+        "summary": "Hivetrain is back with an open-source, distributed AutoML subnet. We're addressing Schmidhuber's challenge of \"inventing an AI scientist smarter than himself so that he can retire.\" Our approach creates an incentive structure rewarding the creation of better neural network components and potentially new algorithms that surpass current state-of-the-art. We use a genetic language that is evolvable and searchable with gradient methods to generate increasingly complex mathematical functions.",
         "websites": [],
         "subnet_id": 47
     },
@@ -1337,6 +1357,10 @@
             {
                 "label": "website",
                 "url": "https://www.bittranslate.io"
+            },
+            {
+                "label": "Application",
+                "url": "https://www.agentartificial.com/"
             }
         ],
         "subnet_id": 49
@@ -1357,6 +1381,10 @@
             {
                 "label": "twitter",
                 "url": "https://x.com/bittaudio"
+            },
+            {
+                "label": "Application",
+                "url": "https://bittaudio.ai/"
             }
         ],
         "subnet_id": 50
