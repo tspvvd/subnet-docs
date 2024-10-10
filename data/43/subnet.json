@@ -16,6 +16,10 @@
     {
       "label": "website",
       "url": "https://graphite-ai.net/"
+    },
+    {
+      "label": "application",
+      "url": "https://graphite-ai.net/playgroundv2"
     }
   ]
 }
