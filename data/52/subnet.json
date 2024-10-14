@@ -1,7 +1,12 @@
 {
   "bittensor_id": "",
   "name": "Dojo",
-  "github": ["https://github.com/tensorplex-labs/dojo"],
+  "github": [
+    "https://github.com/tensorplex-labs/dojo",
+    "https://github.com/tensorplex-labs/dojo-synthetic-api",
+    "https://github.com/tensorplex-labs/dojo-ui",
+    "https://github.com/tensorplex-labs/dojo-worker-api"
+  ],
   "hw_requirements": "",
   "image_url": "",
   "description": "description.html",
