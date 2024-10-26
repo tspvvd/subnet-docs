@@ -998,16 +998,13 @@
     },
     {
         "bittensor_id": "",
-        "name": "DAASI",
+        "name": "Identity Verification Protocol",
         "github": [
-            "https://github.com/daasi-ai/DAASI_amd_enclave",
-            "https://github.com/daasi-ai/node_ops",
-            "https://github.com/daasi-ai/miner_daasi",
-            "https://github.com/daasi-ai/Daasi_validator"
+            "https://github.com/TatsuProject/Identity-Subnet"
         ],
         "hw_requirements": "",
         "image_url": "",
-        "description": "The first Decentralized Compute",
+        "description": "The Ta\u03c4su Identity Subnet aims to calculate a human score based on various metrics such as GitHub account, TAO balance, Social Media and other relevant data points. The project involves validators and miners working together to compute and verify these scores.",
         "bittensor_discord_id": "",
         "team": "DAASI",
         "summary": "",
@@ -1296,16 +1293,16 @@
     },
     {
         "bittensor_id": "tsadi",
-        "name": "Hivetrain",
+        "name": "CloudNomad",
         "github": [
-            "https://github.com/Hivetrain/DistributedAutoML/"
+            "https://github.com/eclipsevortex/CloudNomad"
         ],
         "hw_requirements": "",
         "image_url": "",
-        "description": "description.html",
+        "description": "",
         "bittensor_discord_id": 0,
         "team": "",
-        "summary": "Hivetrain is back with an open-source, distributed AutoML subnet. We're addressing Schmidhuber's challenge of \"inventing an AI scientist smarter than himself so that he can retire.\" Our approach creates an incentive structure rewarding the creation of better neural network components and potentially new algorithms that surpass current state-of-the-art. We use a genetic language that is evolvable and searchable with gradient methods to generate increasingly complex mathematical functions.",
+        "summary": "",
         "websites": [],
         "subnet_id": 47
     },
@@ -1338,31 +1335,18 @@
         "subnet_id": 48
     },
     {
-        "bittensor_id": "",
-        "name": "BitTranslate",
+        "bittensor_id": "tsadi",
+        "name": "Hivetrain",
         "github": [
-            "https://github.com/bittranslateio/bittranslate"
+            "https://github.com/Hivetrain/DistributedAutoML/"
         ],
-        "hw_requirements": "https://github.com/bittranslateio/bittranslate/blob/main/min_compute.yml",
+        "hw_requirements": "",
         "image_url": "",
         "description": "description.html",
         "bittensor_discord_id": 0,
-        "team": "BitTranslate",
-        "summary": "BitTranslate is a Subnet that rewards high-quality translations. Validators produce unique text using a multilingual text generation model. The text is then sent to Miners which apply a text-to-text model to produce a translation. The validator then evaluates the outputted translations using two Reward Models that are based on the methods from academic papers.",
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/BitTranslate_io"
-            },
-            {
-                "label": "website",
-                "url": "https://www.bittranslate.io"
-            },
-            {
-                "label": "Application",
-                "url": "https://www.agentartificial.com/"
-            }
-        ],
+        "team": "",
+        "summary": "Hivetrain is back with an open-source, distributed AutoML subnet. We're addressing Schmidhuber's challenge of \"inventing an AI scientist smarter than himself so that he can retire.\" Our approach creates an incentive structure rewarding the creation of better neural network components and potentially new algorithms that surpass current state-of-the-art. We use a genetic language that is evolvable and searchable with gradient methods to generate increasingly complex mathematical functions.",
+        "websites": [],
         "subnet_id": 49
     },
     {
