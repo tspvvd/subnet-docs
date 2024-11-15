@@ -1,0 +1,17 @@
+{
+  "bittensor_id": "",
+  "name": "Document Understanding",
+  "github": ["https://github.com/TatsuProject/Document_Understanding_Subnet"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "description.html",
+  "bittensor_discord_id": 0,
+  "team": "Tatsu Project",
+  "summary": "Document Understanding is a project initiated by Tatsu Project and Bittensor, designed to identify the optimal risk-weighted trading strategies through the integration of decentralized machine learning networks and live trading data. This project will leverage Bittensor's innovative blockchain-powered AI learning protocol to advance our journey in discovering optimal crypto trading strategies. Furthermore, through the use of SignalPlus' market-leading platform, every day users will now be equipped with a professional trading toolkit that is available right on their desktop, enabling true democratised access and empowering the open-access initiative.",
+  "websites": [
+    {
+      "label": "Technical Guide",
+      "url": "https://github.com/TatsuProject/Document_Understanding_Subnet/blob/main/docs/Technical_Guide.md"
+    }
+  ]
+}

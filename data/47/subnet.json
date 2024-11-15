@@ -1,12 +1,29 @@
 {
   "bittensor_id": "tsadi",
-  "name": "CloudNomad",
-  "github": ["https://github.com/eclipsevortex/CloudNomad"],
+  "name": "CondenseAI",
+  "github": [
+    "https://github.com/condenses/neural-condense-subnet",
+    "https://github.com/condenses/neural-condense",
+    "https://github.com/condenses/subnet-organic"
+  ],
   "hw_requirements": "",
   "image_url": "",
-  "description": "",
+  "description": "description.html",
+  "summary": "Accelerating AI inference by compressing long sequences of natural language tokens into soft-tokens, reducing computational cost and inference time.",
   "bittensor_discord_id": 0,
   "team": "",
-  "summary": "",
-  "websites": []
+  "websites": [
+    {
+      "label": "Website",
+      "url": "https://condenses.ai/"
+    },
+    {
+      "label": "Miner Dashboard",
+      "url": "https://dashboard.condenses.ai/"
+    },
+    {
+      "label": "WanDB Logger",
+      "url": "https://wandb.ai/toilaluan/Neural-Condense-Subnet"
+    }
+  ]
 }

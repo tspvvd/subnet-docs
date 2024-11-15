@@ -1,12 +1,12 @@
 {
   "bittensor_id": "",
-  "name": "Identity Verification Protocol",
-  "github": ["https://github.com/TatsuProject/Identity-Subnet"],
+  "name": "Pyramid Scheme",
+  "github": ["https://github.com/womboai/pyramid-scheme"],
   "hw_requirements": "",
   "image_url": "",
-  "description": "The Taτsu Identity Subnet aims to calculate a human score based on various metrics such as GitHub account, TAO balance, Social Media and other relevant data points. The project involves validators and miners working together to compute and verify these scores.",
+  "summary": "The Rule 30 subnet on Bittensor aims to tackle one of complexity science's most fundamental challenges: understanding how simple rules give rise to complex, seemingly random behavior. Through distributed computation and collective analysis, we're working to unlock the secrets of emergence itself—the mysterious process by which simple systems generate intricate, unpredictable patterns.",
   "bittensor_discord_id": "",
-  "team": "DAASI",
-  "summary": "",
+  "team": "WOMBO",
+  "description": "",
   "websites": []
 }
