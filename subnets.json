@@ -998,16 +998,16 @@
     },
     {
         "bittensor_id": "",
-        "name": "Identity Verification Protocol",
+        "name": "Pyramid Scheme",
         "github": [
-            "https://github.com/TatsuProject/Identity-Subnet"
+            "https://github.com/womboai/pyramid-scheme"
         ],
         "hw_requirements": "",
         "image_url": "",
-        "description": "The Ta\u03c4su Identity Subnet aims to calculate a human score based on various metrics such as GitHub account, TAO balance, Social Media and other relevant data points. The project involves validators and miners working together to compute and verify these scores.",
+        "summary": "The Rule 30 subnet on Bittensor aims to tackle one of complexity science's most fundamental challenges: understanding how simple rules give rise to complex, seemingly random behavior. Through distributed computation and collective analysis, we're working to unlock the secrets of emergence itself\u2014the mysterious process by which simple systems generate intricate, unpredictable patterns.",
         "bittensor_discord_id": "",
-        "team": "DAASI",
-        "summary": "",
+        "team": "WOMBO",
+        "description": "",
         "websites": [],
         "subnet_id": 36
     },
@@ -1293,17 +1293,32 @@
     },
     {
         "bittensor_id": "tsadi",
-        "name": "CloudNomad",
+        "name": "CondenseAI",
         "github": [
-            "https://github.com/eclipsevortex/CloudNomad"
+            "https://github.com/condenses/neural-condense-subnet",
+            "https://github.com/condenses/neural-condense",
+            "https://github.com/condenses/subnet-organic"
         ],
         "hw_requirements": "",
         "image_url": "",
-        "description": "",
+        "description": "description.html",
+        "summary": "Accelerating AI inference by compressing long sequences of natural language tokens into soft-tokens, reducing computational cost and inference time.",
         "bittensor_discord_id": 0,
         "team": "",
-        "summary": "",
-        "websites": [],
+        "websites": [
+            {
+                "label": "Website",
+                "url": "https://condenses.ai/"
+            },
+            {
+                "label": "Miner Dashboard",
+                "url": "https://dashboard.condenses.ai/"
+            },
+            {
+                "label": "WanDB Logger",
+                "url": "https://wandb.ai/toilaluan/Neural-Condense-Subnet"
+            }
+        ],
         "subnet_id": 47
     },
     {
@@ -1427,5 +1442,45 @@
             }
         ],
         "subnet_id": 52
+    },
+    {
+        "bittensor_id": "",
+        "name": "Efficient Frontier",
+        "github": [
+            "https://github.com/EfficientFrontier-SignalPlus/EfficientFrontier"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": 0,
+        "team": "Efficient Frontier",
+        "summary": "Efficient Frontier is a project initiated by SignalPlus and Bittensor, designed to identify the optimal risk-weighted trading strategies through the integration of decentralized machine learning networks and live trading data. This project will leverage Bittensor's innovative blockchain-powered AI learning protocol to advance our journey in discovering optimal crypto trading strategies. Furthermore, through the use of SignalPlus' market-leading platform, every day users will now be equipped with a professional trading toolkit that is available right on their desktop, enabling true democratised access and empowering the open-access initiative.",
+        "websites": [
+            {
+                "label": "Website",
+                "url": "https://t.signalplus.com"
+            }
+        ],
+        "subnet_id": 53
+    },
+    {
+        "bittensor_id": "",
+        "name": "Document Understanding",
+        "github": [
+            "https://github.com/TatsuProject/Document_Understanding_Subnet"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": 0,
+        "team": "Tatsu Project",
+        "summary": "Document Understanding is a project initiated by Tatsu Project and Bittensor, designed to identify the optimal risk-weighted trading strategies through the integration of decentralized machine learning networks and live trading data. This project will leverage Bittensor's innovative blockchain-powered AI learning protocol to advance our journey in discovering optimal crypto trading strategies. Furthermore, through the use of SignalPlus' market-leading platform, every day users will now be equipped with a professional trading toolkit that is available right on their desktop, enabling true democratised access and empowering the open-access initiative.",
+        "websites": [
+            {
+                "label": "Technical Guide",
+                "url": "https://github.com/TatsuProject/Document_Understanding_Subnet/blob/main/docs/Technical_Guide.md"
+            }
+        ],
+        "subnet_id": 54
     }
 ]
