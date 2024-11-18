@@ -22,6 +22,10 @@
       "url": "https://opencompute.streamlit.app/"
     },
     {
+      "label": "application",
+      "url": "https://compute.neuralinternet.ai/"
+    },
+    {
       "label": "huggingface",
       "url": "https://huggingface.co/NeuralInternet"
     }

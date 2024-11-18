@@ -16,6 +16,10 @@
     {
       "label": "website",
       "url": "https://www.macrocosmos.ai/sn1"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://www.macrocosmos.ai/sn1/dashboard"
     }
   ]
 }

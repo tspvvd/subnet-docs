@@ -32,6 +32,10 @@
             {
                 "label": "website",
                 "url": "https://www.macrocosmos.ai/sn1"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://www.macrocosmos.ai/sn1/dashboard"
             }
         ],
         "subnet_id": 1
@@ -66,30 +70,17 @@
     },
     {
         "bittensor_id": "gamma",
-        "name": "MyShell TTS",
+        "name": "Templar",
         "github": [
-            "https://github.com/myshell-ai/MyShell-TTS-Subnet"
+            "https://github.com/RaoFoundation/templar"
         ],
         "hw_requirements": "",
         "image_url": "",
-        "description": "description.html",
+        "description": "",
         "bittensor_discord_id": 1222226314824777853,
-        "team": "MyShell",
-        "summary": "Text-to-Speech (TTS) models serve as the backbone for a wide range of applications, from virtual assistants to audiobooks. MyShell pioneers this field by open-sourcing the best TTS models, OpenVoice and MeloTTS. We believe that open-source TTS models are essential for the future of AI and are committed to building a decentralized ecosystem to support their development. Yet, the TTS landscape is still in its infancy. In this subnet, we aim to gather the wisdom of the whole open-source community to create the best open-source TTS models.",
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/myshell_ai"
-            },
-            {
-                "label": "dashboard",
-                "url": "https://huggingface.co/spaces/myshell-test/tts-subnet-leaderboard"
-            },
-            {
-                "label": "application",
-                "url": "https://app.myshell.ai/robot-workshop/widget/1788537048029802496"
-            }
-        ],
+        "team": "distributed_tensor",
+        "summary": "Incentivized Wide-Internet Training.",
+        "websites": [],
         "subnet_id": 3
     },
     {
@@ -144,6 +135,10 @@
             {
                 "label": "application",
                 "url": "https://portal.kaito.ai/events/ETHDenver2024"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://sn5.kaito.ai/"
             }
         ],
         "subnet_id": 5
@@ -614,6 +609,10 @@
                 "url": "https://datura.ai/"
             },
             {
+                "label": "dashbooard",
+                "url": "https://22.datura.ai/"
+            },
+            {
                 "label": "application",
                 "url": "https://chi.datura.ai/"
             }
@@ -702,6 +701,10 @@
                 "url": "https://x.com/MacrocosmosAI"
             },
             {
+                "label": "dashboard",
+                "url": "https://www.macrocosmos.ai/sn25/dashboard"
+            },
+            {
                 "label": "website",
                 "url": "https://www.macrocosmos.ai/sn25"
             }
@@ -724,10 +727,6 @@
             {
                 "label": "twitter",
                 "url": "https://x.com/TensorAlchemy"
-            },
-            {
-                "label": "website",
-                "url": "https://tensoralchemy.ai/"
             },
             {
                 "label": "application",
@@ -760,6 +759,10 @@
             {
                 "label": "dashboard",
                 "url": "https://opencompute.streamlit.app/"
+            },
+            {
+                "label": "application",
+                "url": "https://compute.neuralinternet.ai/"
             },
             {
                 "label": "huggingface",
@@ -868,6 +871,10 @@
             {
                 "label": "twitter",
                 "url": "https://x.com/naschain_ai"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://dashboard.naschain.ai/leader-board"
             }
         ],
         "subnet_id": 31
@@ -991,7 +998,7 @@
             },
             {
                 "label": "application",
-                "url": "https://tonylvh.notion.site/LogicNet_SN35-1b44e52d308f47e7983af25bff6df90e"
+                "url": "https://albert.aitprotocol.ai/"
             }
         ],
         "subnet_id": 35
@@ -1403,7 +1410,7 @@
         "websites": [
             {
                 "label": "Website",
-                "url": "https://computenet.ai"
+                "url": "https://celiumcompute.ai/"
             }
         ],
         "subnet_id": 51
