@@ -12,6 +12,10 @@
     {
       "label": "twitter",
       "url": "https://x.com/naschain_ai"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://dashboard.naschain.ai/leader-board"
     }
   ]
 }

@@ -16,6 +16,10 @@
     {
       "label": "application",
       "url": "https://portal.kaito.ai/events/ETHDenver2024"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://sn5.kaito.ai/"
     }
   ]
 }
