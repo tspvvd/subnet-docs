@@ -12,6 +12,10 @@
     {
       "label": "website",
       "url": "https://distributed-training.notion.site/Decentralised-Distributed-Training-fd21bdfa72294dfeab8fb092770212b9"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://wandb.ai/kmfoda/distributed_training"
     }
   ]
 }
