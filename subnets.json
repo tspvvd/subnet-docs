@@ -354,7 +354,7 @@
             },
             {
                 "label": "dashboard",
-                "url": "https://app.databox.com/datawall/7db4e4fe086a0c224f988d3b7e7dc402345c20466571a84?itemId=1456301"
+                "url": "https://www.macrocosmos.ai/sn13/dashboard"
             }
         ],
         "subnet_id": 13
@@ -786,7 +786,7 @@
         "websites": [
             {
                 "label": "website",
-                "url": "https://bittensor.foundrydigital.com/"
+                "url": "https://app.yumaai.com/"
             }
         ],
         "subnet_id": 28
@@ -1041,7 +1041,7 @@
             },
             {
                 "label": "dashboard",
-                "url": "https://huggingface.co/spaces/macrocosm-os/finetuning-leaderboard"
+                "url": "https://www.macrocosmos.ai/sn37/dashboard"
             }
         ],
         "subnet_id": 37
@@ -1062,6 +1062,10 @@
             {
                 "label": "website",
                 "url": "https://distributed-training.notion.site/Decentralised-Distributed-Training-fd21bdfa72294dfeab8fb092770212b9"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://wandb.ai/kmfoda/distributed_training"
             }
         ],
         "subnet_id": 38
@@ -1209,7 +1213,7 @@
             },
             {
                 "label": "application",
-                "url": "https://graphite-ai.net/playgroundv2"
+                "url": "https://bestpath.world/"
             }
         ],
         "subnet_id": 43
@@ -1368,7 +1372,12 @@
         "bittensor_discord_id": 0,
         "team": "",
         "summary": "Hivetrain is back with an open-source, distributed AutoML subnet. We're addressing Schmidhuber's challenge of \"inventing an AI scientist smarter than himself so that he can retire.\" Our approach creates an incentive structure rewarding the creation of better neural network components and potentially new algorithms that surpass current state-of-the-art. We use a genetic language that is evolvable and searchable with gradient methods to generate increasingly complex mathematical functions.",
-        "websites": [],
+        "websites": [
+            {
+                "label": "dashboard",
+                "url": "https://mekaneeky.github.io/dashboard"
+            }
+        ],
         "subnet_id": 49
     },
     {
@@ -1489,5 +1498,73 @@
             }
         ],
         "subnet_id": 54
+    },
+    {
+        "bittensor_id": "",
+        "name": "Gradients",
+        "github": [
+            "https://github.com/rayonlabs/G.O.D/tree/main"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 0,
+        "team": "Namoray",
+        "summary": "Providing access to Bittensor network for on-demand training at scale.",
+        "websites": [
+            {
+                "label": "Website",
+                "url": "https://gradients.io/"
+            }
+        ],
+        "subnet_id": 56
+    },
+    {
+        "bittensor_id": "",
+        "name": "Gaia",
+        "github": [
+            "https://github.com/Nickel5-Inc/Gaia"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": 0,
+        "team": "Nickel5",
+        "summary": "Gaia is a subnet and platform for geospatial inference tasks.",
+        "websites": [
+            {
+                "label": "Whitepaper",
+                "url": "https://www.gaiaresearch.ai/whitepaper"
+            },
+            {
+                "label": "Discord",
+                "url": "https://discord.gg/6NAaK3QX7m"
+            }
+        ],
+        "subnet_id": 57
+    },
+    {
+        "bittensor_id": "",
+        "name": "Dippy Speech",
+        "github": [
+            "https://github.com/impel-intelligence/dippy-bittensor-subnet"
+        ],
+        "hw_requirements": "https://github.com/impel-intelligence/dippy-synthetic-speech-subnet",
+        "image_url": "",
+        "description": "description.html",
+        "bittensor_discord_id": 1232378968187867147,
+        "team": "Impel",
+        "summary": "The Dippy Empathetic Speech Subnet on Bittensor is dedicated to developing the world's most advanced open-source Speech model for immersive, lifelike interactions.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/dippy_ai"
+            },
+            {
+                "label": "application",
+                "url": "https://www.dippyspeech.com/"
+            }
+        ],
+        "subnet_id": 58
     }
 ]
