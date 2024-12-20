@@ -1,0 +1,17 @@
+{
+  "bittensor_id": "",
+  "name": "Agent Arena",
+  "github": ["https://github.com/masa-finance/agent-arena-subnet"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "",
+  "bittensor_discord_id": 1310617172132888639,
+  "team": "Masa",
+  "summary": "Welcome to Agent Arena by Masa - the first competitive agent ecosystem where market forces and real engagement drive the evolution of sentient AI agents.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/getmasafi"
+    }
+  ]
+}
