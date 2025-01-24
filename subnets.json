@@ -326,7 +326,7 @@
             },
             {
                 "label": "application",
-                "url": "https://facilitator.computehorde.io/accounts/login/?next=/"
+                "url": "https://facilitator.computehorde.io/"
             }
         ],
         "subnet_id": 12
@@ -573,6 +573,10 @@
         "summary": "OMEGA Any-to-Any specializes in developing SOTA multimodal models that excel across text, video, audio, and image modalities.",
         "websites": [
             {
+                "label": "Muse",
+                "url": "https://sn21.ai/"
+            },
+            {
                 "label": "twitter",
                 "url": "https://x.com/OMEGAlabsai"
             },
@@ -581,8 +585,8 @@
                 "url": "https://OMEGA-labs.ai/"
             },
             {
-                "label": "application",
-                "url": "https://sn21.OMEGA.inc/"
+                "label": "dashboard",
+                "url": "https://sn21.ai/dashboard"
             },
             {
                 "label": "whitepaper",
@@ -664,6 +668,10 @@
         "team": "Omega Labs",
         "summary": "OMEGA Labs incentivizes the collection of open multimodal data to accelerate AGI research and development. Contributors capture videos with metadata such as title, tags, and descriptions, obtain ImageBind embeddings for video, audio, and captions, and upload them, creating one of the largest open-source multimodal datasets.",
         "websites": [
+            {
+                "label": "Focus",
+                "url": "https://focus.omega.inc/"
+            },
             {
                 "label": "twitter",
                 "url": "https://x.com/OMEGAlabsai"
@@ -893,6 +901,10 @@
         "summary": "It's AI incentivizes the development of systems that can identify LLM-generated content.",
         "websites": [
             {
+                "label": "Chrome Extension",
+                "url": "https://chromewebstore.google.com/detail/its-ai/lbjiajoblhodlkfloiphigkcemdonidn"
+            },
+            {
                 "label": "twitter",
                 "url": "https://x.com/ai_detection"
             },
@@ -969,7 +981,7 @@
                 "url": "https://bitmindid.com/"
             },
             {
-                "label": "application",
+                "label": "Chrome Extension",
                 "url": "https://chromewebstore.google.com/detail/bitmind-agent-smith/ejlhmbdnjjlifeeelpnlkkechnmojnhg?pli=1"
             }
         ],
@@ -995,10 +1007,6 @@
             {
                 "label": "dashboard",
                 "url": "https://logicnet.streamlit.app/"
-            },
-            {
-                "label": "application",
-                "url": "https://albert.aitprotocol.ai/"
             }
         ],
         "subnet_id": 35
@@ -1013,7 +1021,7 @@
         "image_url": "",
         "summary": "The Rule 30 subnet on Bittensor aims to tackle one of complexity science's most fundamental challenges: understanding how simple rules give rise to complex, seemingly random behavior. Through distributed computation and collective analysis, we're working to unlock the secrets of emergence itself\u2014the mysterious process by which simple systems generate intricate, unpredictable patterns.",
         "bittensor_discord_id": "",
-        "team": "WOMBO",
+        "team": "Wombo",
         "description": "",
         "websites": [],
         "subnet_id": 36
@@ -1093,7 +1101,7 @@
             },
             {
                 "label": "dashboard",
-                "url": "https://huggingface.co/spaces/wombo/edge-optimization-subnet-leaderboard"
+                "url": "https://huggingface.co/spaces/wombo/edge-maxxing-dashboard"
             }
         ],
         "subnet_id": 39
@@ -1219,29 +1227,25 @@
         "subnet_id": 43
     },
     {
-        "bittensor_id": "score_predict",
-        "name": "Score Predict",
+        "bittensor_id": "score_vision",
+        "name": "Score Vision",
         "github": [
-            "https://github.com/score-protocol/score-predict"
+            "https://github.com/score-technologies/score-vision/"
         ],
         "hw_requirements": "",
         "image_url": "",
         "description": "",
-        "bittensor_discord_id": "",
+        "bittensor_discord_id": 1271486854830755981,
         "team": "",
-        "summary": "Score Predict is focused on incentivizing accurate football (soccer) match predictions.",
+        "summary": "Score Vision is a decentralised computer vision framework built on Bittensor that drastically reduces the cost and time required for complex video analysis.",
         "websites": [
             {
                 "label": "twitter",
-                "url": "https://x.com/ScorePredictHQ"
+                "url": "https://x.com/webuildscore"
             },
             {
                 "label": "website",
-                "url": "https://scorepredict.io/"
-            },
-            {
-                "label": "application",
-                "url": "https://app.scorepredict.io/"
+                "url": "https://scorevision.io/"
             }
         ],
         "subnet_id": 44
@@ -1481,23 +1485,51 @@
     },
     {
         "bittensor_id": "",
-        "name": "Document Understanding",
+        "name": "Web Genie AI",
         "github": [
-            "https://github.com/TatsuProject/Document_Understanding_Subnet"
+            "https://github.com/web-genie-ai/web-genie-ai/"
         ],
-        "hw_requirements": "",
+        "hw_requirements": "https://github.com/web-genie-ai/web-genie-ai/blob/main/min_compute.yml",
         "image_url": "",
-        "description": "description.html",
-        "bittensor_discord_id": 0,
-        "team": "Tatsu Project",
-        "summary": "Document Understanding is a project initiated by Tatsu Project and Bittensor, designed to identify the optimal risk-weighted trading strategies through the integration of decentralized machine learning networks and live trading data. This project will leverage Bittensor's innovative blockchain-powered AI learning protocol to advance our journey in discovering optimal crypto trading strategies. Furthermore, through the use of SignalPlus' market-leading platform, every day users will now be equipped with a professional trading toolkit that is available right on their desktop, enabling true democratised access and empowering the open-access initiative.",
+        "description": "",
+        "bittensor_discord_id": 1316415472563916841,
+        "team": "Web Genie AI",
+        "summary": "WebGenieAI aims to transform diverse prompts\u2014ranging from texts to concept sketches and images into fully functional, ready-to-deploy projects. This subnet is tailored for developers, designers, and innovators who seek to accelerate their project development process with high-quality, AI-generated outputs.",
         "websites": [
             {
-                "label": "Technical Guide",
-                "url": "https://github.com/TatsuProject/Document_Understanding_Subnet/blob/main/docs/Technical_Guide.md"
+                "label": "Website",
+                "url": "https://www.webgenieai.co/"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/WebGenieAI_"
             }
         ],
         "subnet_id": 54
+    },
+    {
+        "bittensor_id": "",
+        "name": "Precog",
+        "github": [
+            "https://github.com/coinmetrics/precog"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 1320766712508977192,
+        "team": "Coin Metric",
+        "summary": "The Precog Subnet will serve as an arena to identify the analysts with the best strategies and information to anticipate Bitcoin price movements, and recruit them to share their insight with the broader community.",
+        "websites": [
+            {
+                "label": "Website",
+                "url": "http://coinmetrics.io/precog"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/WebGenieAI_"
+            }
+        ],
+        "subnet_id": 55
     },
     {
         "bittensor_id": "",
@@ -1586,5 +1618,85 @@
             }
         ],
         "subnet_id": 59
+    },
+    {
+        "bittensor_id": "",
+        "name": "Redteam",
+        "github": [
+            "https://github.com/RedTeamSubnet/RedTeam"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 1319313447435108413,
+        "team": "Innerworks",
+        "summary": "At RedTeam, we're creating a hub for ethical hacking and amplifying the collective intelligence of a unique community of engineers. For the first time, sophisticated attackers can be rewarded for their ingenuity through a powerful incentive mechanism designed to uncover vulnerabilities and build more resilient systems.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://www.theredteam.io/"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://cdn.prod.website-files.com/67531c85b03434359fffb2ab/6759b1263189b1af2416a6a8_RedTeam%20Whitepaper.pdf"
+            },
+            {
+                "label": "dashboard",
+                "url": "http://storage.redteam.technology/"
+            }
+        ],
+        "subnet_id": 61
+    },
+    {
+        "bittensor_id": "",
+        "name": "Agentao",
+        "github": [
+            "https://github.com/taoagents/agentao"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 1320812830735339580,
+        "team": "",
+        "summary": "Agentao is an initiative to create a decentralized, self-sustaining marketplace of autonomous software engineering agents. Our mission is to incentivize autonomous SWE agents to tackle real-world software problems, solving increasingly complex and general tasks.",
+        "websites": [
+            {
+                "label": "dataset",
+                "url": "https://huggingface.co/datasets/AgenTao/cerebro"
+            },
+            {
+                "label": "agent",
+                "url": "https://x.com/taogod_terminal"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://agentao.vercel.app/"
+            }
+        ],
+        "subnet_id": 62
+    },
+    {
+        "bittensor_id": "",
+        "name": "Chutes",
+        "github": [
+            "https://github.com/rayonlabs/chutes-miner"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 1320739778534047785,
+        "team": "Rayon Labs",
+        "summary": "Chutes provides true serverless, permissionless, decentralized, affordable compute to the world, with an economic model built for the upcoming dTao future.",
+        "websites": [
+            {
+                "label": "application",
+                "url": "https://chutes.ai/"
+            },
+            {
+                "label": "Miner Dashboard",
+                "url": "https://api.chutes.ai/miner/stats"
+            }
+        ],
+        "subnet_id": 64
     }
 ]
