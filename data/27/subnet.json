@@ -24,10 +24,6 @@
     {
       "label": "application",
       "url": "https://compute.neuralinternet.ai/"
-    },
-    {
-      "label": "huggingface",
-      "url": "https://huggingface.co/NeuralInternet"
     }
   ]
 }

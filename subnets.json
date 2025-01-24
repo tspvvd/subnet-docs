@@ -80,7 +80,12 @@
         "bittensor_discord_id": 1222226314824777853,
         "team": "distributed_tensor",
         "summary": "Incentivized Wide-Internet Training.",
-        "websites": [],
+        "websites": [
+            {
+                "label": "dashboard",
+                "url": "https://wandb.ai/tplr/templar"
+            }
+        ],
         "subnet_id": 3
     },
     {
@@ -679,6 +684,10 @@
             {
                 "label": "dashboard",
                 "url": "https://huggingface.co/datasets/OMEGAlabsinc/OMEGA-multimodal"
+            },
+            {
+                "label": "OMEGA Focus",
+                "url": "https://focus.omega.inc/"
             }
         ],
         "subnet_id": 24
@@ -763,10 +772,6 @@
             {
                 "label": "application",
                 "url": "https://compute.neuralinternet.ai/"
-            },
-            {
-                "label": "huggingface",
-                "url": "https://huggingface.co/NeuralInternet"
             }
         ],
         "subnet_id": 27
@@ -1481,20 +1486,20 @@
     },
     {
         "bittensor_id": "",
-        "name": "Document Understanding",
+        "name": "Brainlock",
         "github": [
-            "https://github.com/TatsuProject/Document_Understanding_Subnet"
+            "https://github.com/brainlock-ai/fhe-subnet/"
         ],
         "hw_requirements": "",
         "image_url": "",
-        "description": "description.html",
+        "description": "",
         "bittensor_discord_id": 0,
-        "team": "Tatsu Project",
-        "summary": "Document Understanding is a project initiated by Tatsu Project and Bittensor, designed to identify the optimal risk-weighted trading strategies through the integration of decentralized machine learning networks and live trading data. This project will leverage Bittensor's innovative blockchain-powered AI learning protocol to advance our journey in discovering optimal crypto trading strategies. Furthermore, through the use of SignalPlus' market-leading platform, every day users will now be equipped with a professional trading toolkit that is available right on their desktop, enabling true democratised access and empowering the open-access initiative.",
+        "team": "",
+        "summary": "The primary goal of the Brainlock Subnet is to revolutionize privacy-preserving computation by making Fully Homomorphic Encryption (FHE) more practical and efficient for real-world applications.",
         "websites": [
             {
-                "label": "Technical Guide",
-                "url": "https://github.com/TatsuProject/Document_Understanding_Subnet/blob/main/docs/Technical_Guide.md"
+                "label": "Dashboard",
+                "url": "https://grafana.brainlock.ai/d/validator/validator-dashboard?orgId=1&from=now-5m&to=now&timezone=browser&refresh=5s"
             }
         ],
         "subnet_id": 54
@@ -1583,8 +1588,88 @@
             {
                 "label": "twitter",
                 "url": "https://x.com/getmasafi"
+            },
+            {
+                "label": "Leaderboard",
+                "url": "https://app.masa.ai/agent-arena"
             }
         ],
         "subnet_id": 59
+    },
+    {
+        "bittensor_id": "",
+        "name": "Redteam",
+        "github": [
+            "https://github.com/RedTeamSubnet/RedTeam"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 1319313447435108413,
+        "team": "Innerworks",
+        "summary": "At RedTeam, we're creating a hub for ethical hacking and amplifying the collective intelligence of a unique community of engineers. For the first time, sophisticated attackers can be rewarded for their ingenuity through a powerful incentive mechanism designed to uncover vulnerabilities and build more resilient systems.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://www.theredteam.io/"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://cdn.prod.website-files.com/67531c85b03434359fffb2ab/6759b1263189b1af2416a6a8_RedTeam%20Whitepaper.pdf"
+            },
+            {
+                "label": "dashboard",
+                "url": "http://storage.redteam.technology/"
+            }
+        ],
+        "subnet_id": 61
+    },
+    {
+        "bittensor_id": "",
+        "name": "Agentao",
+        "github": [
+            "https://github.com/taoagents/agentao"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 1320812830735339580,
+        "team": "",
+        "summary": "Agentao is an initiative to create a decentralized, self-sustaining marketplace of autonomous software engineering agents. Our mission is to incentivize autonomous SWE agents to tackle real-world software problems, solving increasingly complex and general tasks.",
+        "websites": [
+            {
+                "label": "dataset",
+                "url": "https://huggingface.co/datasets/AgenTao/cerebro"
+            },
+            {
+                "label": "agent",
+                "url": "https://x.com/taogod_terminal"
+            }
+        ],
+        "subnet_id": 62
+    },
+    {
+        "bittensor_id": "",
+        "name": "Chutes",
+        "github": [
+            "https://github.com/rayonlabs/chutes-miner"
+        ],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 1320739778534047785,
+        "team": "Rayon Labs",
+        "summary": "Chutes provides true serverless, permissionless, decentralized, affordable compute to the world, with an economic model built for the upcoming dTao future.",
+        "websites": [
+            {
+                "label": "application",
+                "url": "https://chutes.ai/"
+            },
+            {
+                "label": "Miner Dashboard",
+                "url": "https://api.chutes.ai/miner/stats"
+            }
+        ],
+        "subnet_id": 64
     }
 ]
