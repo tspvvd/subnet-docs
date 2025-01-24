@@ -1,17 +1,21 @@
 {
   "bittensor_id": "",
-  "name": "Document Understanding",
-  "github": ["https://github.com/TatsuProject/Document_Understanding_Subnet"],
-  "hw_requirements": "",
+  "name": "Web Genie AI",
+  "github": ["https://github.com/web-genie-ai/web-genie-ai/"],
+  "hw_requirements": "https://github.com/web-genie-ai/web-genie-ai/blob/main/min_compute.yml",
   "image_url": "",
-  "description": "description.html",
-  "bittensor_discord_id": 0,
-  "team": "Tatsu Project",
-  "summary": "Document Understanding is a project initiated by Tatsu Project and Bittensor, designed to identify the optimal risk-weighted trading strategies through the integration of decentralized machine learning networks and live trading data. This project will leverage Bittensor's innovative blockchain-powered AI learning protocol to advance our journey in discovering optimal crypto trading strategies. Furthermore, through the use of SignalPlus' market-leading platform, every day users will now be equipped with a professional trading toolkit that is available right on their desktop, enabling true democratised access and empowering the open-access initiative.",
+  "description": "",
+  "bittensor_discord_id": 1316415472563916841,
+  "team": "Web Genie AI",
+  "summary": "WebGenieAI aims to transform diverse prompts—ranging from texts to concept sketches and images into fully functional, ready-to-deploy projects. This subnet is tailored for developers, designers, and innovators who seek to accelerate their project development process with high-quality, AI-generated outputs.",
   "websites": [
     {
-      "label": "Technical Guide",
-      "url": "https://github.com/TatsuProject/Document_Understanding_Subnet/blob/main/docs/Technical_Guide.md"
+      "label": "Website",
+      "url": "https://www.webgenieai.co/"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/WebGenieAI_"
     }
   ]
 }

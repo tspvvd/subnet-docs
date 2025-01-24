@@ -10,6 +10,10 @@
   "summary": "OMEGA Any-to-Any specializes in developing SOTA multimodal models that excel across text, video, audio, and image modalities.",
   "websites": [
     {
+      "label": "Muse",
+      "url": "https://sn21.ai/"
+    },
+    {
       "label": "twitter",
       "url": "https://x.com/OMEGAlabsai"
     },
@@ -18,8 +22,8 @@
       "url": "https://OMEGA-labs.ai/"
     },
     {
-      "label": "application",
-      "url": "https://sn21.OMEGA.inc/"
+      "label": "dashboard",
+      "url": "https://sn21.ai/dashboard"
     },
     {
       "label": "whitepaper",

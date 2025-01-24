@@ -10,6 +10,10 @@
   "summary": "OMEGA Labs incentivizes the collection of open multimodal data to accelerate AGI research and development. Contributors capture videos with metadata such as title, tags, and descriptions, obtain ImageBind embeddings for video, audio, and captions, and upload them, creating one of the largest open-source multimodal datasets.",
   "websites": [
     {
+      "label": "Focus",
+      "url": "https://focus.omega.inc/"
+    },
+    {
       "label": "twitter",
       "url": "https://x.com/OMEGAlabsai"
     },

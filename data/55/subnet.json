@@ -1,0 +1,21 @@
+{
+  "bittensor_id": "",
+  "name": "Precog",
+  "github": ["https://github.com/coinmetrics/precog"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "",
+  "bittensor_discord_id": 1320766712508977192,
+  "team": "Coin Metric",
+  "summary": "The Precog Subnet will serve as an arena to identify the analysts with the best strategies and information to anticipate Bitcoin price movements, and recruit them to share their insight with the broader community.",
+  "websites": [
+    {
+      "label": "Website",
+      "url": "http://coinmetrics.io/precog"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/WebGenieAI_"
+    }
+  ]
+}

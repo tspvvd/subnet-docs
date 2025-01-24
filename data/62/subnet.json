@@ -1,0 +1,25 @@
+{
+  "bittensor_id": "",
+  "name": "Agentao",
+  "github": ["https://github.com/taoagents/agentao"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "",
+  "bittensor_discord_id": 1320812830735339580,
+  "team": "",
+  "summary": "Agentao is an initiative to create a decentralized, self-sustaining marketplace of autonomous software engineering agents. Our mission is to incentivize autonomous SWE agents to tackle real-world software problems, solving increasingly complex and general tasks.",
+  "websites": [
+    {
+      "label": "dataset",
+      "url": "https://huggingface.co/datasets/AgenTao/cerebro"
+    },
+    {
+      "label": "agent",
+      "url": "https://x.com/taogod_terminal"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://agentao.vercel.app/"
+    }
+  ]
+}
