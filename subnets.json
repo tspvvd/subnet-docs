@@ -80,7 +80,12 @@
         "bittensor_discord_id": 1222226314824777853,
         "team": "distributed_tensor",
         "summary": "Incentivized Wide-Internet Training.",
-        "websites": [],
+        "websites": [
+            {
+                "label": "dashboard",
+                "url": "https://wandb.ai/tplr/templar"
+            }
+        ],
         "subnet_id": 3
     },
     {
@@ -687,6 +692,10 @@
             {
                 "label": "dashboard",
                 "url": "https://huggingface.co/datasets/OMEGAlabsinc/OMEGA-multimodal"
+            },
+            {
+                "label": "OMEGA Focus",
+                "url": "https://focus.omega.inc/"
             }
         ],
         "subnet_id": 24
@@ -771,10 +780,6 @@
             {
                 "label": "application",
                 "url": "https://compute.neuralinternet.ai/"
-            },
-            {
-                "label": "huggingface",
-                "url": "https://huggingface.co/NeuralInternet"
             }
         ],
         "subnet_id": 27
@@ -1615,6 +1620,10 @@
             {
                 "label": "twitter",
                 "url": "https://x.com/getmasafi"
+            },
+            {
+                "label": "Leaderboard",
+                "url": "https://app.masa.ai/agent-arena"
             }
         ],
         "subnet_id": 59

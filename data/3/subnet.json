@@ -9,5 +9,9 @@
   "team": "distributed_tensor",
   "summary": "Incentivized Wide-Internet Training.",
   "websites": [
+    {
+      "label": "dashboard",
+      "url": "https://wandb.ai/tplr/templar"
+    }
   ]
 }

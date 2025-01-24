@@ -28,6 +28,10 @@
     {
       "label": "dashboard",
       "url": "https://huggingface.co/datasets/OMEGAlabsinc/OMEGA-multimodal"
+    },
+    {
+      "label": "OMEGA Focus",
+      "url": "https://focus.omega.inc/"
     }
   ]
 }
