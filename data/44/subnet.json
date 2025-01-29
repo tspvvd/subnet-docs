@@ -1,25 +1,21 @@
 {
-  "bittensor_id": "score_predict",
-  "name": "Score Predict",
-  "github": ["https://github.com/score-protocol/score-predict"],
+  "bittensor_id": "score_vision",
+  "name": "Score Vision",
+  "github": ["https://github.com/score-technologies/score-vision/"],
   "hw_requirements": "",
   "image_url": "",
   "description": "",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": 1271486854830755981,
   "team": "",
-  "summary": "Score Predict is focused on incentivizing accurate football (soccer) match predictions.",
+  "summary": "Score Vision is a decentralised computer vision framework built on Bittensor that drastically reduces the cost and time required for complex video analysis.",
   "websites": [
     {
       "label": "twitter",
-      "url": "https://x.com/ScorePredictHQ"
+      "url": "https://x.com/webuildscore"
     },
     {
       "label": "website",
-      "url": "https://scorepredict.io/"
-    },
-    {
-      "label": "application",
-      "url": "https://app.scorepredict.io/"
+      "url": "https://scorevision.io/"
     }
   ]
 }

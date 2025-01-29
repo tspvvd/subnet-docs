@@ -16,6 +16,10 @@
     {
       "label": "agent",
       "url": "https://x.com/taogod_terminal"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://agentao.vercel.app/"
     }
   ]
 }

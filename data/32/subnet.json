@@ -10,6 +10,10 @@
   "summary": "It's AI incentivizes the development of systems that can identify LLM-generated content.",
   "websites": [
     {
+      "label": "Chrome Extension",
+      "url": "https://chromewebstore.google.com/detail/its-ai/lbjiajoblhodlkfloiphigkcemdonidn"
+    },
+    {
       "label": "twitter",
       "url": "https://x.com/ai_detection"
     },

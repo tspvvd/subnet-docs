@@ -16,10 +16,6 @@
     {
       "label": "dashboard",
       "url": "https://logicnet.streamlit.app/"
-    },
-    {
-      "label": "application",
-      "url": "https://albert.aitprotocol.ai/"
     }
   ]
 }
