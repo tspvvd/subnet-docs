@@ -1,0 +1,12 @@
+{
+  "bittensor_id": "",
+  "name": "Bitsec",
+  "github": ["https://github.com/Bitsec-AI/subnet"],
+  "hw_requirements": "",
+  "image_url": "",
+  "description": "",
+  "bittensor_discord_id": 1310617172132888639,
+  "team": "Bitsec",
+  "summary": "Bitsec is an ecosystem for AI-powered code vulnerability detection",
+  "websites": []
+}
