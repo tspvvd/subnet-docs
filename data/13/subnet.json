@@ -20,6 +20,10 @@
     {
       "label": "dashboard",
       "url": "https://www.macrocosmos.ai/sn13/dashboard"
+    },
+    {
+      "label": "tplx_publication_link",
+      "url": "https://medium.com/@tensorplexlabs/bittensor-subnet-13-data-universe-decentralised-data-scraping-3787abfe2ae0"
     }
   ]
 }

@@ -64,6 +64,14 @@
             {
                 "label": "whitepaper",
                 "url": "https://docs.omron.ai/"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://wandb.ai/inferencelabs/omron"
+            },
+            {
+                "label": "tplx_publication_link",
+                "url": "https://medium.com/@tensorplexlabs/bittensor-subnet-2-omron-zero-knowledge-machine-learning-4dfa7f192fcd"
             }
         ],
         "subnet_id": 2
@@ -360,30 +368,38 @@
             {
                 "label": "dashboard",
                 "url": "https://www.macrocosmos.ai/sn13/dashboard"
+            },
+            {
+                "label": "tplx_publication_link",
+                "url": "https://medium.com/@tensorplexlabs/bittensor-subnet-13-data-universe-decentralised-data-scraping-3787abfe2ae0"
             }
         ],
         "subnet_id": 13
     },
     {
-        "bittensor_id": "palaidn",
-        "name": "Palaidn",
+        "bittensor_id": "",
+        "name": "Vector Store",
         "github": [
-            "https://github.com/palaidn/palaidn_subnet"
+            "https://github.com/vector-pool/vector-store"
         ],
         "hw_requirements": "",
         "image_url": "",
-        "description": "description.html",
-        "bittensor_discord_id": "",
+        "description": "",
+        "bittensor_discord_id": "1310625466411122789",
         "team": "",
-        "summary": "Palaidn incentivizes contributors to develop AI models that detect malicious transactions and vulnerabilities in onchain networks.",
+        "summary": "The VectorStore Subnet is engineered to enhance the efficiency of text embedding and storage, enabling seamless processing of queries from validators to pinpoint the most relevant results based on pre-computed embeddings.",
         "websites": [
             {
-                "label": "twitter",
-                "url": "https://x.com/Palaidn"
+                "label": "discord",
+                "url": "https://discord.gg/uzfayj2RRD"
             },
             {
-                "label": "website",
-                "url": "https://palaidn.com/"
+                "label": "dashboard",
+                "url": "https://tensorpool.net/"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://docs.google.com/document/d/1aYNFSXnlQSf4eN9Pxy4U0GS4rbbcJ6An1XaNm6SnzD0"
             }
         ],
         "subnet_id": 14
@@ -601,29 +617,25 @@
         "subnet_id": 21
     },
     {
-        "bittensor_id": "smart_scrape",
-        "name": "Smart-Scrape",
+        "bittensor_id": "desearch",
+        "name": "Desearch",
         "github": [
-            "https://github.com/Datura-ai/smart-scrape"
+            "https://github.com/Datura-ai/desearch"
         ],
         "hw_requirements": "",
         "image_url": "",
-        "description": "description.html",
+        "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "Smart-Scrape is focused on analyzing X/Twitter data. Contributors perform sentiment and metadata analysis of tweets, providing deeper insights into user interactions.",
+        "summary": "Welcome to Desearch, the AI-powered search engine built on Bittensor. Designed for the Bittensor community and general internet users, Desearch delivers an unbiased and verifiable search experience. Through our API, developers and AI builders are empowered to integrate AI search capabilities into their products, with access to metadata from platforms like X, Reddit, Arxiv and general web search.",
         "websites": [
             {
+                "label": "x",
+                "url": "https://x.com/desearch_ai/"
+            },
+            {
                 "label": "website",
-                "url": "https://datura.ai/"
-            },
-            {
-                "label": "dashbooard",
-                "url": "https://22.datura.ai/"
-            },
-            {
-                "label": "application",
-                "url": "https://chi.datura.ai/"
+                "url": "https://desearch.ai/"
             }
         ],
         "subnet_id": 22
@@ -724,6 +736,10 @@
             {
                 "label": "website",
                 "url": "https://www.macrocosmos.ai/sn25"
+            },
+            {
+                "label": "tplx_publication_link",
+                "url": "https://medium.com/@tensorplexlabs/bittensor-subnet-review-sn25-protein-folding-f0ca9dc3d479"
             }
         ],
         "subnet_id": 25
@@ -888,6 +904,10 @@
             {
                 "label": "dashboard",
                 "url": "https://dashboard.naschain.ai/leader-board"
+            },
+            {
+                "label": "tplx_publication_link",
+                "url": "https://medium.com/@tensorplexlabs/bittensor-subnet-review-sn31-neural-architecture-search-dd90b5d84f0b"
             }
         ],
         "subnet_id": 31
@@ -1018,15 +1038,15 @@
     },
     {
         "bittensor_id": "",
-        "name": "Pyramid Scheme",
+        "name": "Web Agents",
         "github": [
-            "https://github.com/womboai/pyramid-scheme"
+            "https://github.com/autoppia/autoppia_web_agents_subnet"
         ],
         "hw_requirements": "",
         "image_url": "",
-        "summary": "The Rule 30 subnet on Bittensor aims to tackle one of complexity science's most fundamental challenges: understanding how simple rules give rise to complex, seemingly random behavior. Through distributed computation and collective analysis, we're working to unlock the secrets of emergence itself\u2014the mysterious process by which simple systems generate intricate, unpredictable patterns.",
+        "summary": "Web Agents Subnet leverages our Infinite Web Arena (IWA) benchmark to incentivize Bittensor miners to develop SOTA web agents.",
         "bittensor_discord_id": "",
-        "team": "Wombo",
+        "team": "Autoppia",
         "description": "",
         "websites": [],
         "subnet_id": 36
@@ -1527,7 +1547,7 @@
             },
             {
                 "label": "twitter",
-                "url": "https://x.com/WebGenieAI_"
+                "url": "https://x.com/CM_Precog"
             }
         ],
         "subnet_id": 55
