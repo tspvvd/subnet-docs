@@ -16,6 +16,10 @@
     {
       "label": "dashboard",
       "url": "https://dashboard.naschain.ai/leader-board"
+    },
+    {
+      "label": "tplx_publication_link",
+      "url": "https://medium.com/@tensorplexlabs/bittensor-subnet-review-sn31-neural-architecture-search-dd90b5d84f0b"
     }
   ]
 }

@@ -1,25 +1,21 @@
 {
-  "bittensor_id": "smart_scrape",
-  "name": "Smart-Scrape",
-  "github": ["https://github.com/Datura-ai/smart-scrape"],
+  "bittensor_id": "desearch",
+  "name": "Desearch",
+  "github": ["https://github.com/Datura-ai/desearch"],
   "hw_requirements": "",
   "image_url": "",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "Smart-Scrape is focused on analyzing X/Twitter data. Contributors perform sentiment and metadata analysis of tweets, providing deeper insights into user interactions.",
+  "summary": "Welcome to Desearch, the AI-powered search engine built on Bittensor. Designed for the Bittensor community and general internet users, Desearch delivers an unbiased and verifiable search experience. Through our API, developers and AI builders are empowered to integrate AI search capabilities into their products, with access to metadata from platforms like X, Reddit, Arxiv and general web search.",
   "websites": [
     {
+      "label": "x",
+      "url": "https://x.com/desearch_ai/"
+    },
+    {
       "label": "website",
-      "url": "https://datura.ai/"
-    },
-    {
-      "label": "dashbooard",
-      "url": "https://22.datura.ai/"
-    },
-    {
-      "label": "application",
-      "url": "https://chi.datura.ai/"
+      "url": "https://desearch.ai/"
     }
   ]
 }

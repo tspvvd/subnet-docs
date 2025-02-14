@@ -1,12 +1,12 @@
 {
   "bittensor_id": "",
-  "name": "Pyramid Scheme",
-  "github": ["https://github.com/womboai/pyramid-scheme"],
+  "name": "Web Agents",
+  "github": ["https://github.com/autoppia/autoppia_web_agents_subnet"],
   "hw_requirements": "",
   "image_url": "",
-  "summary": "The Rule 30 subnet on Bittensor aims to tackle one of complexity science's most fundamental challenges: understanding how simple rules give rise to complex, seemingly random behavior. Through distributed computation and collective analysis, we're working to unlock the secrets of emergence itself—the mysterious process by which simple systems generate intricate, unpredictable patterns.",
+  "summary": "Web Agents Subnet leverages our Infinite Web Arena (IWA) benchmark to incentivize Bittensor miners to develop SOTA web agents.",
   "bittensor_discord_id": "",
-  "team": "Wombo",
+  "team": "Autoppia",
   "description": "",
   "websites": []
 }

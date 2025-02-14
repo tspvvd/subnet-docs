@@ -20,6 +20,14 @@
     {
       "label": "whitepaper",
       "url": "https://docs.omron.ai/"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://wandb.ai/inferencelabs/omron"
+    },
+    {
+      "label": "tplx_publication_link",
+      "url": "https://medium.com/@tensorplexlabs/bittensor-subnet-2-omron-zero-knowledge-machine-learning-4dfa7f192fcd"
     }
   ]
 }

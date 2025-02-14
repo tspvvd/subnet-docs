@@ -1,21 +1,25 @@
 {
-  "bittensor_id": "palaidn",
-  "name": "Palaidn",
-  "github": ["https://github.com/palaidn/palaidn_subnet"],
+  "bittensor_id": "",
+  "name": "Vector Store",
+  "github": ["https://github.com/vector-pool/vector-store"],
   "hw_requirements": "",
   "image_url": "",
-  "description": "description.html",
-  "bittensor_discord_id": "",
+  "description": "",
+  "bittensor_discord_id": "1310625466411122789",
   "team": "",
-  "summary": "Palaidn incentivizes contributors to develop AI models that detect malicious transactions and vulnerabilities in onchain networks.",
+  "summary": "The VectorStore Subnet is engineered to enhance the efficiency of text embedding and storage, enabling seamless processing of queries from validators to pinpoint the most relevant results based on pre-computed embeddings.",
   "websites": [
     {
-      "label": "twitter",
-      "url": "https://x.com/Palaidn"
+      "label": "discord",
+      "url": "https://discord.gg/uzfayj2RRD"
     },
     {
-      "label": "website",
-      "url": "https://palaidn.com/"
+      "label": "dashboard",
+      "url": "https://tensorpool.net/"
+    },
+    {
+      "label": "whitepaper",
+      "url": "https://docs.google.com/document/d/1aYNFSXnlQSf4eN9Pxy4U0GS4rbbcJ6An1XaNm6SnzD0"
     }
   ]
 }
