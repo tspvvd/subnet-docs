@@ -745,27 +745,18 @@
         "subnet_id": 25
     },
     {
-        "bittensor_id": "tensor_alchemy",
-        "name": "Tensor Alchemy",
+        "bittensor_id": "",
+        "name": "",
         "github": [
-            "https://github.com/TensorAlchemy/TensorAlchemy"
+            ""
         ],
         "hw_requirements": "",
         "image_url": "",
-        "description": "description.html",
+        "description": "",
         "bittensor_discord_id": "",
-        "team": "Tensor Alchemy",
-        "summary": "TensorAlchemy specializes in image generation, incorporating a human scoring element where contributors provide feedback to refine and optimize AI outputs.",
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/TensorAlchemy"
-            },
-            {
-                "label": "application",
-                "url": "https://tensoralchemy.ai/"
-            }
-        ],
+        "team": "",
+        "summary": "",
+        "websites": [],
         "subnet_id": 26
     },
     {
@@ -801,23 +792,18 @@
         "subnet_id": 27
     },
     {
-        "bittensor_id": "foundry_sp500_oracle",
-        "name": "Foundry S&P 500 Oracle",
+        "bittensor_id": "",
+        "name": "",
         "github": [
-            "https://github.com/foundryservices/snpOracle"
+            ""
         ],
         "hw_requirements": "",
         "image_url": "",
-        "description": "description.html",
+        "description": "",
         "bittensor_discord_id": "",
-        "team": "Foundry",
-        "summary": "Foundry S&P 500 Oracle incentivizes miners to make accurate predictions on the S&P 500 price throughout trading hours.",
-        "websites": [
-            {
-                "label": "website",
-                "url": "https://app.yumaai.com/"
-            }
-        ],
+        "team": "",
+        "summary": "",
+        "websites": [],
         "subnet_id": 28
     },
     {
