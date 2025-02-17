@@ -1,17 +1,12 @@
 {
-  "bittensor_id": "foundry_sp500_oracle",
-  "name": "Foundry S&P 500 Oracle",
-  "github": ["https://github.com/foundryservices/snpOracle"],
+  "bittensor_id": "",
+  "name": "",
+  "github": [""],
   "hw_requirements": "",
   "image_url": "",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "",
-  "team": "Foundry",
-  "summary": "Foundry S&P 500 Oracle incentivizes miners to make accurate predictions on the S&P 500 price throughout trading hours.",
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://app.yumaai.com/"
-    }
-  ]
+  "team": "",
+  "summary": "",
+  "websites": []
 }
