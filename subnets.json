@@ -1703,6 +1703,19 @@
     },
     {
         "bittensor_id": "",
+        "name": "Unnamed",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 1320739778534047785,
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 63
+    },
+    {
+        "bittensor_id": "",
         "name": "Chutes",
         "github": [
             "https://github.com/rayonlabs/chutes-miner"
@@ -1724,5 +1737,18 @@
             }
         ],
         "subnet_id": 64
+    },
+    {
+        "bittensor_id": "",
+        "name": "Unnamed",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 1320739778534047785,
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 65
     }
 ]
