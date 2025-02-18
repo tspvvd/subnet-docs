@@ -1431,6 +1431,10 @@
             {
                 "label": "Website",
                 "url": "https://celiumcompute.ai/"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/celiumcompute"
             }
         ],
         "subnet_id": 51
@@ -1452,15 +1456,15 @@
         "summary": "Tensorplex Dojo Subnet is an open platform designed to crowdsource high-quality human-generated datasets. Powered by Bittensor, the Dojo Subnet addresses these challenges by allowing anyone to earn TAO by labeling data or providing human-preference data. This approach democratizes the collection of human preference data, addressing existing equity issues and paving the way for more inclusive and ethical AI development.",
         "websites": [
             {
-                "label": "Twitter",
+                "label": "twitter",
                 "url": "https://x.com/TensorplexLabs"
             },
             {
-                "label": "Application",
+                "label": "application",
                 "url": "https://dojo.tensorplex.ai"
             },
             {
-                "label": "Website",
+                "label": "website",
                 "url": "https://www.tensorplex.ai"
             },
             {
@@ -1486,6 +1490,10 @@
             {
                 "label": "Website",
                 "url": "https://t.signalplus.com"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/Effi_Frontier"
             }
         ],
         "subnet_id": 53
@@ -1572,12 +1580,16 @@
         "summary": "Gaia is a subnet and platform for geospatial inference tasks.",
         "websites": [
             {
-                "label": "Whitepaper",
+                "label": "whitepaper",
                 "url": "https://www.gaiaresearch.ai/whitepaper"
             },
             {
-                "label": "Discord",
+                "label": "discord",
                 "url": "https://discord.gg/6NAaK3QX7m"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/VenturaLabs"
             }
         ],
         "subnet_id": 57
