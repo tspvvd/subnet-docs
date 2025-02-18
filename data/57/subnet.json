@@ -10,12 +10,16 @@
   "summary": "Gaia is a subnet and platform for geospatial inference tasks.",
   "websites": [
     {
-      "label": "Whitepaper",
+      "label": "whitepaper",
       "url": "https://www.gaiaresearch.ai/whitepaper"
     },
     {
-      "label": "Discord",
+      "label": "discord",
       "url": "https://discord.gg/6NAaK3QX7m"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/VenturaLabs"
     }
   ]
 }

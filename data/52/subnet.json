@@ -15,15 +15,15 @@
   "summary": "Tensorplex Dojo Subnet is an open platform designed to crowdsource high-quality human-generated datasets. Powered by Bittensor, the Dojo Subnet addresses these challenges by allowing anyone to earn TAO by labeling data or providing human-preference data. This approach democratizes the collection of human preference data, addressing existing equity issues and paving the way for more inclusive and ethical AI development.",
   "websites": [
     {
-      "label": "Twitter",
+      "label": "twitter",
       "url": "https://x.com/TensorplexLabs"
     },
     {
-      "label": "Application",
+      "label": "application",
       "url": "https://dojo.tensorplex.ai"
     },
     {
-      "label": "Website",
+      "label": "website",
       "url": "https://www.tensorplex.ai"
     },
     {
