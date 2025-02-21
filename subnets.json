@@ -1441,7 +1441,7 @@
     },
     {
         "bittensor_id": "",
-        "name": "Dojo",
+        "name": "Tensorplex Dojo",
         "github": [
             "https://github.com/tensorplex-labs/dojo",
             "https://github.com/tensorplex-labs/dojo-synthetic-api",
