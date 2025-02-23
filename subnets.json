@@ -1761,27 +1761,31 @@
     },
     {
         "bittensor_id": "",
-        "name": "Unnamed",
-        "github": [],
+        "name": "TAO Private Network",
+        "github": [
+            "https://github.com/beyond-stake/tpn-subnet"
+        ],
         "hw_requirements": "",
         "image_url": "",
         "description": "",
         "bittensor_discord_id": 1320739778534047785,
         "team": "",
-        "summary": "",
+        "summary": "TPN is a decentralized subnet designed to empower secure, private, and geographically diverse internet access through a global network of VPN providers. By coordinating miners and validators, TPN ensures reliable, censorship-resistant connectivity while rewarding contributors for their participation.",
         "websites": [],
         "subnet_id": 65
     },
     {
         "bittensor_id": "",
-        "name": "Unnamed",
-        "github": [],
+        "name": "Fake News",
+        "github": [
+            "https://github.com/gutenberg-team/fakenews-subnet"
+        ],
         "hw_requirements": "",
         "image_url": "",
         "description": "",
         "bittensor_discord_id": 1320739778534047785,
         "team": "",
-        "summary": "",
+        "summary": "FakeNews is subnet, dedicated to combating misinformation by providing real-time fake news detection and advanced fact-checking capabilities. This subnet aims to deliver the highest possible accuracy, surpassing traditional solutions\u2014even for real-time verifications. Our vision is to create the world\u2019s most trusted source for news and fact verification, ensuring every user can rely on timely and accurate insights with help and power of decentralized AI community.",
         "websites": [],
         "subnet_id": 66
     },
@@ -1797,5 +1801,31 @@
         "summary": "",
         "websites": [],
         "subnet_id": 67
+    },
+    {
+        "bittensor_id": "",
+        "name": "LOL",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 1320739778534047785,
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 68
+    },
+    {
+        "bittensor_id": "",
+        "name": "Unnamed",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": 1320739778534047785,
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 69
     }
 ]
