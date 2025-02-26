@@ -1,11 +1,13 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "proprietary_trading_network",
+  "letter": "θ",
   "name": "Proprietary Trading Network",
   "github": ["https://github.com/taoshidev/proprietary-trading-network"],
   "hw_requirements": "",
   "image_url": "",
   "description": "description.html",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1162384774170677318",
   "team": "",
   "summary": "The Proprietary Trading Network incentivizes the contribution of profitable trading strategies across various financial markets. Contributors who provide the best trading signals receive the highest rewards, attracting skilled traders, data scientists, and machine learning teams to compete.",
   "websites": [

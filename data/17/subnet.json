@@ -1,11 +1,13 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "three_gen",
+  "letter": "ρ",
   "name": "Three Gen",
   "github": ["https://github.com/404-Repo/three-gen-subnet/"],
   "hw_requirements": "",
   "image_url": "",
   "description": "description.html",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1179081290289528864",
   "team": "404",
   "summary": "Three Gen incentivizes the development of AI models for generating 3D digital assets and the creation of synthetic 3D model datasets.",
   "websites": [

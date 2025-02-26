@@ -1,11 +1,13 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "",
+  "letter": "خ",
   "name": "Dippy Speech",
   "github": ["https://github.com/impel-intelligence/dippy-bittensor-subnet"],
   "hw_requirements": "https://github.com/impel-intelligence/dippy-synthetic-speech-subnet",
   "image_url": "",
   "description": "description.html",
-  "bittensor_discord_id": 1232378968187867147,
+  "bittensor_discord_id": "1304499133675081761",
   "team": "Impel",
   "summary": "The Dippy Empathetic Speech Subnet on Bittensor is dedicated to developing the world's most advanced open-source Speech model for immersive, lifelike interactions.",
   "websites": [

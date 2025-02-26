@@ -1,16 +1,18 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "",
+  "letter": "ج",
   "name": "Gradients",
   "github": ["https://github.com/rayonlabs/G.O.D/tree/main"],
   "hw_requirements": "",
   "image_url": "",
   "description": "",
-  "bittensor_discord_id": 0,
+  "bittensor_discord_id": "1311360495428702240",
   "team": "Namoray",
   "summary": "Providing access to Bittensor network for on-demand training at scale.",
   "websites": [
     {
-      "label": "Website",
+      "label": "website",
       "url": "https://gradients.io/"
     }
   ]

@@ -1,27 +1,27 @@
 {
-    "bittensor_id": "final-tsadi",
-    "name": "Neural3D",
-    "github": [
-        "https://github.com/GoNeuralAI/neural-subnet"
-    ],
-    "hw_requirements": "",
-    "image_url": "https://github.com/safe-scan-ai/cancer-ai-3/raw/LEMSTUDI0-patch-1/DOCS/header.png",
-    "description": "",
-    "bittensor_discord_id": 1275149537547391058,
-    "team": "Neural AI",
-    "summary": "The goal of this subnet is to provide end users (game developers, virtual production, etc.) a way to populate 3D worlds by quickly generating high quality 3D assets based on text prompts via web app, API or plugins for game engines (e.g Unreal Engine & Unity), while simultaneously building a massive open-source library of 3D assets that can be used amongst other things, for further model training.",
-    "websites": [
-        {
-            "label": "twitter",
-            "url": "https://x.com/GoNeuralAI"
-        },
-        {
-            "label": "website",
-            "url": "https://www.goneural.ai/"
-        },
-        {
-            "label": "application",
-            "url": "https://app.goneural.ai/"
-        }
-    ]
+  "$schema": "../../schema.json",
+  "bittensor_id": "final-tsadi",
+  "letter": "ץ",
+  "name": "Neural3D",
+  "github": ["https://github.com/GoNeuralAI/neural-subnet"],
+  "hw_requirements": "",
+  "image_url": "https://github.com/safe-scan-ai/cancer-ai-3/raw/LEMSTUDI0-patch-1/DOCS/header.png",
+  "description": "",
+  "bittensor_discord_id": "1273657158982172742",
+  "team": "Neural AI",
+  "summary": "The goal of this subnet is to provide end users (game developers, virtual production, etc.) a way to populate 3D worlds by quickly generating high quality 3D assets based on text prompts via web app, API or plugins for game engines (e.g Unreal Engine & Unity), while simultaneously building a massive open-source library of 3D assets that can be used amongst other things, for further model training.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/GoNeuralAI"
+    },
+    {
+      "label": "website",
+      "url": "https://www.goneural.ai/"
+    },
+    {
+      "label": "application",
+      "url": "https://app.goneural.ai/"
+    }
+  ]
 }

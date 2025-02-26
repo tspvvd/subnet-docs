@@ -1,0 +1,101 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "type": "object",
+  "properties": {
+    "bittensor_id": {
+      "type": "string",
+      "description": "The Bittensor identifier for the subnet"
+    },
+    "letter": {
+      "type": "string",
+      "description": "The letter of the subnet"
+    },
+    "name": {
+      "type": "string",
+      "description": "The display name of the subnet"
+    },
+    "github": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "description": "GitHub repository URL associated with the subnet"
+      },
+      "description": "List of GitHub repositories"
+    },
+    "hw_requirements": {
+      "type": "string",
+      "description": "URL or description of hardware requirements"
+    },
+    "image_url": {
+      "type": "string",
+      "description": "URL to the subnet's image"
+    },
+    "description": {
+      "type": "string",
+      "description": "Detailed description file reference or content"
+    },
+    "bittensor_discord_id": {
+      "type": "string",
+      "description": "Discord channel ID associated with the subnet in the Bittensor Discord server"
+    },
+    "team": {
+      "type": "string",
+      "description": "Name of the team or organization behind the subnet"
+    },
+    "summary": {
+      "type": "string",
+      "description": "Brief description of the subnet's purpose and functionality"
+    },
+    "websites": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "enum": [
+              "substack",
+              "tao.bot",
+              "whitepaper",
+              "miner dashboard",
+              "huggingface",
+              "website",
+              "twitter",
+              "roadmap",
+              "wandb logger",
+              "market analysis",
+              "blog",
+              "chrome extension",
+              "discord",
+              "omega focus",
+              "dashboard",
+              "leaderboard",
+              "application",
+              "tplx_publication_link"
+            ],
+            "description": "Label or type of the website link"
+          },
+          "url": {
+            "type": "string",
+            "description": "URL of the website"
+          }
+        },
+        "required": ["label", "url"]
+      },
+      "description": "List of associated websites and links"
+    }
+  },
+  "required": [
+    "bittensor_id",
+    "letter",
+    "name",
+    "github",
+    "hw_requirements",
+    "image_url",
+    "description",
+    "bittensor_discord_id",
+    "team",
+    "summary",
+    "websites"
+  ]
+}

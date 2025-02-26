@@ -1,16 +1,18 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "its_ai",
+  "letter": "ח",
   "name": "It's AI",
   "github": ["https://github.com/It-s-AI/llm-detection/tree/v3.0"],
   "hw_requirements": "",
   "image_url": "",
   "description": "description.html",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1215319932062011464",
   "team": "",
   "summary": "It's AI incentivizes the development of systems that can identify LLM-generated content.",
   "websites": [
     {
-      "label": "Chrome Extension",
+      "label": "chrome extension",
       "url": "https://chromewebstore.google.com/detail/its-ai/lbjiajoblhodlkfloiphigkcemdonidn"
     },
     {
@@ -26,7 +28,7 @@
       "url": "https://app.its-ai.org/main/scan"
     },
     {
-      "label": "playground",
+      "label": "website",
       "url": "https://playground.corcel.io/its-ai"
     },
     {

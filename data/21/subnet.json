@@ -1,16 +1,18 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "omega_any_to_any",
+  "letter": "φ",
   "name": "OMEGA Any-to-Any",
   "github": ["https://github.com/OMEGAlabsinc/OMEGAlabs-anytoany-bittensor"],
   "hw_requirements": "",
   "image_url": "",
   "description": "description.html",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1240801129177157692",
   "team": "",
   "summary": "OMEGA Any-to-Any specializes in developing SOTA multimodal models that excel across text, video, audio, and image modalities.",
   "websites": [
     {
-      "label": "Muse",
+      "label": "website",
       "url": "https://sn21.ai/"
     },
     {

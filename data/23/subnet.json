@@ -1,11 +1,13 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "social_tensor",
+  "letter": "ψ",
   "name": "SocialTensor",
   "github": ["https://github.com/SocialTensor/SocialTensorSubnet"],
   "hw_requirements": "",
   "image_url": "",
   "description": "description.html",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1191833510021955695",
   "team": "SocialTensor",
   "summary": "SocialTensor incentivizes miners to scale computational resources for text and image generation models. Contributors commit to a model type and generation volume, with new models and features introduced based on usage demand.",
   "websites": [
