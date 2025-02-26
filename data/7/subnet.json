@@ -9,6 +9,7 @@
   "description": "description.html",
   "bittensor_discord_id": "1215311984799653918",
   "team": "",
+  "categories": ["Compute"],
   "summary": "SubVortex is focused on incentivizing contributors to run Subtensor (Bittensor's blockchain) nodes.",
   "websites": [
     {

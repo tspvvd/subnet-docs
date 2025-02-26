@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1172669887697653881",
   "team": "Corcel",
   "summary": "Cortex.t delivers reliable, high-quality text and image responses by incentivizing miners to contribute API keys to top AI models, allowing subnet traffic to be processed through these keys. The subnet also aggregates prompt-response pairs to create a comprehensive synthetic dataset.",
+  "categories": ["Inference"],
   "websites": [
     {
       "label": "twitter",
