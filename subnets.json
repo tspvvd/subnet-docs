@@ -27,6 +27,9 @@
         "bittensor_discord_id": "1161764867166961704",
         "team": "Macrocosmos",
         "summary": "This Subnet defines an incentive mechanism to create a distributed conversational AI.",
+        "categories": [
+            "AI Agent"
+        ],
         "websites": [
             {
                 "label": "twitter",
@@ -57,6 +60,9 @@
         "bittensor_discord_id": "1220504695404236800",
         "team": "Inference Labs",
         "summary": "Omron subnet, building cryptographically verified efficient and intelligent capital networks.",
+        "categories": [
+            "Zero Knowledge"
+        ],
         "websites": [
             {
                 "label": "twitter",
@@ -117,6 +123,9 @@
         "bittensor_discord_id": "1161765008347254915",
         "team": "Manifold Labs",
         "summary": "TARGON (Bittensor Subnet 4) is a redundant deterministic verification mechanism that can be used to interpret and analyze ground truth sources and a query.",
+        "categories": [
+            "Inference"
+        ],
         "websites": [
             {
                 "label": "twitter",
@@ -151,6 +160,9 @@
         "bittensor_discord_id": "1214225551364202496",
         "team": "Kaito AI",
         "summary": "Kaito AI is committed to democratizing access to Web3 information through its established platform. However, the in-house approach to data collection, indexing, AI training, and ranking imposes operational burdens and stifles broader public innovation.",
+        "categories": [
+            "Data Pipeline"
+        ],
         "websites": [
             {
                 "label": "twitter",
@@ -181,6 +193,9 @@
         "bittensor_discord_id": "1209554949449457705",
         "team": "",
         "summary": "Infinite Games incentivizes the prediction of future events by rewarding contributors based on the accuracy and speed of their model's forecasts. The subnet currently focuses on binary future events listed on Polymarket and Azuro.",
+        "categories": [
+            "Prediction Market"
+        ],
         "websites": [
             {
                 "label": "twitter",
@@ -206,6 +221,9 @@
         "description": "description.html",
         "bittensor_discord_id": "1215311984799653918",
         "team": "",
+        "categories": [
+            "Compute"
+        ],
         "summary": "SubVortex is focused on incentivizing contributors to run Subtensor (Bittensor's blockchain) nodes.",
         "websites": [
             {
@@ -232,6 +250,9 @@
         "description": "description.html",
         "bittensor_discord_id": "1162384774170677318",
         "team": "",
+        "categories": [
+            "Financial Trading"
+        ],
         "summary": "The Proprietary Trading Network incentivizes the contribution of profitable trading strategies across various financial markets. Contributors who provide the best trading signals receive the highest rewards, attracting skilled traders, data scientists, and machine learning teams to compete.",
         "websites": [
             {
@@ -263,6 +284,9 @@
         "bittensor_discord_id": "1162768567821930597",
         "team": "Macrocosmos",
         "summary": "Pre-Training is dedicated to the creation of SOTA pretrained foundation models, rewarding contributors for achieving top performance on selected open datasets. Functioning as a continuous benchmark, the models that excel in head-to-head loss comparisons on evaluation data receive the highest rewards. The subnet has successfully developed models with 700 million and 7 billion parameters that outperform industry-leading counterparts like GPT-2 Large and Falcon-7B.",
+        "categories": [
+            "Model Development"
+        ],
         "websites": [
             {
                 "label": "twitter",
@@ -300,6 +324,9 @@
         "description": "description.html",
         "bittensor_discord_id": "1217952256306057298",
         "team": "",
+        "categories": [
+            "DeFi"
+        ],
         "summary": "Sturdy is focused on the creation of autonomous DeFi yield optimizers. Contributors develop algorithms to allocate assets among a fixed set of strategies or 'pools' with varying interest rates to maximize yield.",
         "websites": [
             {
@@ -330,6 +357,9 @@
         "description": "description.html",
         "bittensor_discord_id": "1232378968187867147",
         "team": "Impel",
+        "categories": [
+            "Model Development"
+        ],
         "summary": "The Dippy Roleplay subnet on Bittensor aims to create the world's best open-source roleplay LLM by leveraging the collective efforts of the open-source community.",
         "websites": [
             {
@@ -357,6 +387,9 @@
         "bittensor_discord_id": "1201941624243109888",
         "team": "",
         "summary": "Horde is a cloud platform dedicated to networkless GPU-equipped servers. It implements hardware classes to establish a free market that optimizes for cost-effectiveness over merely the strongest hardware.",
+        "categories": [
+            "Compute"
+        ],
         "websites": [
             {
                 "label": "dashboard",
@@ -383,6 +416,9 @@
         "bittensor_discord_id": "1185617142914236518",
         "team": "",
         "summary": "Dataverse is focused on distributed data scraping to create datasets for training and other applications. It directs contributors to specific data sources for scraping and incentivizes them to store the data, ensuring easy retrieval and accessibility.",
+        "categories": [
+            "Data Pipeline"
+        ],
         "websites": [
             {
                 "label": "twitter",
@@ -507,6 +543,9 @@
         "bittensor_discord_id": "1179081290289528864",
         "team": "404",
         "summary": "Three Gen incentivizes the development of AI models for generating 3D digital assets and the creation of synthetic 3D model datasets.",
+        "categories": [
+            "Inference"
+        ],
         "websites": [
             {
                 "label": "twitter",
@@ -537,6 +576,9 @@
         "bittensor_discord_id": "1172669887697653881",
         "team": "Corcel",
         "summary": "Cortex.t delivers reliable, high-quality text and image responses by incentivizing miners to contribute API keys to top AI models, allowing subnet traffic to be processed through these keys. The subnet also aggregates prompt-response pairs to create a comprehensive synthetic dataset.",
+        "categories": [
+            "Inference"
+        ],
         "websites": [
             {
                 "label": "twitter",
@@ -571,6 +613,9 @@
         "bittensor_discord_id": "1186691482749505627",
         "team": "",
         "summary": "Vision specializes in large-scale distributed inference, providing access to the top open-source LLMs, image generation models, and other miscellaneous models, such as embedding models. With an average response time of 300ms and a throughput of 45 tokens per second, Vision delivers both speed and reliability.",
+        "categories": [
+            "Inference"
+        ],
         "websites": [
             {
                 "label": "twitter",
