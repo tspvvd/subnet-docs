@@ -1,11 +1,13 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "",
-  "name": "Unnamed",
+  "letter": "",
+  "name": "",
   "github": [],
   "hw_requirements": "",
   "image_url": "",
   "description": "",
-  "bittensor_discord_id": 1320739778534047785,
+  "bittensor_discord_id": "",
   "team": "",
   "summary": "",
   "websites": []

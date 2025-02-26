@@ -1,11 +1,13 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "logicnet",
+  "letter": "ך",
   "name": "LogicNet",
   "github": ["https://github.com/LogicNet-Subnet/LogicNet"],
   "hw_requirements": "",
   "image_url": "",
   "description": "description.html",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1204855126045753434",
   "team": "Logic Net",
   "summary": "LogicNet focuses on developing open-source mathematics and detailed data analysis models.",
   "websites": [

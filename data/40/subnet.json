@@ -1,11 +1,13 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "chunking",
+  "letter": "ן",
   "name": "Chunking",
   "github": ["https://github.com/VectorChat/chunking_subnet"],
   "hw_requirements": "",
   "image_url": "",
   "description": "description.html",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1245768323036217408",
   "team": "",
   "summary": "Chunking is focused on advancing Retrieval-Augmented Generation (RAG). The subnet incentivizes the creation, hosting, and serving of intelligent chunking systems that optimize intrachunk similarity and interchunk dissimilarity, enhancing the efficiency and accuracy of data retrieval and processing.",
   "websites": [
@@ -23,10 +25,6 @@
     },
     {
       "label": "whitepaper",
-      "url": "https://x.vectorchat.ai/chunking_pitch_deck.pdf"
-    },
-    {
-      "label": "pitch deck",
       "url": "https://x.vectorchat.ai/chunking_pitch_deck.pdf"
     },
     {

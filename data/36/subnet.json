@@ -1,11 +1,13 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "",
+  "letter": "כ",
   "name": "Web Agents",
   "github": ["https://github.com/autoppia/autoppia_web_agents_subnet"],
   "hw_requirements": "",
   "image_url": "",
   "summary": "Web Agents Subnet leverages our Infinite Web Arena (IWA) benchmark to incentivize Bittensor miners to develop SOTA web agents.",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1339356060787408996",
   "team": "Autoppia",
   "description": "",
   "websites": []

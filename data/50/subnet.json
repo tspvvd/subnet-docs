@@ -1,11 +1,13 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "",
+  "letter": "ש",
   "name": "Synth",
   "github": ["https://github.com/mode-network/synth-subnet"],
   "hw_requirements": "",
   "image_url": "",
   "description": "",
-  "bittensor_discord_id": 1311109830282313781,
+  "bittensor_discord_id": "1311109830282313781",
   "team": "Mode Network",
   "summary": "Synth creates the world's most powerful Synthetic price data for DeFi, enabling a paradigm shift in how agents model and optimise for the future.",
   "websites": [

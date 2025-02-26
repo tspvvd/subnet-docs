@@ -1,11 +1,13 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "gamma",
+  "letter": "𝛾",
   "name": "Templar",
   "github": ["https://github.com/RaoFoundation/templar"],
   "hw_requirements": "",
   "image_url": "",
   "description": "",
-  "bittensor_discord_id": 1222226314824777853,
+  "bittensor_discord_id": "1222226314824777853",
   "team": "distributed_tensor",
   "summary": "Incentivized Wide-Internet Training.",
   "websites": [

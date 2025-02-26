@@ -1,11 +1,13 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "distributed_training",
+  "letter": "ם",
   "name": "DistributedTraining",
   "github": ["https://github.com/KMFODA/DistributedTraining"],
   "hw_requirements": "",
   "image_url": "",
   "description": "description.html",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1281623984286334987",
   "team": "KMFODA",
   "summary": "DistributedTraining is focused on training a single LLM in a distributed setting. Contributors are incentivized to provide compute, bandwidth, and low latency, using compute to train local models and bandwidth and latency to facilitate the averaging of model weights across participants.",
   "websites": [

@@ -1,11 +1,13 @@
 {
+  "$schema": "../../schema.json",
   "bittensor_id": "horde",
+  "letter": "µ",
   "name": "Horde",
   "github": ["https://github.com/backend-developers-ltd/ComputeHorde"],
   "hw_requirements": "",
   "image_url": "",
   "description": "",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1201941624243109888",
   "team": "",
   "summary": "Horde is a cloud platform dedicated to networkless GPU-equipped servers. It implements hardware classes to establish a free market that optimizes for cost-effectiveness over merely the strongest hardware.",
   "websites": [
