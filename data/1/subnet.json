@@ -10,7 +10,7 @@
   "bittensor_discord_id": "1161764867166961704",
   "team": "Macrocosmos",
   "summary": "This Subnet defines an incentive mechanism to create a distributed conversational AI.",
-  "categories": ["AI Agent"],
+  "categories": ["AI Agent", "Macrocosmos"],
   "websites": [
     {
       "label": "twitter",

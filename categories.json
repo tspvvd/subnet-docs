@@ -1,4 +1,4 @@
-{
+{ 
   "categories": [
     {
       "name": "Compute",
@@ -66,6 +66,10 @@
     },
     {
       "name": "Zero Knowledge",
+      "description": ""
+    },
+    {
+      "name": "Marketing",
       "description": ""
     }
   ]

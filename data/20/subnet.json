@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1194736998250975332",
   "team": "Rogue Tensor",
   "summary": "BitAgent incentivizes the development and hosting of AI models that handle daily tasks, providing personalized assistance and automating workflows to enhance productivity.",
+  "categories": ["AI Agent"],
   "websites": [
     {
       "label": "application",

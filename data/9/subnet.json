@@ -10,7 +10,7 @@
   "bittensor_discord_id": "1162768567821930597",
   "team": "Macrocosmos",
   "summary": "Pre-Training is dedicated to the creation of SOTA pretrained foundation models, rewarding contributors for achieving top performance on selected open datasets. Functioning as a continuous benchmark, the models that excel in head-to-head loss comparisons on evaluation data receive the highest rewards. The subnet has successfully developed models with 700 million and 7 billion parameters that outperform industry-leading counterparts like GPT-2 Large and Falcon-7B.",
-  "categories": ["Model Development"],
+  "categories": ["Model Development", "Macrocosmos"],
   "websites": [
     {
       "label": "twitter",
