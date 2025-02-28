@@ -9,7 +9,7 @@
     "https://github.com/condenses/subnet-organic"
   ],
   "hw_requirements": "",
-  "image_url": "",
+  "image_url": "https://assets.backprop.finance/subnet-logos/47/v1.svg",
   "description": "description.html",
   "summary": "Accelerating AI inference by compressing long sequences of natural language tokens into soft-tokens, reducing computational cost and inference time.",
   "bittensor_discord_id": "1305525944123134024",

@@ -5,7 +5,7 @@
   "name": "Dippy Roleplay",
   "github": ["https://github.com/impel-intelligence/dippy-bittensor-subnet"],
   "hw_requirements": "https://github.com/impel-intelligence/dippy-bittensor-subnet/blob/main/min_compute.yml",
-  "image_url": "https://github.com/impel-intelligence/dippy-bittensor-subnet/raw/main/assests/banner.png",
+  "image_url": "https://assets.backprop.finance/subnet-logos/11/v1.jpg",
   "description": "description.html",
   "bittensor_discord_id": "1232378968187867147",
   "team": "Impel",
