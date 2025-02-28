@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1310625466411122789",
   "team": "",
   "summary": "The VectorStore Subnet is engineered to enhance the efficiency of text embedding and storage, enabling seamless processing of queries from validators to pinpoint the most relevant results based on pre-computed embeddings.",
+  "categories": ["Storage"],
   "websites": [
     {
       "label": "discord",
