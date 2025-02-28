@@ -454,6 +454,9 @@
         "bittensor_discord_id": "1310625466411122789",
         "team": "",
         "summary": "The VectorStore Subnet is engineered to enhance the efficiency of text embedding and storage, enabling seamless processing of queries from validators to pinpoint the most relevant results based on pre-computed embeddings.",
+        "categories": [
+            "Storage"
+        ],
         "websites": [
             {
                 "label": "discord",
@@ -484,6 +487,9 @@
         "bittensor_discord_id": "1272557411948957697",
         "team": "De-Val",
         "summary": "de_val sets the new benchmark for AI excellence, offering a decentralized evaluation platform designed to enhance LLM performance with unmatched quality. With de_val, you can rigorously test your AI models throughout the ML ops pipeline (offline testing, A/B testing, and continuous monitoring), measuring hallucinations, misattributions, relevancy, and summarization comprehensiveness, so you can understand your outputs at scale and deploy with confidence.",
+        "categories": [
+            "Model Development"
+        ],
         "websites": [
             {
                 "label": "twitter",
