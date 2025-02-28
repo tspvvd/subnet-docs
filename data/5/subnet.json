@@ -5,7 +5,7 @@
   "name": "Open Kaito",
   "github": ["https://github.com/OpenKaito/openkaito"],
   "hw_requirements": "https://github.com/OpenKaito/openkaito/blob/main/min_compute.yml",
-  "image_url": "",
+  "image_url": "https://assets.backprop.finance/subnet-logos/5/v1.png",
   "description": "description.html",
   "bittensor_discord_id": "1214225551364202496",
   "team": "Kaito AI",
