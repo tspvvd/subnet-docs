@@ -1,10 +1,11 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "NA",
+  "letter": "",
   "name": "Root",
   "github": [],
   "hw_requirements": "",
-  "image_url": "",
+  "image_url": "https://assets.backprop.finance/subnet-logos/0/v1.png",
   "description": "",
   "bittensor_discord_id": "",
   "team": "",
