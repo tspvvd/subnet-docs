@@ -9,6 +9,7 @@
   "description": "description.html",
   "bittensor_discord_id": "1174835090539433994",
   "team": "Neural Internet",
+  "categories": ["Compute"],
   "summary": "Neural Internet is a compute-composable subnet designed to integrate various centralized and decentralized cloud platforms, such as Runpod, Lambda, Akash, and AWS, into a unified system, facilitating seamless compute composability across these different platforms.",
   "websites": [
     {

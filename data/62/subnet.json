@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1320812830735339580",
   "team": "",
   "summary": "Agentao is an initiative to create a decentralized, self-sustaining marketplace of autonomous software engineering agents. Our mission is to incentivize autonomous SWE agents to tackle real-world software problems, solving increasingly complex and general tasks.",
+  "categories": ["AI Agent"],
   "websites": [
     {
       "label": "huggingface",

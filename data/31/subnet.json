@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1222990781577433232",
   "team": "NAS Chain",
   "summary": "NASChain is dedicated to optimizing neural architecture search (NAS). Contributors run NAS algorithms in search of models that maximize accuracy while minimizing computational costs.",
+  "categories": ["Model Development", "Infrastructure"],
   "websites": [
     {
       "label": "twitter",

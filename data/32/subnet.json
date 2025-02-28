@@ -9,6 +9,7 @@
   "description": "description.html",
   "bittensor_discord_id": "1215319932062011464",
   "team": "",
+  "categories": ["Model Development", "DeepFake Detection"],
   "summary": "It's AI incentivizes the development of systems that can identify LLM-generated content.",
   "websites": [
     {

@@ -14,6 +14,7 @@
   "summary": "Accelerating AI inference by compressing long sequences of natural language tokens into soft-tokens, reducing computational cost and inference time.",
   "bittensor_discord_id": "1305525944123134024",
   "team": "",
+  "categories": ["Inference"],
   "websites": [
     {
       "label": "website",

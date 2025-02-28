@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1191833510021955695",
   "team": "SocialTensor",
   "summary": "SocialTensor incentivizes miners to scale computational resources for text and image generation models. Contributors commit to a model type and generation volume, with new models and features introduced based on usage demand.",
+  "categories": ["Inference"],
   "websites": [
     {
       "label": "twitter",

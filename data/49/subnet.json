@@ -9,6 +9,7 @@
   "description": "description.html",
   "bittensor_discord_id": "1174839377659183174",
   "team": "",
+  "categories": ["Infrastructure"],
   "summary": "Hivetrain is back with an open-source, distributed AutoML subnet. We're addressing Schmidhuber's challenge of \"inventing an AI scientist smarter than himself so that he can retire.\" Our approach creates an incentive structure rewarding the creation of better neural network components and potentially new algorithms that surpass current state-of-the-art. We use a genetic language that is evolvable and searchable with gradient methods to generate increasingly complex mathematical functions.",
   "websites": [
     {

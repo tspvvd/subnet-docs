@@ -12,6 +12,7 @@
   "bittensor_discord_id": "1233428828479819876",
   "team": "After Party",
   "summary": "ReadyAI is focused on data structuring, incentivizing the transformation of unstructured data from sources like videos, podcasts, text, and images into structured formats suitable for training AI models.",
+  "categories": ["Data Pipeline"],
   "websites": [
     {
       "label": "twitter",

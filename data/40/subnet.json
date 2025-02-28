@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1245768323036217408",
   "team": "",
   "summary": "Chunking is focused on advancing Retrieval-Augmented Generation (RAG). The subnet incentivizes the creation, hosting, and serving of intelligent chunking systems that optimize intrachunk similarity and interchunk dissimilarity, enhancing the efficiency and accuracy of data retrieval and processing.",
+  "categories": ["Data Pipeline"],
   "websites": [
     {
       "label": "twitter",

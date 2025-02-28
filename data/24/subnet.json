@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1214246819886931988",
   "team": "Omega Labs",
   "summary": "OMEGA Labs incentivizes the collection of open multimodal data to accelerate AGI research and development. Contributors capture videos with metadata such as title, tags, and descriptions, obtain ImageBind embeddings for video, audio, and captions, and upload them, creating one of the largest open-source multimodal datasets.",
+  "categories": ["Data Pipeline"],
   "websites": [
     {
       "label": "omega focus",

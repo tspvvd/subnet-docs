@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1281623984286334987",
   "team": "KMFODA",
   "summary": "DistributedTraining is focused on training a single LLM in a distributed setting. Contributors are incentivized to provide compute, bandwidth, and low latency, using compute to train local models and bandwidth and latency to facilitate the averaging of model weights across participants.",
+  "categories": ["Model Development"],
   "websites": [
     {
       "label": "website",

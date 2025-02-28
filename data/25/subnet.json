@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1234881153832321024",
   "team": "Macrocosmos",
   "summary": "Protein Folding focuses on molecular dynamics simulations. Contributors are incentivized to develop performant protein-folding models that drive down the cost of querying.",
+  "categories": ["DeSci"],
   "websites": [
     {
       "label": "twitter",
