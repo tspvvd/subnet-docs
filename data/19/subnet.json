@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1186691482749505627",
   "team": "",
   "summary": "Vision specializes in large-scale distributed inference, providing access to the top open-source LLMs, image generation models, and other miscellaneous models, such as embedding models. With an average response time of 300ms and a throughput of 45 tokens per second, Vision delivers both speed and reliability.",
+  "categories": ["Inference"],
   "websites": [
     {
       "label": "twitter",

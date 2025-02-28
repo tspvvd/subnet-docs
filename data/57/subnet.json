@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1310698546852528180",
   "team": "Nickel5",
   "summary": "Gaia is a subnet and platform for geospatial inference tasks.",
+  "categories": ["Inference"],
   "websites": [
     {
       "label": "whitepaper",

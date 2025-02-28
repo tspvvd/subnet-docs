@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1263142301786574889",
   "team": "Sports Tensor",
   "summary": "Sportstensor is focused on sports prediction, incentivizing contributors to train and develop accurate sports prediction models.",
+  "categories": ["Sports Prediction", "Prediction Market"],
   "websites": [
     {
       "label": "twitter",

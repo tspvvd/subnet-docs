@@ -1,0 +1,76 @@
+{ 
+  "categories": [
+    {
+      "name": "Compute",
+      "description": ""
+    },
+    {
+      "name": "Meme",
+      "description": ""
+    },
+    {
+      "name": "Data Pipeline",
+      "description": ""
+    },
+    {
+      "name": "AI Agent",
+      "description": ""
+    },
+    {
+      "name": "Model Development",
+      "description": ""
+    },
+    {
+      "name": "DeSci",
+      "description": ""
+    },
+    {
+      "name": "DeFi",
+      "description": ""
+    },
+    {
+      "name": "Financial Trading",
+      "description": ""
+    },
+    {
+      "name": "Prediction Market",
+      "description": ""
+    },
+    {
+      "name": "Inference",
+      "description": ""
+    },
+    {
+      "name": "Infrastructure",
+      "description": ""
+    },
+    {
+      "name": "DeepFake Detection",
+      "description": ""
+    },
+    {
+      "name": "Sports Prediction",
+      "description": ""
+    },
+    {
+      "name": "Macrocosmos",
+      "description": ""
+    },
+    {
+      "name": "Cybersecurity",
+      "description": ""
+    },
+    {
+      "name": "Storage",
+      "description": ""
+    },
+    {
+      "name": "Zero Knowledge",
+      "description": ""
+    },
+    {
+      "name": "Marketing",
+      "description": ""
+    }
+  ]
+}

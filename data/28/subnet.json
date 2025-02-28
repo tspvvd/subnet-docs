@@ -2,6 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "ד",
+  "categories": ["Meme"],
   "name": "LOL",
   "github": [""],
   "hw_requirements": "",

@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1316415472563916841",
   "team": "Web Genie AI",
   "summary": "WebGenieAI aims to transform diverse prompts—ranging from texts to concept sketches and images into fully functional, ready-to-deploy projects. This subnet is tailored for developers, designers, and innovators who seek to accelerate their project development process with high-quality, AI-generated outputs.",
+  "categories": ["AI Agent"],
   "websites": [
     {
       "label": "website",
