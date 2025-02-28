@@ -29,7 +29,8 @@
         "team": "Macrocosmos",
         "summary": "This Subnet defines an incentive mechanism to create a distributed conversational AI.",
         "categories": [
-            "AI Agent"
+            "AI Agent",
+            "Macrocosmos"
         ],
         "websites": [
             {
@@ -102,6 +103,9 @@
         "bittensor_discord_id": "1222226314824777853",
         "team": "distributed_tensor",
         "summary": "Incentivized Wide-Internet Training.",
+        "categories": [
+            "Compute"
+        ],
         "websites": [
             {
                 "label": "dashboard",
@@ -162,7 +166,7 @@
         "team": "Kaito AI",
         "summary": "Kaito AI is committed to democratizing access to Web3 information through its established platform. However, the in-house approach to data collection, indexing, AI training, and ranking imposes operational burdens and stifles broader public innovation.",
         "categories": [
-            "Data Pipeline"
+            "Model Development"
         ],
         "websites": [
             {
@@ -223,7 +227,7 @@
         "bittensor_discord_id": "1215311984799653918",
         "team": "",
         "categories": [
-            "Compute"
+            "Infrastructure"
         ],
         "summary": "SubVortex is focused on incentivizing contributors to run Subtensor (Bittensor's blockchain) nodes.",
         "websites": [
@@ -286,7 +290,8 @@
         "team": "Macrocosmos",
         "summary": "Pre-Training is dedicated to the creation of SOTA pretrained foundation models, rewarding contributors for achieving top performance on selected open datasets. Functioning as a continuous benchmark, the models that excel in head-to-head loss comparisons on evaluation data receive the highest rewards. The subnet has successfully developed models with 700 million and 7 billion parameters that outperform industry-leading counterparts like GPT-2 Large and Falcon-7B.",
         "categories": [
-            "Model Development"
+            "Model Development",
+            "Macrocosmos"
         ],
         "websites": [
             {
@@ -520,6 +525,9 @@
         "bittensor_discord_id": "1189234502669697064",
         "team": "",
         "summary": "BitAds is focused on reshaping online advertising with its Conversion Tracking system, which ensures advertisers pay only for successful sales. Contributors are rewarded based on the sales generated through their unique links.",
+        "categories": [
+            "Marketing"
+        ],
         "websites": [
             {
                 "label": "twitter",
@@ -661,6 +669,9 @@
         "bittensor_discord_id": "1194736998250975332",
         "team": "Rogue Tensor",
         "summary": "BitAgent incentivizes the development and hosting of AI models that handle daily tasks, providing personalized assistance and automating workflows to enhance productivity.",
+        "categories": [
+            "AI Agent"
+        ],
         "websites": [
             {
                 "label": "application",
@@ -836,7 +847,8 @@
         "team": "Macrocosmos",
         "summary": "Protein Folding focuses on molecular dynamics simulations. Contributors are incentivized to develop performant protein-folding models that drive down the cost of querying.",
         "categories": [
-            "DeSci"
+            "DeSci",
+            "Macrocosmos"
         ],
         "websites": [
             {
@@ -862,16 +874,19 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "\u05d1",
-        "name": "",
+        "name": "Storb",
         "github": [
-            ""
+            "https://github.com/fr34kcoders/storb-rs"
         ],
         "hw_requirements": "",
         "image_url": "https://assets.backprop.finance/subnet-logos/26/v1.png",
         "description": "",
         "bittensor_discord_id": "1321148494253264998",
-        "team": "",
-        "summary": "",
+        "team": "Storb",
+        "summary": "Storb is a decentralized object storage subnet built on the Bittensor network. It aims to be a distributed, fault-tolerant, and efficient digital storage solution.",
+        "categories": [
+            "Storage"
+        ],
         "websites": [],
         "subnet_id": 26
     },
@@ -983,6 +998,7 @@
         "bittensor_discord_id": "1255568373056671804",
         "team": "Bettensor",
         "categories": [
+            "Sports Prediction",
             "Prediction Market"
         ],
         "summary": "Bettensor is focused on sports prediction, incentivizing the accurate forecasting of sports outcomes using various methods, including human intuition, AI models, and statistical approaches.",
@@ -1255,7 +1271,7 @@
         "team": "KMFODA",
         "summary": "DistributedTraining is focused on training a single LLM in a distributed setting. Contributors are incentivized to provide compute, bandwidth, and low latency, using compute to train local models and bandwidth and latency to facilitate the averaging of model weights across participants.",
         "categories": [
-            "Model Development"
+            "Compute"
         ],
         "websites": [
             {
@@ -1418,6 +1434,9 @@
         "image_url": "https://assets.backprop.finance/subnet-logos/43/v1.png",
         "description": "",
         "bittensor_discord_id": "1263507367405031434",
+        "categories": [
+            "Inference"
+        ],
         "team": "",
         "summary": "Graphite focuses on graph problems, which involve optimizing algorithms to solve computational challenges, such as finding the shortest path, optimizing network flow, or determining optimal arrangements.",
         "websites": [
@@ -1451,7 +1470,7 @@
         "team": "",
         "summary": "Score Vision is a decentralised computer vision framework built on Bittensor that drastically reduces the cost and time required for complex video analysis.",
         "categories": [
-            "Prediction Market",
+            "Model Development",
             "Sports Prediction"
         ],
         "websites": [
@@ -1792,7 +1811,6 @@
         "team": "Coin Metric",
         "summary": "The Precog Subnet will serve as an arena to identify the analysts with the best strategies and information to anticipate Bitcoin price movements, and recruit them to share their insight with the broader community.",
         "categories": [
-            "Prediction Market",
             "Financial Trading"
         ],
         "websites": [
@@ -1822,7 +1840,7 @@
         "team": "Namoray",
         "summary": "Providing access to Bittensor network for on-demand training at scale.",
         "categories": [
-            "Model Development"
+            "Compute"
         ],
         "websites": [
             {
@@ -2047,6 +2065,9 @@
         "bittensor_discord_id": "1320739778534047785",
         "team": "Rayon Labs",
         "summary": "Chutes provides true serverless, permissionless, decentralized, affordable compute to the world, with an economic model built for the upcoming dTao future.",
+        "categories": [
+            "Compute"
+        ],
         "websites": [
             {
                 "label": "application",
@@ -2073,6 +2094,9 @@
         "bittensor_discord_id": "1342275465267642408",
         "team": "",
         "summary": "TPN is a decentralized subnet designed to empower secure, private, and geographically diverse internet access through a global network of VPN providers. By coordinating miners and validators, TPN ensures reliable, censorship-resistant connectivity while rewarding contributors for their participation.",
+        "categories": [
+            "Infrastructure"
+        ],
         "websites": [],
         "subnet_id": 65
     },
@@ -2090,6 +2114,9 @@
         "bittensor_discord_id": "1334536801922060360",
         "team": "",
         "summary": "FakeNews is subnet, dedicated to combating misinformation by providing real-time fake news detection and advanced fact-checking capabilities. This subnet aims to deliver the highest possible accuracy, surpassing traditional solutions\u2014even for real-time verifications. Our vision is to create the world\u2019s most trusted source for news and fact verification, ensuring every user can rely on timely and accurate insights with help and power of decentralized AI community.",
+        "categories": [
+            "Deepfake Detection"
+        ],
         "websites": [],
         "subnet_id": 66
     },
