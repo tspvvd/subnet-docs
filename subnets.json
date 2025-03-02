@@ -2139,15 +2139,33 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "Nova",
+        "github": [
+            "https://github.com/metanova-labs/nova"
+        ],
         "hw_requirements": "",
         "image_url": "https://assets.backprop.finance/subnet-logos/68/v1.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
-        "team": "",
-        "summary": "",
-        "websites": [],
+        "team": "Metanova Labs",
+        "categories": [
+            "DeSci"
+        ],
+        "summary": "NOVA harnesses global compute and collective intelligence to navigate huge unexplored chemical spaces, uncovering breakthrough compounds at a fraction of the cost and time.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/metanova_labs"
+            },
+            {
+                "label": "website",
+                "url": "https://www.metanova-labs.com"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://www.metanova-labs.com/whitepaper"
+            }
+        ],
         "subnet_id": 68
     },
     {
