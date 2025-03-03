@@ -1,6 +1,6 @@
 # subnet-docs
 
-This repository serves as a centralized knowledge base for all subnet information within the Bittensor ecosystem. It provides structured documentation for each subnet to help users, developers, and stakeholders understand their purpose, technical specifications, and operational details.
+This repository serves as a centralized knowledge base for all subnet information within the Bittensor ecosystem. It provides structured documentation for each subnet to help users, developers, and stakeholders understand their purpose, technical specifications, and operational details. This is also currently in use by [Backprop Finance](https://backprop.finance/) by Tensorplex Labs.
 
 ## How to Add Your Subnet Information
 
