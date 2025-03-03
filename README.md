@@ -60,9 +60,18 @@ Your subnet folder must contain a `subnet.json` file that follows the schema for
 
 ### 3. Images and Additional Resources
 
-- We will host your subnet logo at a stable URL (referenced in the `image_url` field), therefore please provide a high-quality image in the PR and we will host it for you.
+- We will host your subnet logo at a stable URL (referenced in the `image_url` field), therefore please provide a downloable link for the image in the PR and we will host it for you. The image should have a minimum resolution of 128x128. The following formats are supported: SVG, PNG, JPG, WEBP.
 - description.html is optional. You may provide a more detailed description with HTML formatting in a `description.html` file. If not provided, please leave this field empty.
 - To add a new category that is not already defined in `categories.json`, please include justification in the PR.
+
+## Contribution Process
+
+1. Fork this repository
+2. Create a new branch for your subnet documentation
+3. Add your subnet folder with the required `subnet.json` and optional `description.html` files
+4. Submit a pull request with a clear description of your subnet
+5. Once approved, your subnet documentation will be merged and published
+
 
 ## Additonal Info: How the Documentation is Generated
 
@@ -77,22 +86,7 @@ The `generate_subnets.py` script processes all subnet folders and generates cons
 
 > **Note**: The script automatically runs when changes are merged to the main branch, so you don't need to run it manually.
 
-## Contribution Process
 
-1. Fork this repository
-2. Create a new branch for your subnet documentation
-3. Add your subnet folder with the required `subnet.json` and optional `description.html` files
-4. Submit a pull request with a clear description of your subnet
-5. Once approved, your subnet documentation will be merged and published
-
-## Guidelines for Quality Documentation
-
-- Be concise but thorough in your subnet description
-- Include accurate technical specifications and hardware requirements
-- Provide clear links to all relevant resources
-- Use proper HTML formatting in your description file
-- Use high-quality images for your subnet logo
-- Include all mandatory fields in your subnet.json file
 
 ## Questions or Issues?
 
