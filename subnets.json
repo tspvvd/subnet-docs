@@ -2182,5 +2182,20 @@
         "summary": "",
         "websites": [],
         "subnet_id": 69
+    },
+    {
+        "$schema": "../../schema.json",
+        "bittensor_id": "",
+        "letter": "",
+        "name": "",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "https://assets.backprop.finance/subnet-logos/69/v1.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 70
     }
 ]
