@@ -80,9 +80,7 @@ The `generate_subnets.py` script processes all subnet folders and generates cons
 - It scans all directories in the `data/` folder
 - Processes each subnet's `subnet.json` file and incorporates the `description.html` content when available
 - Validates the JSON against the schema to ensure all required fields are present
-- Generates standardized output files with consistent formatting for the website display
-- Creates index pages and cross-references between subnets
-- Updates the main documentation with the latest subnet information
+- Generates standardized output files with consistent formatting for downstream use (e.g. Subnet Info page on Backprop Finance)
 
 > **Note**: The script automatically runs when changes are merged to the main branch, so you don't need to run it manually.
 
