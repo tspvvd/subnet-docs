@@ -1,14 +1,16 @@
 # subnet-docs
 
-This repository serves as a centralized knowledge base for all subnet information within the Bittensor ecosystem. It provides structured documentation for each subnet to help users, developers, and stakeholders understand their purpose, technical specifications, and operational details. This is also currently in use by [Backprop Finance](https://backprop.finance/) by Tensorplex Labs.
+This repository serves as a knowledge base for all subnet information within the Bittensor ecosystem. It provides structured documentation for each subnet to help users, developers, and stakeholders understand their purpose, technical specifications, and operational details. This is also currently in use by [Backprop Finance](https://backprop.finance/) by Tensorplex Labs.
 
 ## How to Add Your Subnet Information
 
-Thank you for your interest in adding your subnet to our documentation! Follow these steps to ensure your subnet information is properly included:
+Thank you for your interest in adding your subnet to our repository! Follow these steps to ensure your subnet information is properly included:
 
 ### 1. Folder Structure
 
 Create a new folder in the repository under the `data` directory using your subnet's netuid as the folder name:
+
+> **Note**: We recommend using Subnet 52 (Tensorplex Dojo) as a template to begin with.
 
 ```
 subnet-docs/
@@ -25,7 +27,7 @@ subnet-docs/
 
 #### subnet.json (Mandatory)
 
-Your subnet folder must contain a `subnet.json` file that follows the schema format. Here's an example template based on SN1:
+Your subnet folder must contain a `subnet.json` file that follows the schema format. Here's an example template:
 
 ```json
 {
@@ -90,4 +92,4 @@ The `generate_subnets.py` script processes all subnet folders and generates cons
 
 If you have any questions about adding your subnet documentation, please open an issue in this repository or reach out to us.
 
-Thank you for contributing to our subnet documentation!
+Thank you for contributing to our repository!
