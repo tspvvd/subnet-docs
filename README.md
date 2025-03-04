@@ -45,7 +45,7 @@ Your subnet folder must contain a `subnet.json` file that follows the schema for
   "categories": ["Category1", "Category2"], // Defined in categories.json. Please refer to the following section about how to add a new category.
   "websites": [
     {
-      "label": "twitter", // All supported labels: substack, tao.bot, whitepaper, miner dashboard, huggingface, website, twitter, roadmap, wandb logger, market analysis, blog, chrome extension, discord, omega focus, dashboard, leaderboard, application, tplx_publication_link (maintained by Tensorplex Labs)
+      "label": "twitter", // All supported labels: substack, tao.bot, whitepaper, miner dashboard, huggingface, website, twitter, roadmap, wandb logger, market analysis, blog, chrome extension, discord, omega focus, dashboard, leaderboard, application.
       "url": "https://x.com/YourHandle"
     },
     {
@@ -65,6 +65,7 @@ Your subnet folder must contain a `subnet.json` file that follows the schema for
 - We will host your subnet logo at a stable URL (referenced in the `image_url` field), therefore please provide a downloable link for the image in the PR and we will host it for you. The image should have a minimum resolution of 128x128. The following formats are supported: SVG, PNG, JPG, WEBP.
 - description.html is optional. You may provide a more detailed description with HTML formatting in a `description.html` file. If not provided, please leave this field empty.
 - To add a new category that is not already defined in `categories.json`, please include justification in the PR.
+- The label `tplx_publication_link` is reserved for Tensorplex Labs publications, which will be managed by the team instead.
 
 ## Contribution Process
 
