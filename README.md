@@ -45,7 +45,7 @@ Your subnet folder must contain a `subnet.json` file that follows the schema for
   "categories": ["Category1", "Category2"], // Defined in categories.json. Please refer to the following section about how to add a new category.
   "websites": [
     {
-      "label": "twitter", // ALl supported labels: website, dashboard, telegram, discord, github, reddit, youtube, linkedin, medium, whitepaper.
+      "label": "twitter", // All supported labels: substack, tao.bot, whitepaper, miner dashboard, huggingface, website, twitter, roadmap, wandb logger, market analysis, blog, chrome extension, discord, omega focus, dashboard, leaderboard, application, tplx_publication_link (maintained by Tensorplex Labs)
       "url": "https://x.com/YourHandle"
     },
     {
