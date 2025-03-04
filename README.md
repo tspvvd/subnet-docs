@@ -10,7 +10,8 @@ Thank you for your interest in adding your subnet to our repository! Follow thes
 
 Create a new folder in the repository under the `data` directory using your subnet's netuid as the folder name:
 
-> **Note**: We recommend using Subnet 52 (Tensorplex Dojo) as a template to begin with.
+> [!NOTE]
+> We recommend using Subnet 52 (Tensorplex Dojo) as a template to start from.
 
 ```
 subnet-docs/
@@ -85,7 +86,8 @@ The `generate_subnets.py` script processes all subnet folders and generates cons
 - Validates the JSON against the schema to ensure all required fields are present
 - Generates standardized output files with consistent formatting for downstream use (e.g. Subnet Info page on Backprop Finance)
 
-> **Note**: The script automatically runs when changes are merged to the main branch, so you don't need to run it manually.
+> [!NOTE]
+> The script automatically runs when changes are merged to the main branch, so you don't need to run it manually.
 
 
 
