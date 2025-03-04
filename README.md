@@ -29,7 +29,7 @@ subnet-docs/
 
 Your subnet folder must contain a `subnet.json` file that follows the schema format. Here's an example template:
 
-```json
+```jsonc
 {
   "$schema": "../../schema.json",
   "bittensor_id": "your_identifier",
