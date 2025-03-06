@@ -423,7 +423,8 @@
         "team": "",
         "summary": "Dataverse is focused on distributed data scraping to create datasets for training and other applications. It directs contributors to specific data sources for scraping and incentivizes them to store the data, ensuring easy retrieval and accessibility.",
         "categories": [
-            "Data Pipeline"
+            "Data Pipeline",
+            "Macrocosmos"
         ],
         "websites": [
             {
