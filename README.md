@@ -63,7 +63,7 @@ Your subnet folder must contain a `subnet.json` file that follows the schema for
 
 ### 3. Images and Additional Resources
 
-- We will host your subnet logo at a stable URL (referenced in the `image_url` field), therefore please provide a downloable link for the image in the PR and we will host it for you. The image should have a minimum resolution of 128x128. The following formats are supported: SVG, PNG, JPG, WEBP.
+- We will host your subnet logo at a stable URL (referenced in the `image_url` field), therefore please provide a downloadable link for the image in the PR and we will host it for you. The image should have a minimum resolution of 128x128. The following formats are supported: SVG, PNG, JPG, WEBP.
 - description.html is optional. You may provide a more detailed description with HTML formatting in a `description.html` file. If not provided, please leave this field empty.
 - To add a new category that is not already defined in `categories.json`, please include justification in the PR.
 - The label `tplx_publication_link` is reserved for Tensorplex Labs publications, which will be managed by the team instead.
@@ -77,7 +77,7 @@ Your subnet folder must contain a `subnet.json` file that follows the schema for
 5. Once approved, your subnet documentation will be merged and published
 
 
-## Additonal Info: How the Documentation is Generated
+## Additional Info: How the Documentation is Generated
 
 The `generate_subnets.py` script processes all subnet folders and generates consolidated documentation:
 
