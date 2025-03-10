@@ -2233,5 +2233,35 @@
         "summary": "",
         "websites": [],
         "subnet_id": 72
+    },
+    {
+        "$schema": "../../schema.json",
+        "bittensor_id": "",
+        "letter": "",
+        "name": "",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "https://assets.backprop.finance/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 73
+    },
+    {
+        "$schema": "../../schema.json",
+        "bittensor_id": "",
+        "letter": "",
+        "name": "",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "https://assets.backprop.finance/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 74
     }
 ]
