@@ -5,11 +5,16 @@
   "name": "Storb",
   "github": ["https://github.com/fr34kcoders/storb-rs"],
   "hw_requirements": "",
-  "image_url": "https://assets.backprop.finance/subnet-logos/26/v1.png",
+  "image_url": "https://assets.backprop.finance/subnet-logos/26/v3.png",
   "description": "",
   "bittensor_discord_id": "1321148494253264998",
   "team": "Storb",
   "summary": "Storb is a decentralized object storage subnet built on the Bittensor network. It aims to be a distributed, fault-tolerant, and efficient digital storage solution.",
   "categories": ["Storage"],
-  "websites": []
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://storb.dev"
+    }
+  ]
 }
