@@ -1,13 +1,13 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "",
+  "letter": "س",
   "name": "",
   "github": [],
   "hw_requirements": "",
   "image_url": "https://assets.backprop.finance/subnet-logos/default.png",
   "description": "",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1349115333570723978",
   "team": "",
   "summary": "",
   "websites": []
