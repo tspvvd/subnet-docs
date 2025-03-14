@@ -2193,7 +2193,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "dFusion",
+        "name": "Vericore",
         "github": [
             "https://github.com/dfusionai/Vericore"
         ],
@@ -2201,7 +2201,7 @@
         "image_url": "https://assets.backprop.finance/subnet-logos/default.png",
         "description": "description.html",
         "bittensor_discord_id": "",
-        "team": "Vericore",
+        "team": "dFuson",
         "summary": "Vericore is a Bittensor subnet seeking to improve large-scale semantic fact-checking and verification. The subnet processes statements and returns evidence-based validation through relevant quotes and source materials that either support or contradict the input claims.",
         "websites": [
             {
