@@ -2,13 +2,22 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "dFusion",
+  "github": ["https://github.com/dfusionai/Vericore"],
   "hw_requirements": "",
   "image_url": "https://assets.backprop.finance/subnet-logos/default.png",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "",
-  "team": "",
-  "summary": "",
-  "websites": []
+  "team": "Vericore",
+  "summary": "Vericore is a Bittensor subnet seeking to improve large-scale semantic fact-checking and verification. The subnet processes statements and returns evidence-based validation through relevant quotes and source materials that either support or contradict the input claims.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://dfusion.ai/"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/dFusionAI"
+    }
+  ]
 }
