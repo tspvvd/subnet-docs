@@ -1395,6 +1395,10 @@
             {
                 "label": "blog",
                 "url": "https://medium.com/@sportstensor"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://dashboard.sportstensor.com/dashboard?league=NBA"
             }
         ],
         "subnet_id": 41
