@@ -996,13 +996,13 @@
         "letter": "\u05d5",
         "name": "Bettensor",
         "github": [
-            "https://github.com/Bettensor/bettensor"
+            "https://github.com/Nickel5-Inc/bettensor"
         ],
         "hw_requirements": "",
         "image_url": "https://assets.backprop.finance/subnet-logos/30/v1.jpg",
         "description": "description.html",
         "bittensor_discord_id": "1255568373056671804",
-        "team": "Bettensor",
+        "team": "Nickel5",
         "categories": [
             "Sports Prediction",
             "Prediction Market"
@@ -1604,7 +1604,7 @@
         "image_url": "https://assets.backprop.finance/subnet-logos/48/v1.jpg",
         "description": "description.html",
         "bittensor_discord_id": "1286726353881796670",
-        "team": "Nextplace.ai",
+        "team": "Nickel5",
         "summary": "Leveraging the power of AI harnessed by the Bittensor framework, NextPlace is building the next best Real Estate market negotiator. Discover what your home is likely to sell for, identify housing trends in real estate markets across the United States, earn Tao by unleashing your own AI models in the subnet, and so much more.",
         "categories": [
             "Prediction Market"
@@ -2046,15 +2046,26 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "\u0633",
-        "name": "",
-        "github": [],
+        "name": "Alpha Trader Exchange",
+        "github": [
+            "https://github.com/Nickel5-Inc/alpha-trader-exchange"
+        ],
         "hw_requirements": "",
-        "image_url": "https://assets.backprop.finance/subnet-logos/default.png",
+        "image_url": "https://assets.backprop.finance/subnet-logos/63/v2.jpg",
         "description": "",
         "bittensor_discord_id": "1349115333570723978",
-        "team": "",
+        "team": "Nickel5",
         "summary": "",
-        "websites": [],
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://www.alphatraderexchange.com"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/_alphatraderx"
+            }
+        ],
         "subnet_id": 63
     },
     {
