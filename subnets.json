@@ -2337,5 +2337,22 @@
             "DeSci"
         ],
         "subnet_id": 76
+    },
+    {
+        "$schema": "../../schema.json",
+        "bittensor_id": "",
+        "letter": "\u0647",
+        "name": "",
+        "github": [
+            "https://github.com/creativebuilds/sn77"
+        ],
+        "hw_requirements": "",
+        "image_url": "https://assets.backprop.finance/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 77
     }
 ]
