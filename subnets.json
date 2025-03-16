@@ -2294,15 +2294,34 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "\u0645",
-        "name": "",
-        "github": [],
+        "name": "Hippius",
+        "github": [
+            "https://github.com/thenervelab/hippius-cli",
+            "https://github.com/thenervelab/hippius-network-mesh-config"
+        ],
         "hw_requirements": "",
-        "image_url": "https://assets.backprop.finance/subnet-logos/default.png",
+        "image_url": "https://assets.backprop.finance/subnet-logos/75/v1.jpg",
         "description": "",
         "bittensor_discord_id": "1349124437752152075",
         "team": "",
         "summary": "",
-        "websites": [],
+        "categories": [
+            "Storage"
+        ],
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/hippius_subnet"
+            },
+            {
+                "label": "website",
+                "url": "https://hippius.com"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.hippius.com"
+            }
+        ],
         "subnet_id": 75
     },
     {
