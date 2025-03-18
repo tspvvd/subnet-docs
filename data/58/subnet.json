@@ -5,7 +5,7 @@
   "name": "Dippy Speech",
   "github": ["https://github.com/impel-intelligence/dippy-bittensor-subnet"],
   "hw_requirements": "https://github.com/impel-intelligence/dippy-synthetic-speech-subnet",
-  "image_url": "https://assets.backprop.finance/subnet-logos/58/v1.jpg",
+  "image_url": "https://backprop.finance/assets/subnet-logos/58/v1.jpg",
   "description": "description.html",
   "bittensor_discord_id": "1304499133675081761",
   "team": "Impel",
