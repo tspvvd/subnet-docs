@@ -4,15 +4,16 @@
   "letter": "م",
   "name": "Hippius",
   "github": [
-    "https://github.com/thenervelab/hippius-cli",
-    "https://github.com/thenervelab/hippius-network-mesh-config"
+    "https://github.com/thenervelab/thebrain",
+    "https://github.com/thenervelab/hippius-validator",
+    "https://github.com/thenervelab/hippius-storage-miner"
   ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/75/v1.jpg",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "1349124437752152075",
   "team": "",
-  "summary": "",
+  "summary": "Hippius is a decentralized cloud storage platform powered by a custom Substrate blockchain, IPFS, and S3-compatible storage.",
   "categories": ["Storage"],
   "websites": [
     {
@@ -22,6 +23,10 @@
     {
       "label": "website",
       "url": "https://hippius.com"
+    },
+    {
+      "label": "application",
+      "url": "https://console.hippius.com"
     },
     {
       "label": "discord",
