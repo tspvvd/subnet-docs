@@ -2,13 +2,14 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "ك",
-  "name": "",
+  "categories": ["Meme"],
+  "name": "DeezNuts",
   "github": [],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
-  "bittensor_discord_id": "1349123085877379112",
+  "bittensor_discord_id": "1351969903132938302",
   "team": "",
-  "summary": "",
+  "summary": "Just like SN28 this is a meme subnet for good vibes.",
   "websites": []
 }
