@@ -2264,17 +2264,14 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "\u0643",
-        "categories": [
-            "Meme"
-        ],
-        "name": "DeezNuts",
+        "name": "",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
         "bittensor_discord_id": "1351969903132938302",
         "team": "",
-        "summary": "Just like SN28 this is a meme subnet for good vibes.",
+        "summary": "",
         "websites": [],
         "subnet_id": 73
     },
@@ -2400,16 +2397,31 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0648",
+        "letter": "\u064a",
         "name": "",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
-        "bittensor_discord_id": "1351180661918142474",
+        "bittensor_discord_id": "",
         "team": "",
         "summary": "",
         "websites": [],
         "subnet_id": 79
+    },
+    {
+        "$schema": "../../schema.json",
+        "bittensor_id": "",
+        "letter": "\u0649",
+        "name": "",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 80
     }
 ]
