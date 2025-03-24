@@ -582,35 +582,27 @@
         "$schema": "../../schema.json",
         "bittensor_id": "cortex_t",
         "letter": "\u03c3",
-        "name": "Cortex.t",
+        "name": "Zeus",
         "github": [
-            "https://github.com/corcel-api/cortex.t"
+            "https://github.com/Orpheus-AI/Zeus"
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/18/v1.jpg",
         "description": "description.html",
         "bittensor_discord_id": "1172669887697653881",
-        "team": "Corcel",
-        "summary": "Cortex.t delivers reliable, high-quality text and image responses by incentivizing miners to contribute API keys to top AI models, allowing subnet traffic to be processed through these keys. The subnet also aggregates prompt-response pairs to create a comprehensive synthetic dataset.",
+        "team": "\u00d8rpheus AI",
+        "summary": "The Zeus Subnet leverages advanced AI models within the Bittensor network to forecast environmental data. This platform is engineered on a decentralized, incentive-driven framework to enhance trustworthiness and stimulate continuous technological advancement. The datasource for this subnet consists of ERA5 reanalysis data from the Climate Data Store (CDS) of the European Union's Earth observation programme (Copernicus). This comprises the largest global environmental dataset to date, containing hourly measurements from 1940 until the present across a multitude of hundreds of variables. Validators can stream data from this data source in real-time, allowing miners to be queried on terrabytes of data.",
         "categories": [
-            "Inference"
+            "DeSci"
         ],
         "websites": [
             {
-                "label": "twitter",
-                "url": "https://x.com/Corcel_X"
-            },
-            {
                 "label": "website",
-                "url": "https://corcel.io/"
-            },
-            {
-                "label": "application",
-                "url": "https://app.corcel.io/sign-in"
+                "url": "https://www.zeussubnet.com/"
             },
             {
                 "label": "whitepaper",
-                "url": "https://corcel.io/whitepapers/decentralised-subnet-inference-at-scale"
+                "url": "https://www.zeussubnet.com/whitepaper/Zeus_whitepaper_v0_1.pdf"
             }
         ],
         "subnet_id": 18
@@ -2398,7 +2390,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "\u064a",
-        "name": "",
+        "name": "AI Factory",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -2413,7 +2405,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "\u0649",
-        "name": "",
+        "name": "AI Factory",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
