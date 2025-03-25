@@ -587,7 +587,7 @@
             "https://github.com/Orpheus-AI/Zeus"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/18/v1.jpg",
+        "image_url": "https://backprop.finance/assets/subnet-logos/18/v2.png",
         "description": "description.html",
         "bittensor_discord_id": "1172669887697653881",
         "team": "\u00d8rpheus AI",
@@ -2260,7 +2260,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "\u0643",
-        "name": "",
+        "name": "f(x)InTegral",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -2394,7 +2394,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "\u064a",
-        "name": "AI Factory",
+        "name": "\u03c4aos",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -2410,7 +2410,9 @@
         "bittensor_id": "",
         "letter": "\u0649",
         "name": "AI Factory",
-        "github": [],
+        "github": [
+            "https://github.com/star145s/ai_factory"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
@@ -2419,5 +2421,20 @@
         "summary": "",
         "websites": [],
         "subnet_id": 80
+    },
+    {
+        "$schema": "../../schema.json",
+        "bittensor_id": "",
+        "letter": "\u064a",
+        "name": "",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 81
     }
 ]
