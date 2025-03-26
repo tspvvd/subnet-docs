@@ -2425,8 +2425,8 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u064a",
-        "name": "",
+        "letter": "\u16a0",
+        "name": "Patrol",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
