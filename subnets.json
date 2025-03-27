@@ -2399,7 +2399,7 @@
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
-        "bittensor_discord_id": "",
+        "bittensor_discord_id": "1353733356470276096",
         "team": "",
         "summary": "",
         "websites": [],
@@ -2414,12 +2414,17 @@
             "https://github.com/star145s/ai_factory"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/80/v1.jpg",
         "description": "",
-        "bittensor_discord_id": "",
+        "bittensor_discord_id": "1353733529774723073",
         "team": "",
         "summary": "",
-        "websites": [],
+        "websites": [
+            {
+                "label": "discord",
+                "url": "https://discord.com/invite/AMeC2t8F8W"
+            }
+        ],
         "subnet_id": 80
     },
     {
@@ -2431,7 +2436,7 @@
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
-        "bittensor_discord_id": "",
+        "bittensor_discord_id": "1354089114189955102",
         "team": "",
         "summary": "",
         "websites": [],
