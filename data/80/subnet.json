@@ -5,10 +5,15 @@
   "name": "AI Factory",
   "github": ["https://github.com/star145s/ai_factory"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/80/v1.jpg",
   "description": "",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1353733529774723073",
   "team": "",
   "summary": "",
-  "websites": []
+  "websites": [
+    {
+      "label": "discord",
+      "url": "https://discord.com/invite/AMeC2t8F8W"
+    }
+  ]
 }
