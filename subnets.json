@@ -2408,7 +2408,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0649",
+        "letter": "\u064a",
         "name": "AI Factory",
         "github": [
             "https://github.com/star145s/ai_factory"
@@ -2430,7 +2430,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u16a0",
+        "letter": "\u0649",
         "name": "Patrol",
         "github": [],
         "hw_requirements": "",
@@ -2445,16 +2445,31 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "",
+        "letter": "\u16a0",
         "name": "",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
-        "bittensor_discord_id": "",
+        "bittensor_discord_id": "1354838433142542407",
         "team": "",
         "summary": "",
         "websites": [],
         "subnet_id": 82
+    },
+    {
+        "$schema": "../../schema.json",
+        "bittensor_id": "",
+        "letter": "\u0649",
+        "name": "",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "1355560253076410428",
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 83
     }
 ]
