@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ى",
+  "letter": "ي",
   "name": "AI Factory",
   "github": ["https://github.com/star145s/ai_factory"],
   "hw_requirements": "",
