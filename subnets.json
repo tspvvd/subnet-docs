@@ -2445,7 +2445,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u16a0",
+        "letter": "\u16a2",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2460,7 +2460,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0649",
+        "letter": "\u16a6",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2471,5 +2471,20 @@
         "summary": "",
         "websites": [],
         "subnet_id": 83
+    },
+    {
+        "$schema": "../../schema.json",
+        "bittensor_id": "",
+        "letter": "\u16a8",
+        "name": "",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "1356254998874554589",
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 84
     }
 ]
