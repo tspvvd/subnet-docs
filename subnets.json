@@ -2491,10 +2491,12 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "\u16a8",
-        "name": "",
-        "github": [],
+        "name": "vidaio",
+        "github": [
+            "https://github.com/vidaio-subnet/vidaio-subnet"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/85/v1.jpg",
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
