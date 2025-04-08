@@ -2445,7 +2445,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u16a2",
+        "letter": "\u16a0",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2460,7 +2460,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u16a6",
+        "letter": "\u16a2",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2475,7 +2475,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u16a8",
+        "letter": "\u16a6",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2498,7 +2498,7 @@
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/85/v1.jpg",
         "description": "",
-        "bittensor_discord_id": "",
+        "bittensor_discord_id": "1342559689690583202",
         "team": "",
         "summary": "",
         "websites": [],
@@ -2513,7 +2513,7 @@
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
-        "bittensor_discord_id": "",
+        "bittensor_discord_id": "1358810927943782673",
         "team": "",
         "summary": "",
         "websites": [],
@@ -2528,10 +2528,36 @@
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
-        "bittensor_discord_id": "",
+        "bittensor_discord_id": "1358811312490287125",
         "team": "",
         "summary": "",
         "websites": [],
         "subnet_id": 87
+    },
+    {
+        "$schema": "../../schema.json",
+        "bittensor_id": "",
+        "letter": "\u044b",
+        "name": "S\u03c4\u03b1king",
+        "github": [
+            "https://github.com/mobiusfund/staking"
+        ],
+        "hw_requirements": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/88/v1.webp",
+        "description": "description.html",
+        "bittensor_discord_id": "1358854051634221328",
+        "team": "",
+        "summary": "Optimizing Staking Strategies",
+        "websites": [
+            {
+                "label": "dashboard",
+                "url": "https://stakingalpha.com"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/StakingAlpha88"
+            }
+        ],
+        "subnet_id": 88
     }
 ]
