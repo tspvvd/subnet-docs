@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schema.json",
+  "bittensor_id": "",
+  "letter": "ы",
+  "name": "Sταking",
+  "github": ["https://github.com/mobiusfund/staking"],
+  "hw_requirements": "",
+  "image_url": "https://backprop.finance/assets/subnet-logos/88/v1.webp",
+  "description": "description.html",
+  "bittensor_discord_id": "1358854051634221328",
+  "team": "",
+  "summary": "Optimizing Staking Strategies",
+  "websites": [
+    {
+      "label": "dashboard",
+      "url": "https://stakingalpha.com"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/StakingAlpha88"
+    }
+  ]
+}
