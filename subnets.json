@@ -2445,6 +2445,10 @@
             {
                 "label": "twitter",
                 "url": "https://x.com/latentholdings"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.gg/Q74Vm5G8"
             }
         ],
         "subnet_id": 81
