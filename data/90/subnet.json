@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schema.json",
+  "bittensor_id": "",
+  "letter": "ᛒ",
+  "name": "brain",
+  "github": ["https://github.com/frkrueger/bittensor-brain-subnet"],
+  "hw_requirements": "",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "description.html",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "A Bittensor subnet focused on validating prediction market results. This subnet leverages open-source verification methods to determine the truth value of statements with confidence intervals.",
+  "websites": []
+}
