@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "logicnet",
-  "letter": "ך",
+  "letter": "",
   "name": "LogicNet",
   "github": ["https://github.com/LogicNet-Subnet/LogicNet"],
   "hw_requirements": "",

@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "غ",
+  "letter": "",
   "name": "Vericore",
   "github": ["https://github.com/dfusionai/Vericore"],
   "hw_requirements": "",

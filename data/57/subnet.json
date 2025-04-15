@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ح",
+  "letter": "",
   "name": "Gaia",
   "github": ["https://github.com/Nickel5-Inc/Gaia"],
   "hw_requirements": "",

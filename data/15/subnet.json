@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "omicron",
-  "letter": "ο",
+  "letter": "",
   "name": "De-Val",
   "github": ["https://github.com/deval-core/De-Val"],
   "hw_requirements": "",

@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ת",
+  "letter": "",
   "name": "Compute Subnet",
   "github": ["https://github.com/Datura-ai/compute-subnet"],
   "hw_requirements": "",

@@ -34,12 +34,11 @@ Your subnet folder must contain a `subnet.json` file that follows the schema for
 {
   "$schema": "../../schema.json",
   "bittensor_id": "your_identifier",
-  "letter": "𝛼",                     // Greek or other letter representing your subnet
   "name": "Your Subnet Name",
   "github": ["https://github.com/your-org/your-repo"],
   "hw_requirements": "https://github.com/your-org/your-repo/hardware-specs.md",
   "image_url": "https://example.com/your-subnet-logo.png", // For more details, please refer to the following section about how to upload token images
-  "description": "description.html",  // Reference to optional HTML file. If description.html is not provided, please leave this field empty.
+  "description": "description.html", // Reference to optional HTML file. If description.html is not provided, please leave this field empty.
   "bittensor_discord_id": "discord_channel_id",
   "team": "Your Team Name",
   "summary": "Brief summary of your subnet's purpose and functionality.",
@@ -76,7 +75,6 @@ Your subnet folder must contain a `subnet.json` file that follows the schema for
 4. Submit a pull request with a clear description of your subnet
 5. Once approved, your subnet documentation will be merged and published
 
-
 ## Additional Info: How the Documentation is Generated
 
 The `generate_subnets.py` script processes all subnet folders and generates consolidated documentation:
@@ -88,8 +86,6 @@ The `generate_subnets.py` script processes all subnet folders and generates cons
 
 > [!NOTE]
 > The script automatically runs when changes are merged to the main branch, so you don't need to run it manually.
-
-
 
 ## Questions or Issues?
 

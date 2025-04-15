@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "د",
+  "letter": "",
   "name": "Agent Arena",
   "github": ["https://github.com/masa-finance/agent-arena-subnet"],
   "hw_requirements": "",

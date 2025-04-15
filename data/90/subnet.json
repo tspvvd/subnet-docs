@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ᛒ",
+  "letter": "",
   "name": "brain",
   "github": ["https://github.com/frkrueger/bittensor-brain-subnet"],
   "hw_requirements": "",

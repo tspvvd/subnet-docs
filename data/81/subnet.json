@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ى",
+  "letter": "",
   "name": "Patrol (TAO.com)",
   "github": ["https://github.com/tao-dot-com/patrol_subnet"],
   "hw_requirements": "",

@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ا",
+  "letter": "",
   "name": "Tensorplex Dojo",
   "github": [
     "https://github.com/tensorplex-labs/dojo",

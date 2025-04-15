@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ه",
+  "letter": "",
   "name": "Reserved",
   "github": ["https://github.com/creativebuilds/sn77"],
   "hw_requirements": "",

@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "gamma",
-  "letter": "𝛾",
+  "letter": "",
   "name": "Templar",
   "github": ["https://github.com/RaoFoundation/templar"],
   "hw_requirements": "",

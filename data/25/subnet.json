@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "protein_folding",
-  "letter": "א",
+  "letter": "",
   "name": "Protein Folding",
   "github": ["https://github.com/macrocosm-os/folding"],
   "hw_requirements": "",

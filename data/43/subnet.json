@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "graphite",
-  "letter": "ע",
+  "letter": "",
   "name": "Graphite",
   "github": ["https://github.com/GraphiteAI/Graphite-Subnet"],
   "hw_requirements": "",

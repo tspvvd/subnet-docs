@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "cortex_t",
-  "letter": "σ",
+  "letter": "",
   "name": "Zeus",
   "github": ["https://github.com/Orpheus-AI/Zeus"],
   "hw_requirements": "",

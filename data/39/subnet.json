@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "edge_maxxing",
-  "letter": "מ",
+  "letter": "",
   "name": "EdgeMaxxing",
   "github": ["https://github.com/womboai/edge-optimization-subnet"],
   "hw_requirements": "",

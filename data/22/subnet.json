@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "desearch",
-  "letter": "χ",
+  "letter": "",
   "name": "Desearch",
   "github": ["https://github.com/Datura-ai/desearch"],
   "hw_requirements": "",

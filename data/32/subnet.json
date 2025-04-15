@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "its_ai",
-  "letter": "ח",
+  "letter": "",
   "name": "It's AI",
   "github": ["https://github.com/It-s-AI/llm-detection"],
   "hw_requirements": "",

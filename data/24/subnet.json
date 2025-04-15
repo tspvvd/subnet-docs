@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "omega_labs",
-  "letter": "ω",
+  "letter": "",
   "name": "OMEGA Labs",
   "github": ["https://github.com/OMEGAlabsinc/OMEGAlabs-bittensor-subnet"],
   "hw_requirements": "",

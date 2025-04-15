@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ض",
+  "letter": "",
   "name": "Fake News",
   "github": ["https://github.com/gutenberg-team/fakenews-subnet"],
   "hw_requirements": "",

@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ξ",
+  "letter": "",
   "name": "Vector Store",
   "github": ["https://github.com/vector-pool/vector-store"],
   "hw_requirements": "",

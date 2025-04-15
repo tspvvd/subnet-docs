@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "proprietary_trading_network",
-  "letter": "θ",
+  "letter": "",
   "name": "Proprietary Trading Network",
   "github": ["https://github.com/taoshidev/proprietary-trading-network"],
   "hw_requirements": "",

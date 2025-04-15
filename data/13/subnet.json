@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "dataverse",
-  "letter": "ν",
+  "letter": "",
   "name": "Dataverse",
   "github": ["https://github.com/macrocosm-os/data-universe/"],
   "hw_requirements": "",

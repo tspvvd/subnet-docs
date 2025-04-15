@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "bitads",
-  "letter": "π",
+  "letter": "",
   "name": "BitAds",
   "github": ["https://github.com/eseckft/BitAds.ai"],
   "hw_requirements": "",

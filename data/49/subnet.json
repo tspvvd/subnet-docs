@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "tsadi",
-  "letter": "ר",
+  "letter": "",
   "name": "Hivetrain",
   "github": ["https://github.com/Hivetrain/DistributedAutoML/"],
   "hw_requirements": "",

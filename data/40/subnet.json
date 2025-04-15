@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "chunking",
-  "letter": "ן",
+  "letter": "",
   "name": "Chunking",
   "github": ["https://github.com/VectorChat/chunking_subnet"],
   "hw_requirements": "",

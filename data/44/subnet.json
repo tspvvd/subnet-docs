@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "score_vision",
-  "letter": "ף",
+  "letter": "",
   "name": "Score Vision",
   "github": ["https://github.com/score-technologies/score-vision/"],
   "hw_requirements": "",

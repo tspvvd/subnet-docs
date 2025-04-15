@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "horde",
-  "letter": "µ",
+  "letter": "",
   "name": "Horde",
   "github": ["https://github.com/backend-developers-ltd/ComputeHorde"],
   "hw_requirements": "",

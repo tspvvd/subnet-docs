@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "bitmind",
-  "letter": "י",
+  "letter": "",
   "name": "BitMind",
   "github": ["https://github.com/BitMind-AI/bitmind-subnet"],
   "hw_requirements": "",

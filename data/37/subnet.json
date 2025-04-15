@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "fine_tuning",
-  "letter": "ל",
+  "letter": "",
   "name": "Fine-Tuning",
   "github": ["https://github.com/macrocosm-os/finetuning"],
   "hw_requirements": "",

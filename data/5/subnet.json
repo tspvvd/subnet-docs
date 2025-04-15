@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "epsilon",
-  "letter": "ε",
+  "letter": "",
   "name": "Open Kaito",
   "github": ["https://github.com/OpenKaito/openkaito"],
   "hw_requirements": "https://github.com/OpenKaito/openkaito/blob/main/min_compute.yml",

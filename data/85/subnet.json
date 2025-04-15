@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ᚨ",
+  "letter": "",
   "name": "vidaio",
   "github": ["https://github.com/vidaio-subnet/vidaio-subnet"],
   "hw_requirements": "",

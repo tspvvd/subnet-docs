@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ש",
+  "letter": "",
   "name": "Synth",
   "github": ["https://github.com/mode-network/synth-subnet"],
   "hw_requirements": "",

@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "alpha",
-  "letter": "𝛼",
+  "letter": "",
   "name": "Text Prompting",
   "github": ["https://github.com/macrocosm-os/prompting"],
   "hw_requirements": "https://github.com/macrocosm-os/prompting/blob/main/min_compute.yml",

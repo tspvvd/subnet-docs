@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "social_tensor",
-  "letter": "ψ",
+  "letter": "",
   "name": "SocialTensor",
   "github": ["https://github.com/SocialTensor/SocialTensorSubnet"],
   "hw_requirements": "",

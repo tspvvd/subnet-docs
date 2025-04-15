@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ل",
+  "letter": "",
   "name": "Agentao",
   "github": ["https://github.com/taoagents/agentao"],
   "hw_requirements": "",

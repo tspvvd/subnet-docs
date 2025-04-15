@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "lambda",
-  "letter": "λ",
+  "letter": "",
   "name": "Dippy Roleplay",
   "github": ["https://github.com/impel-intelligence/dippy-bittensor-subnet"],
   "hw_requirements": "https://github.com/impel-intelligence/dippy-bittensor-subnet/blob/main/min_compute.yml",

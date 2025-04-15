@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "כ",
+  "letter": "",
   "name": "Web Agents",
   "github": ["https://github.com/autoppia/autoppia_web_agents_subnet"],
   "hw_requirements": "",

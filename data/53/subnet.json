@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ب",
+  "letter": "",
   "name": "Efficient Frontier",
   "github": [
     "https://github.com/EfficientFrontier-SignalPlus/EfficientFrontier"

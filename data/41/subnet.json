@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "sportstensor",
-  "letter": "נ",
+  "letter": "",
   "name": "Sportstensor",
   "github": ["https://github.com/xzistance/sportstensor"],
   "hw_requirements": "",

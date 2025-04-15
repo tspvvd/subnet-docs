@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "beta",
-  "letter": "𝛽",
+  "letter": "",
   "name": "Omron",
   "github": ["https://github.com/inference-labs-inc/omron-subnet"],
   "hw_requirements": "https://github.com/inference-labs-inc/omron-subnet?tab=readme-ov-file#run-the-miner",

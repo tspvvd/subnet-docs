@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "final-tsadi",
-  "letter": "ץ",
+  "letter": "",
   "name": "Neural3D",
   "github": ["https://github.com/GoNeuralAI/neural-subnet"],
   "hw_requirements": "",

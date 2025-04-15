@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "vision",
-  "letter": "τ",
+  "letter": "",
   "name": "Vision",
   "github": ["https://github.com/namoray/vision"],
   "hw_requirements": "",

@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "bettensor",
-  "letter": "ו",
+  "letter": "",
   "name": "Bettensor",
   "github": ["https://github.com/Nickel5-Inc/bettensor"],
   "hw_requirements": "",

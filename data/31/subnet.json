@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "nas_chain",
-  "letter": "ז",
+  "letter": "",
   "name": "NAS Chain",
   "github": ["https://github.com/neuronlogic/NASChain"],
   "hw_requirements": "",

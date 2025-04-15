@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ش",
+  "letter": "",
   "name": "Chutes",
   "github": ["https://github.com/rayonlabs/chutes-miner"],
   "hw_requirements": "",

@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "خ",
+  "letter": "",
   "name": "Dippy Speech",
   "github": ["https://github.com/impel-intelligence/dippy-bittensor-subnet"],
   "hw_requirements": "https://github.com/impel-intelligence/dippy-synthetic-speech-subnet",

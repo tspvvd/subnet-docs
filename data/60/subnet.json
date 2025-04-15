@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ذ",
+  "letter": "",
   "name": "Bitsec",
   "github": ["https://github.com/Bitsec-AI/subnet"],
   "hw_requirements": "",

@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "sturdy",
-  "letter": "κ",
+  "letter": "",
   "name": "Sturdy",
   "github": ["https://github.com/Sturdy-Subnet/sturdy-subnet"],
   "hw_requirements": "",

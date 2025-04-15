@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "bitagent",
-  "letter": "υ",
+  "letter": "",
   "name": "BitAgent",
   "github": ["https://github.com/RogueTensor/bitagent_subnet"],
   "hw_requirements": "",

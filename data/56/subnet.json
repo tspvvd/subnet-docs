@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "",
-  "letter": "ج",
+  "letter": "",
   "name": "Gradients",
   "github": ["https://github.com/rayonlabs/G.O.D"],
   "hw_requirements": "",

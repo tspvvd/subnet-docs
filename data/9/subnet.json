@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "pre_training_llms",
-  "letter": "ι",
+  "letter": "",
   "name": "Pre-training LLMs",
   "github": ["https://github.com/macrocosm-os/pretraining"],
   "hw_requirements": "",

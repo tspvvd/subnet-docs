@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "omega_any_to_any",
-  "letter": "φ",
+  "letter": "",
   "name": "OMEGA Any-to-Any",
   "github": ["https://github.com/OMEGAlabsinc/OMEGAlabs-anytoany-bittensor"],
   "hw_requirements": "",

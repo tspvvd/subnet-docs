@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema.json",
   "bittensor_id": "infinite_games",
-  "letter": "ζ",
+  "letter": "",
   "name": "Infinite Games",
   "github": ["https://github.com/amedeo-gigaver/infinite_games"],
   "hw_requirements": "",
