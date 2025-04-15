@@ -2549,15 +2549,34 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "CheckerChain",
+        "github": [
+            "https://github.com/CheckerChain/checkerchain-subnet"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
-        "bittensor_discord_id": "1358811312490287125",
+        "image_url": "https://backprop.finance/assets/subnet-logos/87/v1.jpg",
+        "description": "description.html",
+        "bittensor_discord_id": "1347299108238397572",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "CheckerChain is a next-gen AI-powered crypto review platform that powers a trustless review consensus mechanism (tRCM).",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://checkerchain.com"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://docs.checkerchain.com"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/checker_chain"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.com/invite/YUcYjEEjcv"
+            }
+        ],
         "subnet_id": 87
     },
     {
