@@ -17,7 +17,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "alpha",
-        "letter": "\ud835\udefc",
+        "letter": "",
         "name": "Text Prompting",
         "github": [
             "https://github.com/macrocosm-os/prompting"
@@ -51,7 +51,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "beta",
-        "letter": "\ud835\udefd",
+        "letter": "",
         "name": "Omron",
         "github": [
             "https://github.com/inference-labs-inc/omron-subnet"
@@ -92,7 +92,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "gamma",
-        "letter": "\ud835\udefe",
+        "letter": "",
         "name": "Templar",
         "github": [
             "https://github.com/RaoFoundation/templar"
@@ -117,7 +117,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "delta",
-        "letter": "\u2206",
+        "letter": "",
         "name": "Targon",
         "github": [
             "https://github.com/manifold-inc/targon"
@@ -154,7 +154,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "epsilon",
-        "letter": "\u03b5",
+        "letter": "",
         "name": "Open Kaito",
         "github": [
             "https://github.com/OpenKaito/openkaito"
@@ -187,7 +187,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "infinite_games",
-        "letter": "\u03b6",
+        "letter": "",
         "name": "Infinite Games",
         "github": [
             "https://github.com/amedeo-gigaver/infinite_games"
@@ -216,7 +216,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "subvortex",
-        "letter": "\u03b7",
+        "letter": "",
         "name": "SubVortex",
         "github": [
             "https://github.com/eclipsevortex/SubVortex"
@@ -245,7 +245,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "proprietary_trading_network",
-        "letter": "\u03b8",
+        "letter": "",
         "name": "Proprietary Trading Network",
         "github": [
             "https://github.com/taoshidev/proprietary-trading-network"
@@ -278,7 +278,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "pre_training_llms",
-        "letter": "\u03b9",
+        "letter": "",
         "name": "Pre-training LLMs",
         "github": [
             "https://github.com/macrocosm-os/pretraining"
@@ -320,7 +320,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "sturdy",
-        "letter": "\u03ba",
+        "letter": "",
         "name": "Sturdy",
         "github": [
             "https://github.com/Sturdy-Subnet/sturdy-subnet"
@@ -353,7 +353,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "lambda",
-        "letter": "\u03bb",
+        "letter": "",
         "name": "Dippy Roleplay",
         "github": [
             "https://github.com/impel-intelligence/dippy-bittensor-subnet"
@@ -382,7 +382,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "horde",
-        "letter": "\u00b5",
+        "letter": "",
         "name": "Horde",
         "github": [
             "https://github.com/backend-developers-ltd/ComputeHorde"
@@ -411,7 +411,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "dataverse",
-        "letter": "\u03bd",
+        "letter": "",
         "name": "Dataverse",
         "github": [
             "https://github.com/macrocosm-os/data-universe/"
@@ -449,7 +449,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u03be",
+        "letter": "",
         "name": "Vector Store",
         "github": [
             "https://github.com/vector-pool/vector-store"
@@ -482,7 +482,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "omicron",
-        "letter": "\u03bf",
+        "letter": "",
         "name": "De-Val",
         "github": [
             "https://github.com/deval-core/De-Val"
@@ -515,7 +515,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "bitads",
-        "letter": "\u03c0",
+        "letter": "",
         "name": "BitAds",
         "github": [
             "https://github.com/eseckft/BitAds.ai"
@@ -548,7 +548,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "three_gen",
-        "letter": "\u03c1",
+        "letter": "",
         "name": "Three Gen",
         "github": [
             "https://github.com/404-Repo/three-gen-subnet/"
@@ -581,7 +581,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "cortex_t",
-        "letter": "\u03c3",
+        "letter": "",
         "name": "Zeus",
         "github": [
             "https://github.com/Orpheus-AI/Zeus"
@@ -614,7 +614,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "vision",
-        "letter": "\u03c4",
+        "letter": "",
         "name": "Vision",
         "github": [
             "https://github.com/namoray/vision"
@@ -655,7 +655,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "bitagent",
-        "letter": "\u03c5",
+        "letter": "",
         "name": "BitAgent",
         "github": [
             "https://github.com/RogueTensor/bitagent_subnet"
@@ -684,7 +684,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "omega_any_to_any",
-        "letter": "\u03c6",
+        "letter": "",
         "name": "OMEGA Any-to-Any",
         "github": [
             "https://github.com/OMEGAlabsinc/OMEGAlabs-anytoany-bittensor"
@@ -725,7 +725,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "desearch",
-        "letter": "\u03c7",
+        "letter": "",
         "name": "Desearch",
         "github": [
             "https://github.com/Datura-ai/desearch"
@@ -754,7 +754,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "social_tensor",
-        "letter": "\u03c8",
+        "letter": "",
         "name": "SocialTensor",
         "github": [
             "https://github.com/SocialTensor/SocialTensorSubnet"
@@ -791,7 +791,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "omega_labs",
-        "letter": "\u03c9",
+        "letter": "",
         "name": "OMEGA Labs",
         "github": [
             "https://github.com/OMEGAlabsinc/OMEGAlabs-bittensor-subnet"
@@ -832,7 +832,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "protein_folding",
-        "letter": "\u05d0",
+        "letter": "",
         "name": "Protein Folding",
         "github": [
             "https://github.com/macrocosm-os/folding"
@@ -870,7 +870,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u05d1",
+        "letter": "",
         "name": "Storb",
         "github": [
             "https://github.com/fr34kcoders/storb-rs"
@@ -895,7 +895,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "neural_internet",
-        "letter": "\u05d2",
+        "letter": "",
         "name": "Compute",
         "github": [
             "https://github.com/neuralinternet/compute-subnet"
@@ -932,7 +932,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u05d3",
+        "letter": "",
         "categories": [
             "Meme"
         ],
@@ -952,7 +952,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "coldint",
-        "letter": "\u05d4",
+        "letter": "",
         "name": "Coldint",
         "github": [
             "https://github.com/coldint/sn29"
@@ -989,7 +989,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "bettensor",
-        "letter": "\u05d5",
+        "letter": "",
         "name": "Bettensor",
         "github": [
             "https://github.com/Nickel5-Inc/bettensor"
@@ -1027,7 +1027,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "nas_chain",
-        "letter": "\u05d6",
+        "letter": "",
         "name": "NAS Chain",
         "github": [
             "https://github.com/neuronlogic/NASChain"
@@ -1061,7 +1061,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "its_ai",
-        "letter": "\u05d7",
+        "letter": "",
         "name": "It's AI",
         "github": [
             "https://github.com/It-s-AI/llm-detection"
@@ -1107,7 +1107,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "readyai",
-        "letter": "\u05d8",
+        "letter": "",
         "name": "ReadyAI",
         "github": [
             "https://github.com/afterpartyai/bittensor-conversation-genome-project"
@@ -1136,7 +1136,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "bitmind",
-        "letter": "\u05d9",
+        "letter": "",
         "name": "BitMind",
         "github": [
             "https://github.com/BitMind-AI/bitmind-subnet"
@@ -1178,7 +1178,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "logicnet",
-        "letter": "\u05da",
+        "letter": "",
         "name": "LogicNet",
         "github": [
             "https://github.com/LogicNet-Subnet/LogicNet"
@@ -1207,7 +1207,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u05db",
+        "letter": "",
         "name": "Web Agents",
         "github": [
             "https://github.com/autoppia/autoppia_web_agents_subnet"
@@ -1227,7 +1227,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "fine_tuning",
-        "letter": "\u05dc",
+        "letter": "",
         "name": "Fine-Tuning",
         "github": [
             "https://github.com/macrocosm-os/finetuning"
@@ -1261,7 +1261,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "distributed_training",
-        "letter": "\u05dd",
+        "letter": "",
         "name": "DistributedTraining",
         "github": [
             "https://github.com/KMFODA/DistributedTraining"
@@ -1290,7 +1290,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "edge_maxxing",
-        "letter": "\u05de",
+        "letter": "",
         "name": "EdgeMaxxing",
         "github": [
             "https://github.com/womboai/edge-optimization-subnet"
@@ -1323,7 +1323,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "chunking",
-        "letter": "\u05df",
+        "letter": "",
         "name": "Chunking",
         "github": [
             "https://github.com/VectorChat/chunking_subnet"
@@ -1364,7 +1364,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "sportstensor",
-        "letter": "\u05e0",
+        "letter": "",
         "name": "Sportstensor",
         "github": [
             "https://github.com/xzistance/sportstensor"
@@ -1402,7 +1402,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "masa",
-        "letter": "\u05e1",
+        "letter": "",
         "name": "Masa",
         "github": [
             "https://github.com/masa-finance"
@@ -1431,7 +1431,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "graphite",
-        "letter": "\u05e2",
+        "letter": "",
         "name": "Graphite",
         "github": [
             "https://github.com/GraphiteAI/Graphite-Subnet"
@@ -1464,7 +1464,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "score_vision",
-        "letter": "\u05e3",
+        "letter": "",
         "name": "Score Vision",
         "github": [
             "https://github.com/score-technologies/score-vision/"
@@ -1494,7 +1494,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "gen42",
-        "letter": "\u05e4",
+        "letter": "",
         "name": "Gen42",
         "github": [
             "https://github.com/brokespace/code"
@@ -1527,7 +1527,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "final-tsadi",
-        "letter": "\u05e5",
+        "letter": "",
         "name": "Neural3D",
         "github": [
             "https://github.com/GoNeuralAI/neural-subnet"
@@ -1560,7 +1560,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "tsadi",
-        "letter": "\u05e6",
+        "letter": "",
         "name": "CondenseAI",
         "github": [
             "https://github.com/condenses/neural-condense-subnet",
@@ -1595,7 +1595,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u05e7",
+        "letter": "",
         "name": "NextPlace",
         "github": [
             "https://github.com/Nickel5-Inc/Nextplace"
@@ -1628,7 +1628,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "tsadi",
-        "letter": "\u05e8",
+        "letter": "",
         "name": "Hivetrain",
         "github": [
             "https://github.com/Hivetrain/DistributedAutoML/"
@@ -1653,7 +1653,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u05e9",
+        "letter": "",
         "name": "Synth",
         "github": [
             "https://github.com/mode-network/synth-subnet"
@@ -1678,7 +1678,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u05ea",
+        "letter": "",
         "name": "Compute Subnet",
         "github": [
             "https://github.com/Datura-ai/compute-subnet"
@@ -1707,7 +1707,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0627",
+        "letter": "",
         "name": "Tensorplex Dojo",
         "github": [
             "https://github.com/tensorplex-labs/dojo",
@@ -1747,7 +1747,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0628",
+        "letter": "",
         "name": "Efficient Frontier",
         "github": [
             "https://github.com/EfficientFrontier-SignalPlus/EfficientFrontier"
@@ -1776,7 +1776,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u062a",
+        "letter": "",
         "name": "Web Genie AI",
         "github": [
             "https://github.com/web-genie-ai/web-genie-ai/"
@@ -1805,7 +1805,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u062b",
+        "letter": "",
         "name": "Precog",
         "github": [
             "https://github.com/coinmetrics/precog"
@@ -1834,7 +1834,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u062c",
+        "letter": "",
         "name": "Gradients",
         "github": [
             "https://github.com/rayonlabs/G.O.D"
@@ -1859,7 +1859,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u062d",
+        "letter": "",
         "name": "Gaia",
         "github": [
             "https://github.com/Nickel5-Inc/Gaia"
@@ -1892,7 +1892,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u062e",
+        "letter": "",
         "name": "Dippy Speech",
         "github": [
             "https://github.com/impel-intelligence/dippy-bittensor-subnet"
@@ -1921,7 +1921,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u062f",
+        "letter": "",
         "name": "Agent Arena",
         "github": [
             "https://github.com/masa-finance/agent-arena-subnet"
@@ -1950,7 +1950,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0630",
+        "letter": "",
         "name": "Bitsec",
         "github": [
             "https://github.com/Bitsec-AI/subnet"
@@ -1979,7 +1979,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0631",
+        "letter": "",
         "name": "Redteam",
         "github": [
             "https://github.com/RedTeamSubnet/RedTeam"
@@ -2012,7 +2012,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0644",
+        "letter": "",
         "name": "Agentao",
         "github": [
             "https://github.com/taoagents/agentao"
@@ -2045,7 +2045,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0633",
+        "letter": "",
         "name": "Alpha Trader Exchange",
         "github": [
             "https://github.com/Nickel5-Inc/alpha-trader-exchange"
@@ -2071,7 +2071,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0634",
+        "letter": "",
         "name": "Chutes",
         "github": [
             "https://github.com/rayonlabs/chutes-miner"
@@ -2100,7 +2100,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0635",
+        "letter": "",
         "name": "TAO Private Network",
         "github": [
             "https://github.com/beyond-stake/tpn-subnet"
@@ -2120,7 +2120,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0636",
+        "letter": "",
         "name": "Fake News",
         "github": [
             "https://github.com/gutenberg-team/fakenews-subnet"
@@ -2140,7 +2140,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0637",
+        "letter": "",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2155,7 +2155,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0638",
+        "letter": "",
         "name": "Nova",
         "github": [
             "https://github.com/metanova-labs/nova"
@@ -2188,7 +2188,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0639",
+        "letter": "",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2203,7 +2203,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u063a",
+        "letter": "",
         "name": "Vericore",
         "github": [
             "https://github.com/dfusionai/Vericore"
@@ -2229,7 +2229,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0641",
+        "letter": "",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2244,7 +2244,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0642",
+        "letter": "",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2259,7 +2259,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0643",
+        "letter": "",
         "name": "f(x)InTegral",
         "github": [],
         "hw_requirements": "",
@@ -2274,7 +2274,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0644",
+        "letter": "",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2289,7 +2289,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0645",
+        "letter": "",
         "name": "Hippius",
         "github": [
             "https://github.com/thenervelab/thebrain",
@@ -2328,7 +2328,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0646",
+        "letter": "",
         "name": "Safe Scan",
         "github": [
             "https://github.com/safe-scan-ai/cancer-ai"
@@ -2361,7 +2361,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0647",
+        "letter": "",
         "name": "Reserved",
         "github": [
             "https://github.com/creativebuilds/sn77"
@@ -2378,7 +2378,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0648",
+        "letter": "",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2393,7 +2393,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u064a",
+        "letter": "",
         "name": "\u03c4aos",
         "github": [],
         "hw_requirements": "",
@@ -2408,7 +2408,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u064a",
+        "letter": "",
         "name": "AI Factory",
         "github": [
             "https://github.com/star145s/ai_factory"
@@ -2430,7 +2430,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u0649",
+        "letter": "",
         "name": "Patrol (TAO.com)",
         "github": [
             "https://github.com/tao-dot-com/patrol_subnet"
@@ -2456,7 +2456,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u16a0",
+        "letter": "",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2471,7 +2471,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u16a2",
+        "letter": "",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2486,7 +2486,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u16a6",
+        "letter": "",
         "name": "Docs-Insights",
         "github": [
             "https://github.com/TatsuProject/Document_Understanding_Subnet"
@@ -2516,7 +2516,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u16a8",
+        "letter": "",
         "name": "vidaio",
         "github": [
             "https://github.com/vidaio-subnet/vidaio-subnet"
@@ -2533,7 +2533,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u16b1",
+        "letter": "",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2548,7 +2548,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u16b3",
+        "letter": "",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2563,7 +2563,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u044b",
+        "letter": "",
         "name": "S\u03c4\u03b1king",
         "github": [
             "https://github.com/mobiusfund/staking"
@@ -2589,7 +2589,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u16c9",
+        "letter": "",
         "name": "",
         "github": [],
         "hw_requirements": "",
@@ -2604,7 +2604,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u16d2",
+        "letter": "",
         "name": "brain",
         "github": [
             "https://github.com/frkrueger/bittensor-brain-subnet"
@@ -2621,7 +2621,7 @@
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
-        "letter": "\u1681",
+        "letter": "",
         "name": "",
         "github": [],
         "hw_requirements": "",
