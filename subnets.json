@@ -2631,7 +2631,7 @@
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "description.html",
-        "bittensor_discord_id": "",
+        "bittensor_discord_id": "1361438967198908577",
         "team": "",
         "summary": "A Bittensor subnet focused on validating prediction market results. This subnet leverages open-source verification methods to determine the truth value of statements with confidence intervals.",
         "websites": [],
@@ -2646,10 +2646,25 @@
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
-        "bittensor_discord_id": "",
+        "bittensor_discord_id": "1361439346154016900",
         "team": "",
         "summary": "",
         "websites": [],
         "subnet_id": 91
+    },
+    {
+        "$schema": "../../schema.json",
+        "bittensor_id": "",
+        "letter": "",
+        "name": "",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "1361761424153645217",
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "subnet_id": 92
     }
 ]
