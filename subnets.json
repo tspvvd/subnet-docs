@@ -547,9 +547,9 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "three_gen",
+        "bittensor_id": "",
         "letter": "",
-        "name": "Three Gen",
+        "name": "404\u2014GEN",
         "github": [
             "https://github.com/404-Repo/three-gen-subnet/"
         ],
