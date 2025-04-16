@@ -1,8 +1,8 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "three_gen",
+  "bittensor_id": "",
   "letter": "",
-  "name": "Three Gen",
+  "name": "404—GEN",
   "github": ["https://github.com/404-Repo/three-gen-subnet/"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/17/v1.png",
