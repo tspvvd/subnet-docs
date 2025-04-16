@@ -1,28 +1,20 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "nas_chain",
+  "bittensor_id": "",
   "letter": "",
-  "name": "NAS Chain",
-  "github": ["https://github.com/neuronlogic/NASChain"],
+  "name": "NullUntilBoot",
+  "github": ["https://github.com/NeuralNexusII/NullUntilBoot"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/31/v1.jpg",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
-  "bittensor_discord_id": "1222990781577433232",
-  "team": "NAS Chain",
-  "summary": "NASChain is dedicated to optimizing neural architecture search (NAS). Contributors run NAS algorithms in search of models that maximize accuracy while minimizing computational costs.",
-  "categories": ["Model Development", "Infrastructure"],
+  "bittensor_discord_id": "1361421560988041267",
+  "team": "",
+  "summary": "",
+  "categories": [],
   "websites": [
     {
       "label": "twitter",
-      "url": "https://x.com/naschain_ai"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://dashboard.naschain.ai/leader-board"
-    },
-    {
-      "label": "tplx_publication_link",
-      "url": "https://medium.com/@tensorplexlabs/bittensor-subnet-review-sn31-neural-architecture-search-dd90b5d84f0b"
+      "url": "https://x.com/NullUntilBoot"
     }
   ]
 }

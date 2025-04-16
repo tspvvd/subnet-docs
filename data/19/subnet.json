@@ -1,15 +1,15 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "vision",
+  "bittensor_id": "",
   "letter": "",
-  "name": "Vision",
-  "github": ["https://github.com/namoray/vision"],
+  "name": "Nineteen",
+  "github": ["https://github.com/rayonlabs/nineteen"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/19/v1.svg",
   "description": "description.html",
   "bittensor_discord_id": "1186691482749505627",
   "team": "",
-  "summary": "Vision specializes in large-scale distributed inference, providing access to the top open-source LLMs, image generation models, and other miscellaneous models, such as embedding models. With an average response time of 300ms and a throughput of 45 tokens per second, Vision delivers both speed and reliability.",
+  "summary": "Giving access to Bittensor with Decentralized subnet inference at scale.",
   "categories": ["Inference"],
   "websites": [
     {
@@ -31,6 +31,10 @@
     {
       "label": "whitepaper",
       "url": "https://sn19.ai/pdfs/sn19-deck.pdf"
+    },
+    {
+      "label": "discord",
+      "url": "https://discord.gg/dR865yTPaZ"
     }
   ]
 }

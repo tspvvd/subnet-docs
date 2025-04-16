@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "alpha",
   "letter": "",
-  "name": "Text Prompting",
+  "name": "Apex",
   "github": ["https://github.com/macrocosm-os/prompting"],
   "hw_requirements": "https://github.com/macrocosm-os/prompting/blob/main/min_compute.yml",
   "image_url": "https://backprop.finance/assets/subnet-logos/1/v1.png",

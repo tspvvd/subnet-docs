@@ -1,15 +1,15 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "gen42",
+  "bittensor_id": "",
   "letter": "",
-  "name": "Gen42",
+  "name": "SWE-Rizzo",
   "github": ["https://github.com/brokespace/code"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/45/v1.jpg",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "1267511824601976935",
   "team": "",
-  "summary": "GEN42 is an AI coding assistant for intelligence code generation, completion, and interactive Q&A. Contributors are incentivized to create tools that streamline the coding workflow, allowing developers to concentrate on creativity and problem-solving.",
+  "summary": "Gen42 leverages the Bittensor network to provide decentralized software engineering services. Our focus is on creating robust, scalable tools for software engineering, powered by open-source large language models. These tools should benefit both Bittensor community and the broader software engineering ecosystem. To achieve this, our miners compete to develop the best SWE (software engineering) pipelines and we score their performance.",
   "categories": ["AI Agent"],
   "websites": [
     {
