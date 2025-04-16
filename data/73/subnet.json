@@ -2,13 +2,22 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "f(x)InTegral",
-  "github": [],
+  "name": "Merit",
+  "github": ["https://github.com/fx-integral/merit"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
   "bittensor_discord_id": "1351969903132938302",
   "team": "",
   "summary": "",
-  "websites": []
+  "websites": [
+    {
+      "label": "discord",
+      "url": "https://discord.gg/m9J8QTf5JT"
+    },
+    {
+      "label": "twitter",
+      "url": "https://discord.gg/m9J8QTf5JT"
+    }
+  ]
 }
