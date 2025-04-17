@@ -2515,7 +2515,12 @@
         "bittensor_discord_id": "1342559689690583202",
         "team": "",
         "summary": "",
-        "websites": [],
+        "websites": [
+            {
+                "label": "discord",
+                "url": "https://discord.gg/Cn5VcGEb"
+            }
+        ],
         "subnet_id": 85
     },
     {
