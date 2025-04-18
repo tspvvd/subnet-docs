@@ -2519,6 +2519,14 @@
             {
                 "label": "discord",
                 "url": "https://discord.gg/Cn5VcGEb"
+            },
+            {
+                "label": "website",
+                "url": "https://vidaio.io"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/vidaio_"
             }
         ],
         "subnet_id": 85
