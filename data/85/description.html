@@ -1,0 +1,62 @@
+<h2 id="1-introduction">1. Introduction</h2>
+<p>
+  Vidaio&#39;s mission is to democratise video enhancement through
+  decentralisation, artificial intelligence, and blockchain technology.
+  Leveraging the Bittensor ecosystem, Vidaio provides creators, businesses, and
+  developers with scalable, affordable, and high-quality video upscaling
+  solutions, while ensuring full ownership and control over their content.
+</p>
+<h2 id="2-subnet-architecture">2. Subnet Architecture</h2>
+<h3 id="2-1-overview">2.1 Overview</h3>
+<ul>
+  <li>
+    <strong>Miners</strong>: Handle video upscaling tasks and optimise models to
+    ensure high-quality outputs.
+  </li>
+  <li>
+    <strong>Validators</strong>: Assess miner performance using predefined
+    metrics to maintain network integrity.
+  </li>
+</ul>
+<h3 id="2-2-miners">2.2 Miners</h3>
+<p>
+  Miners enhance video quality using AI-driven upscaling techniques. They can:
+</p>
+<ul>
+  <li>
+    Optimise open-source models or develop proprietary ones for superior
+    results.
+  </li>
+  <li>Handle video upscaling requests from validators and end-users.</li>
+</ul>
+<h3 id="2-3-validators">2.3 Validators</h3>
+<p>
+  Validators ensure miners deliver consistent, high-quality results by
+  evaluating performance through synthetic and organic queries.
+</p>
+<h3 id="2-4-synapses">2.4 Synapses</h3>
+<h4 id="2-4-1-synthetic-query">2.4.1 Synthetic Query</h4>
+<p>Validators benchmark miner performance using controlled datasets:</p>
+<ul>
+  <li>Downscale a high-resolution video to low-resolution.</li>
+  <li><p>Miners upscale the low-resolution video back to high.</p></li>
+  <li>
+    <p>Validators assess the upscaled output using metrics VMAF and PieAPP.</p>
+  </li>
+</ul>
+<h4 id="2-4-2-organic-query">2.4.2 Organic Query</h4>
+<p>Real-world video data uploaded by users is processed as follows:</p>
+<ul>
+  <li>Videos are chunked and queued for miners.</li>
+  <li>Miners process and upscale the chunks.</li>
+  <li>Results are aggregated and delivered back to users.</li>
+</ul>
+<h3 id="2-5-incentive-mechanism">2.5 Incentive mechanism</h3>
+<ul>
+  <li>
+    <a
+      href="https://github.com/vidaio-subnet/vidaio-subnet/blob/main/docs/incentive_mechanism.md"
+      >Incetive Mechanism Guide</a
+    >
+  </li>
+</ul>
