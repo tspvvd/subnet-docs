@@ -2,13 +2,30 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
+  "name": "Bitcast",
   "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/93/v1.jpg",
   "description": "",
   "bittensor_discord_id": "1362489640841380045",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "The Decentralized Creators Economy Powered by Bittensor",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/Bitcast_network"
+    },
+    {
+      "label": "website",
+      "url": "https://www.bitcast.network"
+    },
+    {
+      "label": "whitepaper",
+      "url": "https://www.bitcast.network/white-paper"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://dashboard.bitcast.network/"
+    }
+  ]
 }

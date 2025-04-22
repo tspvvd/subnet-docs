@@ -2,13 +2,26 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "Tensorprox",
+  "github": ["https://github.com/shugo-labs/tensorprox"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "image_url": "https://backprop.finance/assets/subnet-logos/91/v1.jpg",
+  "description": "description.html",
   "bittensor_discord_id": "1361439346154016900",
-  "team": "",
-  "summary": "",
-  "websites": []
+  "team": "Shugo LTD",
+  "summary": "The Incentivized DDoS Scrubbing Center",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/shugoio"
+    },
+    {
+      "label": "website",
+      "url": "https://shugo.io"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://dashprox.com"
+    }
+  ]
 }
