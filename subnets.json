@@ -2642,15 +2642,30 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "Tensorprox",
+        "github": [
+            "https://github.com/shugo-labs/tensorprox"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/91/v1.jpg",
+        "description": "description.html",
         "bittensor_discord_id": "1361439346154016900",
-        "team": "",
-        "summary": "",
-        "websites": [],
+        "team": "Shugo LTD",
+        "summary": "The Incentivized DDoS Scrubbing Center",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/shugoio"
+            },
+            {
+                "label": "website",
+                "url": "https://shugo.io"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://dashprox.com"
+            }
+        ],
         "subnet_id": 91
     },
     {
@@ -2672,15 +2687,73 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
+        "name": "Bitcast",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/93/v1.jpg",
+        "description": "",
+        "bittensor_discord_id": "1362489640841380045",
+        "team": "",
+        "summary": "The Decentralized Creators Economy Powered by Bittensor",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/Bitcast_network"
+            },
+            {
+                "label": "website",
+                "url": "https://www.bitcast.network"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://www.bitcast.network/white-paper"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://dashboard.bitcast.network/"
+            }
+        ],
+        "subnet_id": 93
+    },
+    {
+        "$schema": "../../schema.json",
+        "bittensor_id": "",
+        "letter": "",
+        "name": "Eastworld",
+        "github": [
+            "https://github.com/Eastworld-AI/eastworld-subnet"
+        ],
+        "hw_requirements": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/94/v1.jpg",
+        "description": "description.html",
+        "bittensor_discord_id": "1343988268630409226",
+        "team": "Eastworld AI",
+        "summary": "Next-Generation Gyms for Next-Generation AI Agents, on Bittensor",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/Eastworld_AI"
+            },
+            {
+                "label": "website",
+                "url": "https://eastworld.ai"
+            }
+        ],
+        "subnet_id": 94
+    },
+    {
+        "$schema": "../../schema.json",
+        "bittensor_id": "",
+        "letter": "",
         "name": "",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
-        "bittensor_discord_id": "1362489640841380045",
+        "bittensor_discord_id": "",
         "team": "",
         "summary": "",
         "websites": [],
-        "subnet_id": 93
+        "subnet_id": 95
     }
 ]
