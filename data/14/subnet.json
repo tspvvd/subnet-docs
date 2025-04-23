@@ -2,27 +2,19 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Vector Store",
-  "github": ["https://github.com/vector-pool/vector-store"],
+  "name": "TAO Hash",
+  "github": ["https://github.com/latent-to/taohash"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/14/v1.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
   "bittensor_discord_id": "1310625466411122789",
   "team": "",
-  "summary": "The VectorStore Subnet is engineered to enhance the efficiency of text embedding and storage, enabling seamless processing of queries from validators to pinpoint the most relevant results based on pre-computed embeddings.",
-  "categories": ["Storage"],
+  "summary": "The first and leading subnet for decentralizing PoW (proof-of-work) mining hashrate, rental and exchange. Validators receive hashrate in exchange for weights, and miners speculate on hashrate, hashprice, and Alpha emissions.",
+  "categories": ["Mining"],
   "websites": [
     {
-      "label": "discord",
-      "url": "https://discord.gg/uzfayj2RRD"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://tensorpool.net/"
-    },
-    {
-      "label": "whitepaper",
-      "url": "https://docs.google.com/document/d/1aYNFSXnlQSf4eN9Pxy4U0GS4rbbcJ6An1XaNm6SnzD0"
+      "label": "twitter",
+      "url": "https://x.com/TAOHash"
     }
   ]
 }
