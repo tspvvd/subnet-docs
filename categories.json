@@ -1,4 +1,4 @@
-{ 
+{
   "categories": [
     {
       "name": "Compute",
@@ -26,6 +26,10 @@
     },
     {
       "name": "DeFi",
+      "description": ""
+    },
+    {
+      "name": "Mining",
       "description": ""
     },
     {
