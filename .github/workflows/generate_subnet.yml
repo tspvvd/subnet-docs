@@ -4,9 +4,11 @@ on:
   push:
     paths:
       - "data/**"
+      - "categories.json"
   pull_request:
     paths:
       - "data/**"
+      - "categories.json"
 
 permissions:
   contents: write
