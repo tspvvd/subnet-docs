@@ -2101,7 +2101,7 @@
         "team": "",
         "summary": "FakeNews is subnet, dedicated to combating misinformation by providing real-time fake news detection and advanced fact-checking capabilities. This subnet aims to deliver the highest possible accuracy, surpassing traditional solutions\u2014even for real-time verifications. Our vision is to create the world\u2019s most trusted source for news and fact verification, ensuring every user can rely on timely and accurate insights with help and power of decentralized AI community.",
         "categories": [
-            "Deepfake Detection"
+            "DeepFake Detection"
         ],
         "websites": [],
         "subnet_id": 66
